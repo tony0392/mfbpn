@@ -568,6 +568,7 @@ Fork from TopFreeProxies.
     trojan://6b7a5118-b657-3933-9601-3b54547e183b@gy.58n.net:20141?allowInsecure=1&sni=z141.hongkongnode.top#TG%E9%A2%91%E9%81%93%40mfbpn-0536-CN
     trojan://6b7a5118-b657-3933-9601-3b54547e183b@gy.58n.net:20142?allowInsecure=1&sni=z142.hongkongnode.top#TG%E9%A2%91%E9%81%93%40mfbpn-0537-CN
     trojan://6b7a5118-b657-3933-9601-3b54547e183b@gy.58n.net:20059?allowInsecure=1&sni=x59.flybar.work#TG%E9%A2%91%E9%81%93%40mfbpn-0538-CN
+    trojan://6b7a5118-b657-3933-9601-3b54547e183b@gy.58n.net:20071?allowInsecure=1&sni=x71.flybar.work#TG%E9%A2%91%E9%81%93%40mfbpn-0539-CN
     trojan://6b7a5118-b657-3933-9601-3b54547e183b@gy.58n.net:20076?allowInsecure=1&sni=x76.flybar.work#TG%E9%A2%91%E9%81%93%40mfbpn-0540-CN
     trojan://6b7a5118-b657-3933-9601-3b54547e183b@gy.58n.net:20299?allowInsecure=1&sni=x299.flybar.work#TG%E9%A2%91%E9%81%93%40mfbpn-0541-CN
     trojan://6b7a5118-b657-3933-9601-3b54547e183b@gy.58n.net:17806?allowInsecure=1&sni=x65.flybar.work#TG%E9%A2%91%E9%81%93%40mfbpn-0542-CN
@@ -579,7 +580,6 @@ Fork from TopFreeProxies.
     trojan://6b7a5118-b657-3933-9601-3b54547e183b@gy.58n.net:20302?allowInsecure=1&sni=z302.hongkongnode.top#TG%E9%A2%91%E9%81%93%40mfbpn-0548-CN
     trojan://6b7a5118-b657-3933-9601-3b54547e183b@gy.58n.net:20303?allowInsecure=1&sni=z303.hongkongnode.top#TG%E9%A2%91%E9%81%93%40mfbpn-0549-CN
     trojan://6b7a5118-b657-3933-9601-3b54547e183b@gy.58n.net:20304?allowInsecure=1&sni=z304.hongkongnode.top#TG%E9%A2%91%E9%81%93%40mfbpn-0550-CN
-    trojan://6b7a5118-b657-3933-9601-3b54547e183b@gy.58n.net:20305?allowInsecure=1&sni=z305.hongkongnode.top#TG%E9%A2%91%E9%81%93%40mfbpn-0551-CN
     trojan://6b7a5118-b657-3933-9601-3b54547e183b@gy.58n.net:20306?allowInsecure=1&sni=z306.hongkongnode.top#TG%E9%A2%91%E9%81%93%40mfbpn-0552-CN
     trojan://7e1ce608-96cf-3135-b634-085042f53fb6@fkvip101.qlgq.fun:11789?allowInsecure=1&sni=fkvip101.qlgq.fun#TG%E9%A2%91%E9%81%93%40mfbpn-0651-DE
     trojan://7e1ce608-96cf-3135-b634-085042f53fb6@fkvip101.qlgq.fun:21789?allowInsecure=1&sni=fkvip101.qlgq.fun#TG%E9%A2%91%E9%81%93%40mfbpn-0652-DE
@@ -985,11 +985,11 @@ Fork from TopFreeProxies.
 </details>
 
 ### 所有节点
-合并节点总数: `1052`
+合并节点总数: `1081`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1052`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1081`
 
 
 ## 仓库声明
