@@ -875,7 +875,6 @@ Fork from TopFreeProxies.
     trojan://2e660d96-f2d2-43c0-aa62-bf92edbac0cf@sg07.421421.xyz:20230?allowInsecure=1&sni=421421.xyz#TG%E9%A2%91%E9%81%93%40mfbpn-0943-SG
     ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@167.88.61.235:9102#TG%E9%A2%91%E9%81%93%40mfbpn-0944-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.206.232.169:443#TG%E9%A2%91%E9%81%93%40mfbpn-0945-JP
-    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.42.155.81:443#TG%E9%A2%91%E9%81%93%40mfbpn-0946-US
     ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@167.88.61.235:6679#TG%E9%A2%91%E9%81%93%40mfbpn-0947-US
     ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@167.88.61.235:8882#TG%E9%A2%91%E9%81%93%40mfbpn-0948-US
     ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.61.235:443#TG%E9%A2%91%E9%81%93%40mfbpn-0949-US
@@ -922,6 +921,7 @@ Fork from TopFreeProxies.
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5b09UNnRYUDVMZE15eVU1SVFEY0du@13.79.72.88:21190#TG%E9%A2%91%E9%81%93%40mfbpn-0991-IE
     trojan://telegram-id-privatevpns@3.125.77.60:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0992-DE
     trojan://gkviEOYc@223.113.54.154:23621?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-0993-CN
+    ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.120:3306#TG%E9%A2%91%E9%81%93%40mfbpn-0994-US
     trojan://telegram-id-directvpn@18.132.156.233:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0995-GB
     trojan://ztqHz8dVyQag@3.123.32.138:16950?allowInsecure=1&sni=appsvs.shop#TG%E9%A2%91%E9%81%93%40mfbpn-0996-DE
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDk5Ny1DTiIsImFkZCI6IjEyMC4yMzIuMjQwLjU2IiwicG9ydCI6IjE2OTI4IiwidHlwZSI6Im5vbmUiLCJpZCI6IjVmNmIzYzNmLWIwYTgtMzNmNS05NWM2LTM3MWY4YzZhZjk3MyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjJyYXkiLCJob3N0IjoiIiwidGxzIjoiIn0=
