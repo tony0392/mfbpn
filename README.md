@@ -26,7 +26,7 @@ Fork from TopFreeProxies.
 
 ## 节点信息
 ### 高速节点
-高速节点数量: `1066`
+高速节点数量: `1065`
 <details>
   <summary>展开复制节点</summary>
 
@@ -57,7 +57,6 @@ Fork from TopFreeProxies.
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAyNC1VUyIsImFkZCI6IjUxLjgxLjIyMy4xOSIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiYzAxNTY0NTEtNGVmYi00NWUyLTg0ZmMtOGQzMTVjNDY1MGRiIiwiYWlkIjoiMzIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAyNS1VUyIsImFkZCI6IjUxLjgxLjIyMy4xMCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiYzAxNTY0NTEtNGVmYi00NWUyLTg0ZmMtOGQzMTVjNDY1MGRiIiwiYWlkIjoiMzIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAyNi1VUyIsImFkZCI6IjUxLjgxLjIyMy4xMCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiYzAxNTY0NTEtNGVmYi00NWUyLTg0ZmMtOGQzMTVjNDY1MGRiIiwiYWlkIjoiMzIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
-    trojan://2fbaab98-e654-44db-90c1-995f234793af@3.39.235.8:28000?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-0027-KR
     trojan://2fbaab98-e654-44db-90c1-995f234793af@3.35.48.120:28000?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-0028-KR
     trojan://2fbaab98-e654-44db-90c1-995f234793af@3.35.156.0:28000?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-0029-KR
     trojan://2fbaab98-e654-44db-90c1-995f234793af@23.224.33.112:28000?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-0030-US
@@ -1094,7 +1093,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.38.251.211:443#TG%E9%A2%91%E9%81%93%40mfbpn-1163-KR
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.202.40.133:443#TG%E9%A2%91%E9%81%93%40mfbpn-1164-KR
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.203.126.152:443#TG%E9%A2%91%E9%81%93%40mfbpn-1165-KR
-    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.202.43.179:443#TG%E9%A2%91%E9%81%93%40mfbpn-1166-KRss%2F%2FYWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU%4052.42.155.81443%23TG%E9%A2%91%E9%81%93%40mfbpn-0946-US
+    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.202.43.179:443#TG%E9%A2%91%E9%81%93%40mfbpn-1166-KR
     
 
 
