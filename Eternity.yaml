@@ -509,7 +509,7 @@ proxies:
   - {name: TG频道@mfbpn-0454-JP, server: 52.198.230.68, port: 443, type: trojan, password: 859258b9-5368-3929-9977-c285a555c4fb, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0455-JP, server: 35.75.8.142, port: 443, type: trojan, password: 859258b9-5368-3929-9977-c285a555c4fb, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0456-US, server: 34.214.184.190, port: 443, type: trojan, password: 859258b9-5368-3929-9977-c285a555c4fb, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-  - {name: TG频道@mfbpn-0457-US, server: 103.136.185.27, port: 5514, type: trojan, password: 859258b9-5368-3929-9977-c285a555c4fb, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+  - {name: TG频道@mfbpn-0458-US, server: 103.136.185.28, port: 3504, type: trojan, password: 859258b9-5368-3929-9977-c285a555c4fb, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0459-RELAY, server: 104.20.54.235, port: 8880, type: vmess, uuid: a4df2c0d-1a6c-327d-aab3-f0f66b1a44ff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /db00104.20.54.235}, udp: true}
   - {name: TG频道@mfbpn-0460-RELAY, server: 104.21.10.71, port: 8080, type: vmess, uuid: a4df2c0d-1a6c-327d-aab3-f0f66b1a44ff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.10.71}, udp: true}
   - {name: TG频道@mfbpn-0461-RELAY, server: 172.64.13.19, port: 8880, type: vmess, uuid: a4df2c0d-1a6c-327d-aab3-f0f66b1a44ff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.13.19}, udp: true}
@@ -1155,7 +1155,7 @@ proxies:
   - {name: TG频道@mfbpn-1202-KR, server: 43.202.40.133, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: TG频道@mfbpn-1203-KR, server: 43.201.17.220, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: TG频道@mfbpn-1204-KR, server: 43.201.254.211, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: "TG频道@mfbpn-1205-KRtrojan//859258b9-5368-3929-9977-c285a555c4fb@103.136.185.283504?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG频道@mfbpn-0458-US", server: 43.202.43.179, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: "TG频道@mfbpn-1205-KRtrojan//859258b9-5368-3929-9977-c285a555c4fb@103.136.185.275514?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG频道@mfbpn-0457-US", server: 43.202.43.179, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
 proxy-groups:
   - name: 节点选择
     type: select
@@ -1622,7 +1622,7 @@ proxy-groups:
       - TG频道@mfbpn-0454-JP
       - TG频道@mfbpn-0455-JP
       - TG频道@mfbpn-0456-US
-      - TG频道@mfbpn-0457-US
+      - TG频道@mfbpn-0458-US
       - TG频道@mfbpn-0459-RELAY
       - TG频道@mfbpn-0460-RELAY
       - TG频道@mfbpn-0461-RELAY
@@ -2268,7 +2268,7 @@ proxy-groups:
       - TG频道@mfbpn-1202-KR
       - TG频道@mfbpn-1203-KR
       - TG频道@mfbpn-1204-KR
-      - TG频道@mfbpn-1205-KRtrojan//859258b9-5368-3929-9977-c285a555c4fb@103.136.185.283504?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG频道@mfbpn-0458-US
+      - TG频道@mfbpn-1205-KRtrojan//859258b9-5368-3929-9977-c285a555c4fb@103.136.185.275514?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG频道@mfbpn-0457-US
   - name: 自动选择
     type: url-test
     url: https://www.pornhub.com
@@ -2602,7 +2602,6 @@ proxy-groups:
       - TG频道@mfbpn-0442-NOWHERE
       - TG频道@mfbpn-0447-CN
       - TG频道@mfbpn-0452-CN
-      - TG频道@mfbpn-0457-US
       - TG频道@mfbpn-0462-RELAY
       - TG频道@mfbpn-0467-HK
       - TG频道@mfbpn-0472-HK
@@ -2732,7 +2731,7 @@ proxy-groups:
       - TG频道@mfbpn-1192-FI
       - TG频道@mfbpn-1197-NL
       - TG频道@mfbpn-1202-KR
-      - TG频道@mfbpn-1205-KRtrojan//859258b9-5368-3929-9977-c285a555c4fb@103.136.185.283504?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG频道@mfbpn-0458-US
+      - TG频道@mfbpn-1205-KRtrojan//859258b9-5368-3929-9977-c285a555c4fb@103.136.185.275514?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG频道@mfbpn-0457-US
   - name: 测速3分组
     type: url-test
     url: https://www.gstatic.com/generate_204
@@ -2829,6 +2828,7 @@ proxy-groups:
       - TG频道@mfbpn-0443-NOWHERE
       - TG频道@mfbpn-0448-CN
       - TG频道@mfbpn-0453-CN
+      - TG频道@mfbpn-0458-US
       - TG频道@mfbpn-0463-RELAY
       - TG频道@mfbpn-0468-HK
       - TG频道@mfbpn-0473-HK
@@ -2956,7 +2956,7 @@ proxy-groups:
       - TG频道@mfbpn-1193-GB
       - TG频道@mfbpn-1198-CN
       - TG频道@mfbpn-1203-KR
-      - TG频道@mfbpn-1205-KRtrojan//859258b9-5368-3929-9977-c285a555c4fb@103.136.185.283504?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG频道@mfbpn-0458-US
+      - TG频道@mfbpn-1205-KRtrojan//859258b9-5368-3929-9977-c285a555c4fb@103.136.185.275514?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG频道@mfbpn-0457-US
   - name: 测速4分组
     type: url-test
     url: https://www.gstatic.com/generate_204
@@ -3183,7 +3183,7 @@ proxy-groups:
       - TG频道@mfbpn-1194-FR
       - TG频道@mfbpn-1199-AL
       - TG频道@mfbpn-1204-KR
-      - TG频道@mfbpn-1205-KRtrojan//859258b9-5368-3929-9977-c285a555c4fb@103.136.185.283504?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG频道@mfbpn-0458-US
+      - TG频道@mfbpn-1205-KRtrojan//859258b9-5368-3929-9977-c285a555c4fb@103.136.185.275514?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG频道@mfbpn-0457-US
   - name: 测速5分组
     type: url-test
     url: https://www.gstatic.com/generate_204
@@ -3409,7 +3409,7 @@ proxy-groups:
       - TG频道@mfbpn-1190-CN
       - TG频道@mfbpn-1195-NL
       - TG频道@mfbpn-1200-KR
-      - TG频道@mfbpn-1205-KRtrojan//859258b9-5368-3929-9977-c285a555c4fb@103.136.185.283504?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG频道@mfbpn-0458-US
+      - TG频道@mfbpn-1205-KRtrojan//859258b9-5368-3929-9977-c285a555c4fb@103.136.185.275514?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG频道@mfbpn-0457-US
   - name: 广告拦截
     type: select
     proxies:
