@@ -26,7 +26,7 @@ Fork from TopFreeProxies.
 
 ## 节点信息
 ### 高速节点
-高速节点数量: `1076`
+高速节点数量: `1075`
 <details>
   <summary>展开复制节点</summary>
 
@@ -46,7 +46,6 @@ Fork from TopFreeProxies.
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTEwMDYxNS1lNjljLTRjNDMtYjllYi0yZThiNmE4YjVkOGQ@iiiii.3sx.xyz:11002#TG%E9%A2%91%E9%81%93%40mfbpn-0013-NOWHERE
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTEwMDYxNS1lNjljLTRjNDMtYjllYi0yZThiNmE4YjVkOGQ@cmb.3sx.xyz:21005#TG%E9%A2%91%E9%81%93%40mfbpn-0014-CN
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTEwMDYxNS1lNjljLTRjNDMtYjllYi0yZThiNmE4YjVkOGQ@cm.3sx.xyz:41001#TG%E9%A2%91%E9%81%93%40mfbpn-0015-NOWHERE
-    vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAxNi1VUyIsImFkZCI6ImNodW5jaHVhbi0wMi5haWthbGEuc2hvcCIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiJhNmQyODM4Yi0xMDI3LTQ4MDAtYjY2NC0xNjg0MGQxNTZkNjIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJjaHVuY2h1YW4tMDIuYWlrYWxhLnNob3AiLCJ0bHMiOiIifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAxNy1OT1dIRVJFIiwiYWRkIjoienpnei5oNWdhbWUueHl6IiwicG9ydCI6IjIzMzY5IiwidHlwZSI6Im5vbmUiLCJpZCI6IjgwNWQ3N2FiLTI1ZmEtMzg1My1hYmQ1LTI1Njg2YWJjZjg3NyIsImFpZCI6IjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaDVnYW1lIiwiaG9zdCI6Inp6Z3ouaDVnYW1lLnh5eiIsInRscyI6IiJ9
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTEwMDYxNS1lNjljLTRjNDMtYjllYi0yZThiNmE4YjVkOGQ@cmb.3sx.xyz:21003#TG%E9%A2%91%E9%81%93%40mfbpn-0018-CN
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTEwMDYxNS1lNjljLTRjNDMtYjllYi0yZThiNmE4YjVkOGQ@cmb.3sx.xyz:31001#TG%E9%A2%91%E9%81%93%40mfbpn-0019-CN
@@ -792,7 +791,6 @@ Fork from TopFreeProxies.
     trojan://2e660d96-f2d2-43c0-aa62-bf92edbac0cf@us04.421421.xyz:20230?allowInsecure=1&sni=421421.xyz#TG%E9%A2%91%E9%81%93%40mfbpn-0858-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@57.180.37.197:443#TG%E9%A2%91%E9%81%93%40mfbpn-0859-JP
     trojan://telegram-id-privatevpns@18.199.195.229:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0860-DE
-    ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.194:443#TG%E9%A2%91%E9%81%93%40mfbpn-0861-GB
     trojan://telegram-id-privatevpns@3.11.109.112:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0862-GB
     trojan://F9D3CpxDl8a3ezeZNSBSAa2RcZNSBSAa2RcY8IyagD67Yn3S30ZTElRj4wFX5On3S30ZT@23.106.32.171:443?allowInsecure=1&sni=scarily.golfland.club#TG%E9%A2%91%E9%81%93%40mfbpn-0863-GB
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.181.170.157:443#TG%E9%A2%91%E9%81%93%40mfbpn-0864-JP
@@ -868,6 +866,7 @@ Fork from TopFreeProxies.
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDkzNS1SRUxBWSIsImFkZCI6IjEwNC4xOS40Ny40IiwicG9ydCI6IjgwODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiYjU1MWFhMjItMjJhZi0xMWVlLWI4ZDgtZjIzYzkzMmViNjhkIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8/ZWQ9MjA0OCIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
     trojan://telegram-id-privatevpns@13.53.189.145:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0936-SE
     trojan://RmdXQRXg@223.113.54.154:20344?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-0937-CN
+    trojan://telegram-id-privatevpns@54.74.213.241:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0938-IE
     trojan://FcYCR32n8lEy3aaXTSAYzl3DNXTSAYzl3DNqZ58SDgFBOxeC6Cw47uSZy3Aje0xeC6Cw4@23.106.35.90:28331?allowInsecure=1&sni=hovland.golfland.club#TG%E9%A2%91%E9%81%93%40mfbpn-0939-GB
     trojan://gzDKwjTOL90I@3.36.86.196:15069?allowInsecure=1&sni=appsvs.shop#TG%E9%A2%91%E9%81%93%40mfbpn-0940-KR
     trojan://qj1Dz1CJmFQRhWr1SP80aA@104.16.1.10:443?allowInsecure=1&sni=cdn-21.gsmxreality.com#TG%E9%A2%91%E9%81%93%40mfbpn-0941-RELAY
@@ -979,7 +978,7 @@ Fork from TopFreeProxies.
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTA0Ny1SRUxBWSIsImFkZCI6ImJhb2Jhb2ppY2hhbmcuYmJqYy54eXoiLCJwb3J0IjoiMjA1MiIsInR5cGUiOiJub25lIiwiaWQiOiJhYTk0ZDVhZC1jNGFmLTRhZjMtYWJmOS1lZGQwZWRlNjMyMmYiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4IiwiaG9zdCI6ImJhb2Jhb2ppY2hhbmcuYmJqYy54eXoiLCJ0bHMiOiIifQ==
     ss://YWVzLTEyOC1nY206YWI2ZWM0ODQtMzBkOC01YThjLTlkN2EtNjU4OTJiMGM3Y2U4@usm1.cdn.housenetworkmp3.xyz:47165#TG%E9%A2%91%E9%81%93%40mfbpn-1048-CN
     trojan://NISHIKUITAN222@8.219.144.168:443?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-1049-SG
-    ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.157.40.102:8000#TG%E9%A2%91%E9%81%93%40mfbpn-1050-UStrojan%2F%2Ftelegram-id-privatevpns%4054.74.213.24122222%3FallowInsecure%3D1%26sni%3Dtrojan.burgerip.co.uk%23TG%E9%A2%91%E9%81%93%40mfbpn-0938-IE
+    ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.157.40.102:8000#TG%E9%A2%91%E9%81%93%40mfbpn-1050-US
     trojan://NISHIKUITAN222@47.74.4.97:443?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-1051-JP
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTA1Mi1DTiIsImFkZCI6IjEyMC4yMzIuMjQwLjU2IiwicG9ydCI6IjE2OTI4IiwidHlwZSI6Im5vbmUiLCJpZCI6IjVmNmIzYzNmLWIwYTgtMzNmNS05NWM2LTM3MWY4YzZhZjk3MyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjJyYXkiLCJob3N0IjoiIiwidGxzIjoiIn0=
     trojan://NISHIKUITAN222@35.236.55.171:443?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-1053-GOOGLE
