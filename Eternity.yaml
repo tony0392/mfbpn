@@ -766,6 +766,7 @@ proxies:
   - {name: TG频道@mfbpn-0811-US, server: 169.197.142.216, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
   - {name: TG频道@mfbpn-0812-JP, server: jp-am48-6.eqnode.net, port: 8081, type: ssr, cipher: aes-256-cfb, password: eAokbaDN6, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: ",:\x16\x13##\x16@...:#%%%%%%%%%\x12%^..%", obfs-param: "", udp: true}
   - {name: TG频道@mfbpn-0813-US, server: us-am3.eqnode.net, port: 8081, type: ssr, cipher: aes-256-cfb, password: fou8MBGij, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: "", udp: true}
+  - {name: TG频道@mfbpn-0814-US, server: 107.173.146.129, port: 80, type: vmess, uuid: 5820093a-bb7d-4e15-8575-1a529f2d8282, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
   - {name: TG频道@mfbpn-0815-US, server: 23.105.220.235, port: 9306, type: vmess, uuid: 33e3f07a-b82b-4629-bd6a-e720da213afd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yezhu}, udp: true}
   - {name: TG频道@mfbpn-0816-US, server: 107.167.11.199, port: 30000, type: vmess, uuid: 7b0b0043-9110-45d2-9024-659557c609df, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/340434130032}, udp: true}
   - {name: TG频道@mfbpn-0817-US, server: agroup.node5.t.nodelist-gfwairport2.top, port: 50001, type: trojan, password: 4a67f957-d53d-486d-8295-1add754fc16d, skip-cert-verify: true, udp: true}
@@ -1231,7 +1232,6 @@ proxies:
   - {name: TG频道@mfbpn-1281-US, server: 38.86.135.31, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
   - {name: TG频道@mfbpn-1282-RELAY, server: 104.16.60.8, port: 2095, type: vmess, uuid: f584de15-2034-4170-a723-f48c2bae5e0f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /afrhms16v.bestxray.buzz/linkws}, udp: true}
   - {name: TG频道@mfbpn-1283-RELAY, server: 104.16.67.38, port: 8080, type: vmess, uuid: edbb1059-1633-4271-b66e-ed4fba47a1bf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /linde06.indiavideo.sbs/linkws}, udp: true}
-  - {name: TG频道@mfbpn-1284-US, server: 107.173.146.129, port: 80, type: vmess, uuid: 5820093a-bb7d-4e15-8575-1a529f2d8282, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
   - {name: TG频道@mfbpn-1285-SG, server: 206.238.236.36, port: 2052, type: vmess, uuid: f584de15-2034-4170-a723-f48c2bae5e0f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /afrhms16v.bestxray.buzz/linkws}, udp: true}
   - {name: TG频道@mfbpn-1286-RELAY, server: russia.com, port: 8080, type: vmess, uuid: b7c56170-edb4-4c4a-bb64-ed5ef40b8739, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: russia.com}}, udp: true}
   - {name: TG频道@mfbpn-1287-CN, server: yd.cfyun.top, port: 10254, type: ss, cipher: aes-128-gcm, password: d7fcff5d-e3c6-4d26-aa0a-2af2ab876757, udp: true}
@@ -1973,6 +1973,7 @@ proxy-groups:
       - TG频道@mfbpn-0811-US
       - TG频道@mfbpn-0812-JP
       - TG频道@mfbpn-0813-US
+      - TG频道@mfbpn-0814-US
       - TG频道@mfbpn-0815-US
       - TG频道@mfbpn-0816-US
       - TG频道@mfbpn-0817-US
@@ -2438,7 +2439,6 @@ proxy-groups:
       - TG频道@mfbpn-1281-US
       - TG频道@mfbpn-1282-RELAY
       - TG频道@mfbpn-1283-RELAY
-      - TG频道@mfbpn-1284-US
       - TG频道@mfbpn-1285-SG
       - TG频道@mfbpn-1286-RELAY
       - TG频道@mfbpn-1287-CN
@@ -3346,6 +3346,7 @@ proxy-groups:
       - TG频道@mfbpn-0799-RELAY
       - TG频道@mfbpn-0804-RELAY
       - TG频道@mfbpn-0809-RELAY
+      - TG频道@mfbpn-0814-US
       - TG频道@mfbpn-0819-IE
       - TG频道@mfbpn-0824-JP
       - TG频道@mfbpn-0829-RELAY
@@ -3439,7 +3440,6 @@ proxy-groups:
       - TG频道@mfbpn-1269-RELAY
       - TG频道@mfbpn-1274-IE
       - TG频道@mfbpn-1279-SE
-      - TG频道@mfbpn-1284-US
       - TG频道@mfbpn-1289-US
       - TG频道@mfbpn-1294-RELAY
       - TG频道@mfbpn-1299-CN
