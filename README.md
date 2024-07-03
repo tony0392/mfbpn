@@ -26,7 +26,7 @@ Fork from TopFreeProxies.
 
 ## 节点信息
 ### 高速节点
-高速节点数量: `1199`
+高速节点数量: `1198`
 <details>
   <summary>展开复制节点</summary>
 
@@ -37,7 +37,6 @@ Fork from TopFreeProxies.
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwNC1SRUxBWSIsImFkZCI6IjE3Mi42NC4xOTkuMjUzIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiIyYWQ2ZTE2Zi0wOGU5LTQ4MmQtYWU3YS03MGQxYjJlYzcxNTkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL1ZtZXNzIiwiaG9zdCI6IiIsInRscyI6IiJ9
     trojan://c06bb8e0-7989-4885-9560-df320b7ce1d3@rn.tianxie.jp.eu.org:443?allowInsecure=1&sni=rn.tianxie.jp.eu.org#TG%E9%A2%91%E9%81%93%40mfbpn-0005-NOWHERE
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwNi1TRyIsImFkZCI6IjE1OS4yMjMuNTQuOTMiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDk3ZWU3MzctN2JjMC00ZGNhLWFjZjEtODUxMzVlZDRkOTdlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
-    ss://YWVzLTI1Ni1nY206ODk5MzAxMjg@161.8.184.62:29622#TG%E9%A2%91%E9%81%93%40mfbpn-0007-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwOC1KUCIsImFkZCI6IjE1MC4yMzAuOTkuNDYiLCJwb3J0IjoiMjIyMjIiLCJ0eXBlIjoibm9uZSIsImlkIjoiZTZjNTVkMzYtMDIyYy00ZWJjLWI5YzItZTEyMjBhNzE4NGY0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
     trojan://eecb88a3-d8c1-4fc3-bea0-8a4f13aa42be@usfree1.jiantian.xyz:23425?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-0009-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAxMC1OT1dIRVJFIiwiYWRkIjoidjUudGdmYWthLmNvbSIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNjFjNGM0NWUtZDVjOC00N2VkLWFlMjgtY2VlOTVmMDliM2I3IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcGkvdjMvZG93bmxvYWQuZ2V0RmlsZSIsImhvc3QiOiJ2NS50Z2Zha2EuY29tIiwidGxzIjoiIn0=
