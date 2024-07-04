@@ -658,6 +658,7 @@ proxies:
   - {name: TG频道@mfbpn-0705-US, server: 205.134.180.137, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: g13S7doXar0A, udp: true}
   - {name: TG频道@mfbpn-0706-KR, server: 3.39.251.119, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: TG频道@mfbpn-0708-DE, server: 18.196.46.137, port: 12815, type: trojan, password: Ur6g04fJfBpE, sni: appsvs.shop, skip-cert-verify: true, udp: true}
+  - {name: TG频道@mfbpn-0709-AT, server: 95.164.9.196, port: 2053, type: trojan, password: 09191dbf-e7f7-4e7d-b405-c4785ea992bf, sni: ftp.debian.org, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0710-KR, server: 3.39.227.28, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: TG频道@mfbpn-0711-US, server: 77.83.141.171, port: 443, type: vmess, uuid: 35379219-6535-4f2e-a4fe-3e44f61e0eee, alterId: 32, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /vc}, udp: true}
   - {name: TG频道@mfbpn-0712-RELAY, server: 185.146.173.59, port: 443, type: vmess, uuid: 6c168fcc-2231-4f3b-8c1e-f6391692df4a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /link}, udp: true}
@@ -1249,7 +1250,6 @@ proxies:
   - {name: TG频道@mfbpn-1322-RELAY, server: zula.ir, port: 443, type: vmess, uuid: 251780c1-1501-43b3-be2a-d144a20d479a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /Nbs2DSTSkFW6MrrFQHeSDQ7, headers: {Host: zula.ir}}, udp: true}
   - {name: TG频道@mfbpn-1323-US, server: 38.86.135.31, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
   - {name: TG频道@mfbpn-1331-US, server: 38.95.233.222, port: 80, type: vmess, uuid: 41fcf4ae-9266-422f-f730-b1ff57bb0345, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: TG频道@mfbpn-1447-NL, server: hidd2.sassanidempire.com, port: 443, type: vmess, uuid: 19c80ce9-0935-41b9-b077-277621316a87, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /liUxUGJTGoPjd07ui73LZgwx8s, headers: {Host: hidd2.sassanidempire.com}}, udp: true}
 proxy-groups:
   - name: 节点选择
     type: select
@@ -1865,6 +1865,7 @@ proxy-groups:
       - TG频道@mfbpn-0705-US
       - TG频道@mfbpn-0706-KR
       - TG频道@mfbpn-0708-DE
+      - TG频道@mfbpn-0709-AT
       - TG频道@mfbpn-0710-KR
       - TG频道@mfbpn-0711-US
       - TG频道@mfbpn-0712-RELAY
@@ -2456,7 +2457,6 @@ proxy-groups:
       - TG频道@mfbpn-1322-RELAY
       - TG频道@mfbpn-1323-US
       - TG频道@mfbpn-1331-US
-      - TG频道@mfbpn-1447-NL
   - name: 自动选择
     type: url-test
     url: https://www.pornhub.com
@@ -2955,7 +2955,6 @@ proxy-groups:
       - TG频道@mfbpn-1312-IE
       - TG频道@mfbpn-1317-IE
       - TG频道@mfbpn-1322-RELAY
-      - TG频道@mfbpn-1447-NL
   - name: 测速3分组
     type: url-test
     url: https://www.gstatic.com/generate_204
@@ -3326,6 +3325,7 @@ proxy-groups:
       - TG频道@mfbpn-0694-RELAY
       - TG频道@mfbpn-0699-JP
       - TG频道@mfbpn-0704-RELAY
+      - TG频道@mfbpn-0709-AT
       - TG频道@mfbpn-0714-US
       - TG频道@mfbpn-0719-US
       - TG频道@mfbpn-0724-US
