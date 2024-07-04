@@ -54,6 +54,7 @@ sniffer:
     - Mijia Cloud
 proxies:
   - {name: TG频道@mfbpn-0000-SG, server: 81.90.189.23, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: TG频道@mfbpn-0004-SG, server: trojan2.udpgw.com, port: 443, type: trojan, password: 973ef350-f6a5-11ec-9274-1239d0255272, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0005-JP, server: 152.69.193.245, port: 80, type: vmess, uuid: 6697776b-d009-413b-8708-822ee2e02515, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
   - {name: TG频道@mfbpn-0006-US, server: ingress-i2.iivvppnn.info, port: 38106, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: ingress-i2.iivvppnn.info}}, udp: true}
   - {name: TG频道@mfbpn-0007-NOWHERE, server: ingress-i1.onebox6.org, port: 38701, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: ingress-i1.onebox6.org}}, udp: true}
@@ -1249,7 +1250,6 @@ proxies:
   - {name: TG频道@mfbpn-1323-US, server: 38.86.135.31, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
   - {name: TG频道@mfbpn-1326-US, server: 107.173.146.129, port: 80, type: vmess, uuid: 5820093a-bb7d-4e15-8575-1a529f2d8282, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
   - {name: TG频道@mfbpn-1331-US, server: 38.95.233.222, port: 80, type: vmess, uuid: 41fcf4ae-9266-422f-f730-b1ff57bb0345, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: TG频道@mfbpn-1447-NL, server: hidd2.sassanidempire.com, port: 443, type: vmess, uuid: 19c80ce9-0935-41b9-b077-277621316a87, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /liUxUGJTGoPjd07ui73LZgwx8s, headers: {Host: hidd2.sassanidempire.com}}, udp: true}
 proxy-groups:
   - name: 节点选择
     type: select
@@ -1261,6 +1261,7 @@ proxy-groups:
       - 测速4分组
       - 测速5分组
       - TG频道@mfbpn-0000-SG
+      - TG频道@mfbpn-0004-SG
       - TG频道@mfbpn-0005-JP
       - TG频道@mfbpn-0006-US
       - TG频道@mfbpn-0007-NOWHERE
@@ -2456,7 +2457,6 @@ proxy-groups:
       - TG频道@mfbpn-1323-US
       - TG频道@mfbpn-1326-US
       - TG频道@mfbpn-1331-US
-      - TG频道@mfbpn-1447-NL
   - name: 自动选择
     type: url-test
     url: https://www.pornhub.com
@@ -2955,7 +2955,6 @@ proxy-groups:
       - TG频道@mfbpn-1312-IE
       - TG频道@mfbpn-1317-IE
       - TG频道@mfbpn-1322-RELAY
-      - TG频道@mfbpn-1447-NL
   - name: 测速3分组
     type: url-test
     url: https://www.gstatic.com/generate_204
@@ -3205,6 +3204,7 @@ proxy-groups:
     url: https://www.gstatic.com/generate_204
     interval: 60
     proxies:
+      - TG频道@mfbpn-0004-SG
       - TG频道@mfbpn-0009-NOWHERE
       - TG频道@mfbpn-0014-ID
       - TG频道@mfbpn-0019-NOWHERE
