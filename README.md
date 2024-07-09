@@ -973,6 +973,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1nY206YTEwMjk1NTY3MTY5NTNhOQ@46.17.43.226:1956#TG%E9%A2%91%E9%81%93%40mfbpn-1042-RU
     trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@tw2.233235.xyz:777?allowInsecure=1&sni=tw2.233235.xyz#TG%E9%A2%91%E9%81%93%40mfbpn-1043-TW
     trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@tw4.233235.xyz:670?allowInsecure=1&sni=tw4.233235.xyz#TG%E9%A2%91%E9%81%93%40mfbpn-1044-TW
+    trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@2us01.233235.xyz:707?allowInsecure=1&sni=2us01.233235.xyz#TG%E9%A2%91%E9%81%93%40mfbpn-1045-US
     trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@2usmax01.170203.xyz:707?allowInsecure=1&sni=2usmax01.170203.xyz#TG%E9%A2%91%E9%81%93%40mfbpn-1046-US
     trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@tw3.233235.xyz:11125?allowInsecure=1&sni=tw3.233235.xyz#TG%E9%A2%91%E9%81%93%40mfbpn-1047-TW
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDc0NzUxNC1mYjE0LTRmMzEtODM5MC1lMWYwNDUzZWZmNmQ@jp2.mhw7e2.online:20014#TG%E9%A2%91%E9%81%93%40mfbpn-1048-CN
@@ -1014,7 +1015,6 @@ Fork from TopFreeProxies.
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTEwNi1SRUxBWSIsImFkZCI6ImNmY2RuMy5zYW5mZW5jZG45LmNvbSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI4YjAzYzg2NC0zMWUzLTRjZmItOTQ5YS0yZTdlYjEzZjY5OGQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZpZGVvL2liQ1Q2ejU1IiwiaG9zdCI6ImNmY2RuMy5zYW5mZW5jZG45LmNvbSIsInRscyI6IiJ9
     ss://YWVzLTI1Ni1jZmI6aEdrUTY5MTV0RA@59.56.77.178:15084#TG%E9%A2%91%E9%81%93%40mfbpn-1107-CN
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTEwOC1SRUxBWSIsImFkZCI6ImNkbi5hd3NjZnQuZXUub3JnIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiI3ZGNmODQxMy03ODdhLTRiNGItYmQ0MC1kYzY0NTA2ZDgyZWYiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzP2VkPTIwNDgiLCJob3N0IjoiY2RuLmF3c2NmdC5ldS5vcmciLCJ0bHMiOiJ0bHMifQ==
-    trojan://361f238c-ed2a-418d-8c1d-45d6f0e8abe2@sg2.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen:443?allowInsecure=1&sni=206.237.5.220#TG%E9%A2%91%E9%81%93%40mfbpn-1109-US
     trojan://a573aedf-1eb1-49d6-9683-4157b6ea2ca1@sg06.421421.xyz:20230?allowInsecure=1&sni=421421.xyz#TG%E9%A2%91%E9%81%93%40mfbpn-1110-SG
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTExMS1SRUxBWSIsImFkZCI6IjEwNC4xOS41MS4yMzIiLCJwb3J0IjoiMjA4NiIsInR5cGUiOiJub25lIiwiaWQiOiIyOWVlYmI2MC1iMjdiLTRhOWQtYmJhNS05NDc3NjNkOTIwNWUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiIiwidGxzIjoiIn0=
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTExMi1SRUxBWSIsImFkZCI6ImNmY2RuMS5zYW5mZW5jZG45LmNvbSIsInBvcnQiOiIyMDUyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjhiMDNjODY0LTMxZTMtNGNmYi05NDlhLTJlN2ViMTNmNjk4ZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdmlkZW8vRERDNGJ0QTh3Yy8iLCJob3N0IjoiY2ZjZG4xLnNhbmZlbmNkbjkuY29tIiwidGxzIjoiIn0=
@@ -1111,11 +1111,11 @@ Fork from TopFreeProxies.
 </details>
 
 ### 所有节点
-合并节点总数: `1180`
+合并节点总数: `1210`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1180`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1210`
 
 
 ## 仓库声明
