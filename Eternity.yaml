@@ -62,6 +62,7 @@ proxies:
   - {name: TG频道@mfbpn-0006-NOWHERE, server: in-sg-1.onebox6.org, port: 38701, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: in-sg-1.onebox6.org}}, udp: true}
   - {name: TG频道@mfbpn-0007-NOWHERE, server: ftp.cn.debian.cdnet.in, port: 8020, type: ss, cipher: aes-128-gcm, password: 18269676-71ae-476d-b6d3-26ca391424b9, udp: true}
   - {name: TG频道@mfbpn-0008-NOWHERE, server: ftp.cn.debian.cdnet.in, port: 8040, type: ss, cipher: aes-128-gcm, password: 18269676-71ae-476d-b6d3-26ca391424b9, udp: true}
+  - {name: TG频道@mfbpn-0009-KR, server: 146.56.110.129, port: 26401, type: vmess, uuid: 8906c760-4d98-4301-d84d-5b21937d7d61, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0010-GOOGLE, server: cn2.soow.win, port: 50027, type: vmess, uuid: c1d0ae9e-f08a-3f81-962d-ca19b52c760d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /video, headers: {Host: cn2.soow.win}}, udp: true}
   - {name: TG频道@mfbpn-0011-NOWHERE, server: ftp.cn.debian.cdnet.in, port: 8010, type: ss, cipher: aes-128-gcm, password: 18269676-71ae-476d-b6d3-26ca391424b9, udp: true}
   - {name: TG频道@mfbpn-0012-NOWHERE, server: ingress-i1.onebox6.org, port: 38201, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: ingress-i1.onebox6.org}}, udp: true}
@@ -979,7 +980,7 @@ proxies:
   - {name: TG频道@mfbpn-1048-RELAY, server: cfcdn1.sanfencdn9.com, port: 2052, type: vmess, uuid: c712c725-149f-414a-a684-1e17d137fe4f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /video/DDC4btA8wc/, headers: {Host: cfcdn1.sanfencdn9.com}}, udp: true}
   - {name: TG频道@mfbpn-1049-GB, server: 13.41.217.121, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-1050-GB, server: 18.134.92.166, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
-  - {name: TG频道@mfbpn-1051-KR, server: 3.39.251.119, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: TG频道@mfbpn-1051-KRss//Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdFg4ZHg4OXAxUWVOMUZadDJWUWFM@5.161.234.5562816#TG频道@mfbpn-0517-US, server: 3.39.251.119, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
 proxy-groups:
   - name: 节点选择
     type: select
@@ -999,6 +1000,7 @@ proxy-groups:
       - TG频道@mfbpn-0006-NOWHERE
       - TG频道@mfbpn-0007-NOWHERE
       - TG频道@mfbpn-0008-NOWHERE
+      - TG频道@mfbpn-0009-KR
       - TG频道@mfbpn-0010-GOOGLE
       - TG频道@mfbpn-0011-NOWHERE
       - TG频道@mfbpn-0012-NOWHERE
@@ -1916,7 +1918,7 @@ proxy-groups:
       - TG频道@mfbpn-1048-RELAY
       - TG频道@mfbpn-1049-GB
       - TG频道@mfbpn-1050-GB
-      - TG频道@mfbpn-1051-KR
+      - TG频道@mfbpn-1051-KRss//Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdFg4ZHg4OXAxUWVOMUZadDJWUWFM@5.161.234.5562816#TG频道@mfbpn-0517-US
   - name: 自动选择
     type: url-test
     url: https://www.pornhub.com
@@ -2117,7 +2119,7 @@ proxy-groups:
       - TG频道@mfbpn-1036-RELAY
       - TG频道@mfbpn-1041-RELAY
       - TG频道@mfbpn-1046-RELAY
-      - TG频道@mfbpn-1051-KR
+      - TG频道@mfbpn-1051-KRss//Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdFg4ZHg4OXAxUWVOMUZadDJWUWFM@5.161.234.5562816#TG频道@mfbpn-0517-US
   - name: 测速2分组
     type: url-test
     url: https://www.gstatic.com/generate_204
@@ -2307,6 +2309,7 @@ proxy-groups:
       - TG频道@mfbpn-1037-RELAY
       - TG频道@mfbpn-1042-RELAY
       - TG频道@mfbpn-1047-RELAY
+      - TG频道@mfbpn-1051-KRss//Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdFg4ZHg4OXAxUWVOMUZadDJWUWFM@5.161.234.5562816#TG频道@mfbpn-0517-US
   - name: 测速3分组
     type: url-test
     url: https://www.gstatic.com/generate_204
@@ -2504,6 +2507,7 @@ proxy-groups:
     interval: 60
     proxies:
       - TG频道@mfbpn-0004-NOWHERE
+      - TG频道@mfbpn-0009-KR
       - TG频道@mfbpn-0014-NOWHERE
       - TG频道@mfbpn-0019-NOWHERE
       - TG频道@mfbpn-0024-NOWHERE
