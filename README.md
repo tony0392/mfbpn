@@ -26,7 +26,7 @@ Fork from TopFreeProxies.
 
 ## 节点信息
 ### 高速节点
-高速节点数量: `1104`
+高速节点数量: `1105`
 <details>
   <summary>展开复制节点</summary>
 
@@ -46,7 +46,7 @@ Fork from TopFreeProxies.
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAxMy1OT1dIRVJFIiwiYWRkIjoic2cxLnh6ODgubWwiLCJwb3J0IjoiMTI0NjQiLCJ0eXBlIjoibm9uZSIsImlkIjoiMDlhNjJlNTQtMGY3NC00MDAyLThkNDUtNWZlNjNlNGJmMmEyIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvMTdhZjc2ZTEtYTVkNy00MWFiLWFlODctYjQ4ZjE4NTA3NWQxLXZtZXNzIiwiaG9zdCI6InhyLTEuaGVyb2t1YXBwLmNvbSIsInRscyI6IiJ9
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAxNC1JRSIsImFkZCI6InhyLTEuaGVyb2t1YXBwLmNvbSIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiMTdhZjc2ZTEtYTVkNy00MWFiLWFlODctYjQ4ZjE4NTA3NWQxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8xN2FmNzZlMS1hNWQ3LTQxYWItYWU4Ny1iNDhmMTg1MDc1ZDEtdm1lc3MiLCJob3N0IjoieHItMS5oZXJva3VhcHAuY29tIiwidGxzIjoiIn0=
     trojan://ec3e47e9-8dd7-4302-aa1a-a5658d34e931@v5.tgfaka.com:48443?allowInsecure=1&sni=v5.tgfaka.com#TG%E9%A2%91%E9%81%93%40mfbpn-0015-NOWHERE
-    ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@134.195.196.128:8080#TG%E9%A2%91%E9%81%93%40mfbpn-0016-CA
+    ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@134.195.196.128:8080#TG%E9%A2%91%E9%81%93%40mfbpn-0016-CAss%2F%2FYWVzLTEyOC1nY206c2hhZG93c29ja3M%40212.102.53.81443%23TG%E9%A2%91%E9%81%93%40mfbpn-1223-GB
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAxNy1OT1dIRVJFIiwiYWRkIjoic2cxLnh6ODgubWwiLCJwb3J0IjoiMTI0NjQiLCJ0eXBlIjoibm9uZSIsImlkIjoiMDlhNjJlNTQtMGY3NC00MDAyLThkNDUtNWZlNjNlNGJmMmEyIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6InY1LnRnZmFrYS5jb20iLCJ0bHMiOiIifQ==
     trojan://ce433528-39fa-4711-bc0d-25a5b1579574@sg-04.licom.ml:8443?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-0018-NOWHERE
     trojan://ZCESAylB2u5jga736e8CTN3DcFCAOYz0DlDyx9F3ZpXnSp3IYRa4RwOSqe8Kax@spotted.bigkangaroo.net:443?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-0019-US
@@ -396,6 +396,7 @@ Fork from TopFreeProxies.
     trojan://3fe98ac1-791b-3cfa-901c-3fbc13f79141@jpvip101.qlgq.fun:61237?allowInsecure=1&sni=jpvip101.qlgq.fun#TG%E9%A2%91%E9%81%93%40mfbpn-0363-JP
     trojan://3fe98ac1-791b-3cfa-901c-3fbc13f79141@jpvip101.qlgq.fun:61236?allowInsecure=1&sni=jpvip101.qlgq.fun#TG%E9%A2%91%E9%81%93%40mfbpn-0364-JP
     trojan://3fe98ac1-791b-3cfa-901c-3fbc13f79141@jpvip101.qlgq.fun:61235?allowInsecure=1&sni=jpvip101.qlgq.fun#TG%E9%A2%91%E9%81%93%40mfbpn-0365-JP
+    trojan://3fe98ac1-791b-3cfa-901c-3fbc13f79141@lavip101.qlgq.fun:11156?allowInsecure=1&sni=lavip101.qlgq.fun#TG%E9%A2%91%E9%81%93%40mfbpn-0366-US
     trojan://3fe98ac1-791b-3cfa-901c-3fbc13f79141@lavip101.qlgq.fun:21156?allowInsecure=1&sni=lavip101.qlgq.fun#TG%E9%A2%91%E9%81%93%40mfbpn-0367-US
     trojan://3fe98ac1-791b-3cfa-901c-3fbc13f79141@lavip101.qlgq.fun:31156?allowInsecure=1&sni=lavip101.qlgq.fun#TG%E9%A2%91%E9%81%93%40mfbpn-0368-US
     trojan://3fe98ac1-791b-3cfa-901c-3fbc13f79141@ukvip101.qlgq.fun:14568?allowInsecure=1&sni=ukvip101.qlgq.fun#TG%E9%A2%91%E9%81%93%40mfbpn-0369-GB
@@ -1139,11 +1140,11 @@ Fork from TopFreeProxies.
 </details>
 
 ### 所有节点
-合并节点总数: `1208`
+合并节点总数: `1292`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1208`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1292`
 
 
 ## 仓库声明
