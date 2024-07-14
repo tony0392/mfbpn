@@ -26,13 +26,14 @@ Fork from TopFreeProxies.
 
 ## 节点信息
 ### 高速节点
-高速节点数量: `1047`
+高速节点数量: `1048`
 <details>
   <summary>展开复制节点</summary>
 
     trojan://7dp3vF@120.233.7.225:100?allowInsecure=1&sni=%3diep225.t4v.fun#TG%E9%A2%91%E9%81%93%40mfbpn-0000-CN
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwMS1SRUxBWSIsImFkZCI6IjEwNC4xOC4yNC4xMzkiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiYzY3NDdkYTQtZmIyZS00YTJhLWJkYjctODYxNGJkZDZiMGIzIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9zc2hraXQvNTIwNjE5NDg2My82MmM3NzAyYTBlYThiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwMi1OT1dIRVJFIiwiYWRkIjoic2cxLnh6ODgubWwiLCJwb3J0IjoiMTI0NjQiLCJ0eXBlIjoibm9uZSIsImlkIjoiMDlhNjJlNTQtMGY3NC00MDAyLThkNDUtNWZlNjNlNGJmMmEyIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvc3Noa2l0LzUyMDYxOTQ4NjMvNjJjNzcwMmEwZWE4Yi8iLCJob3N0Ijoic2cxLnh6ODgubWwiLCJ0bHMiOiIifQ==
+    vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwMy1LUiIsImFkZCI6IjE0NC4yNC44OC4xMDEiLCJwb3J0IjoiMTY4MzMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjU0MjVjY2YtMzk0Ni00ZmI0LWViMjQtNTM5M2Q3OGEzOTJmIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvc3Noa2l0LzUyMDYxOTQ4NjMvNjJjNzcwMmEwZWE4Yi8iLCJob3N0IjoiIiwidGxzIjoiIn0=
     trojan://fade393a-2ffe-4d02-9492-e22a027dc611@gzyd2.52147.top:20120?allowInsecure=1&sni=download.windowsupdate1.com#TG%E9%A2%91%E9%81%93%40mfbpn-0004-RELAY
     ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.143.66.87:9102#TG%E9%A2%91%E9%81%93%40mfbpn-0005-US
     trojan://c09eb137-bf68-4658-84e0-102d94b74168@jgwdj4.gaox.ml:443?allowInsecure=1&sni=jgwdj4.gaox.ml#TG%E9%A2%91%E9%81%93%40mfbpn-0006-NOWHERE
@@ -439,6 +440,7 @@ Fork from TopFreeProxies.
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSW1HbjZuZ0FWaEVCblc1cFhudU5i@94.103.89.223:44747#TG%E9%A2%91%E9%81%93%40mfbpn-0505-RU
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoanJsWEdOSU5IRTJqc3BubWEwNFRQ@45.136.58.86:17451#TG%E9%A2%91%E9%81%93%40mfbpn-0506-KZ
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPOTRtQW5jTkx2QWlodkpCQ09uQTNM@176.97.77.71:31778#TG%E9%A2%91%E9%81%93%40mfbpn-0507-SE
+    ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdFg4ZHg4OXAxUWVOMUZadDJWUWFM@5.161.234.55:62816#TG%E9%A2%91%E9%81%93%40mfbpn-0508-US
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVMnFFUkJ1MUM0SE8xWkRUWmw5blAz@45.136.197.199:43729#TG%E9%A2%91%E9%81%93%40mfbpn-0509-HK
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDUxMC1VUyIsImFkZCI6IjEwOC4xODEuMTAuMTciLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDc0ZTg2ODAtNzAxZi0xMWVlLWI0MzYtMjA1YzZkNWY1ZDc4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
     ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@84.17.53.163:80#TG%E9%A2%91%E9%81%93%40mfbpn-0511-CH
@@ -534,7 +536,6 @@ Fork from TopFreeProxies.
     trojan://fg20mtCFHy@usjchf.motrix.xyz:5443?allowInsecure=1&sni=usjchf.motrix.xyz#TG%E9%A2%91%E9%81%93%40mfbpn-0601-US
     trojan://zIvR7ryOXv@159.223.207.182:34428?allowInsecure=1&sni=drehitm.duckdns.org#TG%E9%A2%91%E9%81%93%40mfbpn-0602-US
     trojan://telegram-id-directvpn@52.47.80.137:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0603-FR
-    trojan://ypDt8RkT7J@89.187.181.172:43118?allowInsecure=1&sni=egcmi.phooeyunfold.com#TG%E9%A2%91%E9%81%93%40mfbpn-0604-US
     trojan://telegram-id-privatevpns@16.170.22.142:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0605-SE
     trojan://F9D3CpxDl8a3ezeZNSBSAa2RcZNSBSAa2RcY8IyagD67Yn3S30ZTElRj4wFX5On3S30ZT@23.106.32.171:443?allowInsecure=1&sni=scarily.golfland.club#TG%E9%A2%91%E9%81%93%40mfbpn-0606-GB
     trojan://ypDt8RkT7J@207.211.215.169:43118?allowInsecure=1&sni=tpmwf.phooeyunfold.com#TG%E9%A2%91%E9%81%93%40mfbpn-0607-TR
@@ -1047,7 +1048,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ@103.172.116.103:9006#TG%E9%A2%91%E9%81%93%40mfbpn-1137-SG
     ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw@103.172.116.103:9053#TG%E9%A2%91%E9%81%93%40mfbpn-1138-SG
     ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw@103.172.116.103:9098#TG%E9%A2%91%E9%81%93%40mfbpn-1139-SG
-    ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg@103.172.116.103:9079#TG%E9%A2%91%E9%81%93%40mfbpn-1140-SG
+    ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg@103.172.116.103:9079#TG%E9%A2%91%E9%81%93%40mfbpn-1140-SGtrojan%2F%2FypDt8RkT7J%4089.187.181.17243118%3FallowInsecure%3D1%26sni%3Degcmi.phooeyunfold.com%23TG%E9%A2%91%E9%81%93%40mfbpn-0604-US
     ss://YWVzLTI1Ni1jZmI6VlA4WlB4UXBKdFpSQ2pmWg@103.172.116.103:9080#TG%E9%A2%91%E9%81%93%40mfbpn-1141-SG
     ss://YWVzLTI1Ni1jZmI6VVdaUWVMUldua3Fna3NlcQ@103.172.116.103:9032#TG%E9%A2%91%E9%81%93%40mfbpn-1142-SG
     ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA@103.172.116.103:9093#TG%E9%A2%91%E9%81%93%40mfbpn-1143-SG
@@ -1082,11 +1083,11 @@ Fork from TopFreeProxies.
 </details>
 
 ### 所有节点
-合并节点总数: `1150`
+合并节点总数: `1253`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1150`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1253`
 
 
 ## 仓库声明
