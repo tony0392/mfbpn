@@ -572,7 +572,6 @@ proxies:
   - {name: TG频道@mfbpn-0616-RELAY, server: 172.64.233.24, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
   - {name: TG频道@mfbpn-0617-RELAY, server: 23.227.38.6, port: 2086, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
   - {name: TG频道@mfbpn-0618-RELAY, server: 23.227.38.6, port: 2086, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
-  - {name: TG频道@mfbpn-0619-RELAY, server: jp.rnmcnm.com, port: 80, type: vmess, uuid: 5662718f-e3e6-4a96-ca43-2394219cfb47, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp.rnmcnm.com}}, udp: true}
   - {name: TG频道@mfbpn-0620-RELAY, server: 104.19.46.59, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
   - {name: TG频道@mfbpn-0621-RELAY, server: 23.227.38.6, port: 2086, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
   - {name: TG频道@mfbpn-0622-TW, server: in06.dns2024.org, port: 63017, type: vmess, uuid: e8e6f618-842c-33d4-9a9f-7827614a6bf9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -665,6 +664,7 @@ proxies:
   - {name: TG频道@mfbpn-0709-RELAY, server: fbi.gov, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: fbi.gov}}, udp: true}
   - {name: TG频道@mfbpn-0710-RELAY, server: 104.19.59.89, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
   - {name: TG频道@mfbpn-0711-RELAY, server: 104.19.46.233, port: 2086, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
+  - {name: TG频道@mfbpn-0712-RELAY, server: us.rnmcnm.com, port: 80, type: vmess, uuid: 27509a72-2dd1-4cea-9155-355543e6c46a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us.rnmcnm.com}}, udp: true}
   - {name: TG频道@mfbpn-0713-RELAY, server: 104.19.45.11, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
   - {name: TG频道@mfbpn-0714-RELAY, server: 104.19.46.63, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
   - {name: TG频道@mfbpn-0715-RELAY, server: 172.64.233.37, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
@@ -1710,7 +1710,6 @@ proxy-groups:
       - TG频道@mfbpn-0616-RELAY
       - TG频道@mfbpn-0617-RELAY
       - TG频道@mfbpn-0618-RELAY
-      - TG频道@mfbpn-0619-RELAY
       - TG频道@mfbpn-0620-RELAY
       - TG频道@mfbpn-0621-RELAY
       - TG频道@mfbpn-0622-TW
@@ -1803,6 +1802,7 @@ proxy-groups:
       - TG频道@mfbpn-0709-RELAY
       - TG频道@mfbpn-0710-RELAY
       - TG频道@mfbpn-0711-RELAY
+      - TG频道@mfbpn-0712-RELAY
       - TG频道@mfbpn-0713-RELAY
       - TG频道@mfbpn-0714-RELAY
       - TG频道@mfbpn-0715-RELAY
@@ -2687,6 +2687,7 @@ proxy-groups:
       - TG频道@mfbpn-0697-RELAY
       - TG频道@mfbpn-0702-RELAY
       - TG频道@mfbpn-0707-TW
+      - TG频道@mfbpn-0712-RELAY
       - TG频道@mfbpn-0717-RELAY
       - TG频道@mfbpn-0722-RELAY
       - TG频道@mfbpn-0727-RELAY
@@ -3128,7 +3129,6 @@ proxy-groups:
       - TG频道@mfbpn-0604-JP
       - TG频道@mfbpn-0609-CN
       - TG频道@mfbpn-0614-RELAY
-      - TG频道@mfbpn-0619-RELAY
       - TG频道@mfbpn-0624-RELAY
       - TG频道@mfbpn-0629-RELAY
       - TG频道@mfbpn-0634-CN
