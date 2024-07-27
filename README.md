@@ -1224,7 +1224,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.129.230:989#TG%E9%A2%91%E9%81%93%40mfbpn-1331-FI
     ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#TG%E9%A2%91%E9%81%93%40mfbpn-1333-NL
     ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@sha.majidcttls.ggff.net:443#TG%E9%A2%91%E9%81%93%40mfbpn-1334-NL
-    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.253.180:443#TG%E9%A2%91%E9%81%93%40mfbpn-1337-KR
+    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.254.211:443#TG%E9%A2%91%E9%81%93%40mfbpn-1336-KR
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.37:989#TG%E9%A2%91%E9%81%93%40mfbpn-1340-MK
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.15:989#TG%E9%A2%91%E9%81%93%40mfbpn-1341-MK
     
@@ -1233,11 +1233,11 @@ Fork from TopFreeProxies.
 </details>
 
 ### 所有节点
-合并节点总数: `1323`
+合并节点总数: `1195`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1323`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1195`
 
 
 ## 仓库声明
