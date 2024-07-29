@@ -433,10 +433,10 @@ proxies:
   - {name: TG频道@mfbpn-0476-RELAY, server: 172.64.166.12, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
   - {name: TG频道@mfbpn-0477-RELAY, server: 104.19.46.22, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
   - {name: TG频道@mfbpn-0478-RELAY, server: 104.20.17.186, port: 2052, type: vmess, uuid: d6b6d982-d52f-465a-b988-85670b23f64a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
+  - {name: TG频道@mfbpn-0479-US, server: 184.170.241.194, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, udp: true}
   - {name: TG频道@mfbpn-0480-DE, server: 80.92.204.106, port: 9010, type: ss, cipher: aes-256-cfb, password: f63gg8EruDnUrmz4, udp: true}
   - {name: TG频道@mfbpn-0481-RELAY, server: 104.19.59.89, port: 2052, type: vmess, uuid: d6b6d982-d52f-465a-b988-85670b23f64a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
   - {name: TG频道@mfbpn-0482-DE, server: 80.92.204.106, port: 9098, type: ss, cipher: aes-256-cfb, password: aLpQtfEZe445QyHk, udp: true}
-  - {name: TG频道@mfbpn-0483-US, server: 161.35.96.52, port: 1612, type: ss, cipher: chacha20-ietf-poly1305, password: jJCUC1VqN5njID2bWo0zkQ, udp: true}
   - {name: TG频道@mfbpn-0484-RELAY, server: 104.19.38.8, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
   - {name: TG频道@mfbpn-0485-RELAY, server: 104.20.25.146, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
   - {name: TG频道@mfbpn-0486-RELAY, server: 172.64.167.19, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
@@ -1455,10 +1455,10 @@ proxy-groups:
       - TG频道@mfbpn-0476-RELAY
       - TG频道@mfbpn-0477-RELAY
       - TG频道@mfbpn-0478-RELAY
+      - TG频道@mfbpn-0479-US
       - TG频道@mfbpn-0480-DE
       - TG频道@mfbpn-0481-RELAY
       - TG频道@mfbpn-0482-DE
-      - TG频道@mfbpn-0483-US
       - TG频道@mfbpn-0484-RELAY
       - TG频道@mfbpn-0485-RELAY
       - TG频道@mfbpn-0486-RELAY
@@ -2592,7 +2592,6 @@ proxy-groups:
       - TG频道@mfbpn-0468-FR
       - TG频道@mfbpn-0473-US
       - TG频道@mfbpn-0478-RELAY
-      - TG频道@mfbpn-0483-US
       - TG频道@mfbpn-0488-RELAY
       - TG频道@mfbpn-0493-RELAY
       - TG频道@mfbpn-0498-RELAY
@@ -2800,6 +2799,7 @@ proxy-groups:
       - TG频道@mfbpn-0464-US
       - TG频道@mfbpn-0469-NL
       - TG频道@mfbpn-0474-RELAY
+      - TG频道@mfbpn-0479-US
       - TG频道@mfbpn-0484-RELAY
       - TG频道@mfbpn-0489-US
       - TG频道@mfbpn-0494-RELAY
