@@ -251,6 +251,7 @@ proxies:
   - {name: TG频道@mfbpn-0195-CN, server: htsub-2024.899696998.xyz, port: 20011, type: vmess, uuid: eb9b6d07-8644-437f-a1c5-dbed378d38ed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /2024, headers: {Host: htsub-2024.899696998.xyz}}, udp: true}
   - {name: TG频道@mfbpn-0196-CN, server: htsub-2024.899696998.xyz, port: 20011, type: vmess, uuid: eb9b6d07-8644-437f-a1c5-dbed378d38ed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /2024, headers: {Host: htsub-2024.899696998.xyz}}, udp: true}
   - {name: TG频道@mfbpn-0197-RELAY, server: 1.1.1.1, port: 443, type: vmess, uuid: 7f811607-1df9-4bc5-ba16-829d8b6277a8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv13/hd.m3u8}, udp: true}
+  - {name: TG频道@mfbpn-0198-RELAY, server: usbk.cfip.top, port: 8443, type: vmess, uuid: 7f811607-1df9-4bc5-ba16-829d8b6277a8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv13/hd.m3u8, headers: {Host: usbk.cfip.top}}, udp: true}
   - {name: TG频道@mfbpn-0199-RELAY, server: US-Los_Angeles-A.cfip.top, port: 8443, type: vmess, uuid: 7f811607-1df9-4bc5-ba16-829d8b6277a8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv13/hd.m3u8, headers: {Host: US-Los_Angeles-A.cfip.top}}, udp: true}
   - {name: TG频道@mfbpn-0200-RELAY, server: US-Los_Angeles-B.cfip.top, port: 8443, type: vmess, uuid: 7f811607-1df9-4bc5-ba16-829d8b6277a8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /cctv13/hd.m3u8, headers: {Host: US-Los_Angeles-B.cfip.top}}, udp: true}
   - {name: TG频道@mfbpn-0201-DE, server: fkvip101.qlgq.fun, port: 11789, type: trojan, password: 7dd1fb26-8964-3d21-aad5-9d6a003029a9, sni: fkvip101.qlgq.fun, skip-cert-verify: true, udp: true}
@@ -547,7 +548,6 @@ proxies:
   - {name: TG频道@mfbpn-0591-DE, server: 80.92.204.106, port: 9027, type: ss, cipher: aes-256-cfb, password: EXN3S3eQpjE7EJu8, udp: true}
   - {name: TG频道@mfbpn-0592-RELAY, server: 104.19.58.175, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
   - {name: TG频道@mfbpn-0593-US, server: 38.75.137.66, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: TG频道@mfbpn-0594-RU, server: 81.19.140.31, port: 65305, type: ss, cipher: chacha20-ietf-poly1305, password: WQC0BtSUQnhuBUkm0meQES, udp: true}
   - {name: TG频道@mfbpn-0595-RELAY, server: 162.159.140.93, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
   - {name: TG频道@mfbpn-0596-US, server: us-am3.eqnode.net, port: 8081, type: ssr, cipher: aes-256-cfb, password: fou8MBGij, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: "", udp: true}
   - {name: TG频道@mfbpn-0597-NOWHERE, server: mjk6.cdn.node.a.tddns-ounk.com, port: 13299, type: ssr, cipher: rc4-md5, password: Cskw6d, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 524959:5u4MZ6, obfs-param: "", udp: true}
@@ -1443,6 +1443,7 @@ proxy-groups:
       - TG频道@mfbpn-0195-CN
       - TG频道@mfbpn-0196-CN
       - TG频道@mfbpn-0197-RELAY
+      - TG频道@mfbpn-0198-RELAY
       - TG频道@mfbpn-0199-RELAY
       - TG频道@mfbpn-0200-RELAY
       - TG频道@mfbpn-0201-DE
@@ -1739,7 +1740,6 @@ proxy-groups:
       - TG频道@mfbpn-0591-DE
       - TG频道@mfbpn-0592-RELAY
       - TG频道@mfbpn-0593-US
-      - TG频道@mfbpn-0594-RU
       - TG频道@mfbpn-0595-RELAY
       - TG频道@mfbpn-0596-US
       - TG频道@mfbpn-0597-NOWHERE
@@ -2965,6 +2965,7 @@ proxy-groups:
       - TG频道@mfbpn-0183-CN
       - TG频道@mfbpn-0188-CN
       - TG频道@mfbpn-0193-CN
+      - TG频道@mfbpn-0198-RELAY
       - TG频道@mfbpn-0203-DE
       - TG频道@mfbpn-0208-SG
       - TG频道@mfbpn-0213-JP
@@ -3263,7 +3264,6 @@ proxy-groups:
       - TG频道@mfbpn-0579-RELAY
       - TG频道@mfbpn-0584-RELAY
       - TG频道@mfbpn-0589-DE
-      - TG频道@mfbpn-0594-RU
       - TG频道@mfbpn-0599-RELAY
       - TG频道@mfbpn-0604-RELAY
       - TG频道@mfbpn-0609-RELAY
