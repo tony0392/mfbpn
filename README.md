@@ -26,7 +26,7 @@ Fork from TopFreeProxies.
 
 ## 节点信息
 ### 高速节点
-高速节点数量: `1098`
+高速节点数量: `1099`
 <details>
   <summary>展开复制节点</summary>
 
@@ -371,7 +371,7 @@ Fork from TopFreeProxies.
     trojan://bf973189-1146-3c46-bd16-1d90b8eef94b@52.198.230.68:443?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG%E9%A2%91%E9%81%93%40mfbpn-0438-JP
     trojan://bf973189-1146-3c46-bd16-1d90b8eef94b@35.73.226.191:443?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG%E9%A2%91%E9%81%93%40mfbpn-0439-JP
     trojan://bf973189-1146-3c46-bd16-1d90b8eef94b@35.90.207.192:443?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG%E9%A2%91%E9%81%93%40mfbpn-0440-US
-    trojan://bf973189-1146-3c46-bd16-1d90b8eef94b@103.136.185.27:5514?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG%E9%A2%91%E9%81%93%40mfbpn-0441-US
+    trojan://CMLiu@121.148.19.178:25006?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG%E9%A2%91%E9%81%93%40mfbpn-0441-US
     trojan://bf973189-1146-3c46-bd16-1d90b8eef94b@103.136.185.28:3504?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG%E9%A2%91%E9%81%93%40mfbpn-0442-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDQ0My1DTiIsImFkZCI6IjE2LnYyLXJheS5jeW91IiwicG9ydCI6IjIzNjE2IiwidHlwZSI6Im5vbmUiLCJpZCI6IjUwY2U4ZTBjLTg0ODgtMzA0MC1hYTg0LTkyNzE0NWJiZTVhZSIsImFpZCI6IjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IjE2LnYyLXJheS5jeW91IiwidGxzIjoiIn0=
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDQ0NC1DTiIsImFkZCI6IjE4LnYyLXJheS5jeW91IiwicG9ydCI6IjIzNjE4IiwidHlwZSI6Im5vbmUiLCJpZCI6IjUwY2U4ZTBjLTg0ODgtMzA0MC1hYTg0LTkyNzE0NWJiZTVhZSIsImFpZCI6IjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IjE4LnYyLXJheS5jeW91IiwidGxzIjoiIn0=
@@ -1010,6 +1010,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.112.237.254:443#TG%E9%A2%91%E9%81%93%40mfbpn-1077-JP
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.195.207.131:443#TG%E9%A2%91%E9%81%93%40mfbpn-1078-JP
     ss://YWVzLTI1Ni1nY206NDc4ZjlmZGQ0MzczMjVkYQ@195.133.53.81:61231#TG%E9%A2%91%E9%81%93%40mfbpn-1079-RU
+    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.188.30.108:443#TG%E9%A2%91%E9%81%93%40mfbpn-1080-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.223.226.135:443#TG%E9%A2%91%E9%81%93%40mfbpn-1081-US
     trojan://390b0335-4b2a-346b-a532-54290cf04e9b@36.141.40.79:13021?allowInsecure=1&sni=ip2648428075.mobgslb.tbcache.com#TG%E9%A2%91%E9%81%93%40mfbpn-1082-CN
     trojan://390b0335-4b2a-346b-a532-54290cf04e9b@36.141.40.79:13029?allowInsecure=1&sni=ip2648428075.mobgslb.tbcache.com#TG%E9%A2%91%E9%81%93%40mfbpn-1083-CN
@@ -1133,11 +1134,11 @@ Fork from TopFreeProxies.
 </details>
 
 ### 所有节点
-合并节点总数: `1199`
+合并节点总数: `1290`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1199`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1290`
 
 
 ## 仓库声明
