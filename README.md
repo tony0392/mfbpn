@@ -37,7 +37,6 @@ Fork from TopFreeProxies.
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwNS1LUiIsImFkZCI6IjE0Ni41Ni4xNjcuMTE5IiwicG9ydCI6IjY2NjYiLCJ0eXBlIjoibm9uZSIsImlkIjoiNjQ3NzlmY2UtNjNhNS00ZmFhLWI1OWItZTRhZjQwZjRlNDE5IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwNi1LUiIsImFkZCI6Im00LjQwMDEwMDEwLnh5eiIsInBvcnQiOiIzNzEyMSIsInR5cGUiOiJub25lIiwiaWQiOiI1NzVlNGQ5Mi0xMDU2LTQ0YzItOGNhYy03NWVmMWM4NTlhZDUiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoibTQuNDAwMTAwMTAueHl6IiwidGxzIjoiIn0=
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZDEyOTNkMy0zODhhLTQxYzctOGRkNC1kMWYwYjk0NzkzZDI@node.a.access.in.nyapi.buzz:25010#TG%E9%A2%91%E9%81%93%40mfbpn-0007-NOWHERE
-    vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwOC1DQSIsImFkZCI6InYycmF5MTAuZnJlZTQ0NDQueHl6IiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJkM2NlYjk2MC0xMGRkLTQ2M2ItODUxZi05MjMzNzdlYTlkODQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsImhvc3QiOiJ2MnJheTEwLmZyZWU0NDQ0Lnh5eiIsInRscyI6IiJ9
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwOS1SRUxBWSIsImFkZCI6IjEwNC4xOC4yMS4yMjYiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiYTU1YjdkNzctZDI1MS00ZTMxLWE3NmUtMjJkMDlhYzY5ZWIwIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92cG5uZW8iLCJob3N0IjoiIiwidGxzIjoiIn0=
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxNw@138.68.248.130:811#TG%E9%A2%91%E9%81%93%40mfbpn-0010-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAxMS1SRUxBWSIsImFkZCI6IjE0MS4xOTMuMjEzLjIwIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImE1NWI3ZDc3LWQyNTEtNGUzMS1hNzZlLTIyZDA5YWM2OWViMCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdnBubmVvIiwiaG9zdCI6IiIsInRscyI6IiJ9
@@ -946,6 +945,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.87.154.95:443#TG%E9%A2%91%E9%81%93%40mfbpn-1015-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.236.64.79:443#TG%E9%A2%91%E9%81%93%40mfbpn-1016-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.202.197.222:443#TG%E9%A2%91%E9%81%93%40mfbpn-1017-US
+    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.223.226.135:443#TG%E9%A2%91%E9%81%93%40mfbpn-1018-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.85.60.143:443#TG%E9%A2%91%E9%81%93%40mfbpn-1019-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.186.138.242:443#TG%E9%A2%91%E9%81%93%40mfbpn-1020-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.222.130.72:443#TG%E9%A2%91%E9%81%93%40mfbpn-1021-US
@@ -1019,11 +1019,11 @@ Fork from TopFreeProxies.
 </details>
 
 ### 所有节点
-合并节点总数: `1086`
+合并节点总数: `1065`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1086`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1065`
 
 
 ## 仓库声明
