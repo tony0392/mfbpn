@@ -55,7 +55,6 @@ sniffer:
 proxies:
   - {name: TG频道@mfbpn-0000-DE, server: 172.105.65.61, port: 28443, type: trojan, password: f033bd38-fe03-4705-883c-e45654eaa082, sni: www.download.windowsupdate1.com, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0001-DE, server: 85.90.246.11, port: 28443, type: trojan, password: f033bd38-fe03-4705-883c-e45654eaa082, sni: www.download.windowsupdate1.com, skip-cert-verify: true, udp: true}
-  - {name: TG频道@mfbpn-0002-KR, server: 146.56.147.165, port: 80, type: vmess, uuid: c2cc2aab-503d-4282-b97f-60594a862aaa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0003-KR, server: 144.24.90.94, port: 28443, type: trojan, password: f033bd38-fe03-4705-883c-e45654eaa082, sni: www.download.windowsupdate1.com, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0004-KR, server: 144.24.69.60, port: 28443, type: trojan, password: f033bd38-fe03-4705-883c-e45654eaa082, sni: www.download.windowsupdate1.com, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0005-KR, server: 144.24.77.154, port: 28443, type: trojan, password: f033bd38-fe03-4705-883c-e45654eaa082, sni: www.download.windowsupdate1.com, skip-cert-verify: true, udp: true}
@@ -397,7 +396,7 @@ proxies:
   - {name: TG频道@mfbpn-0441-JP, server: 52.198.230.68, port: 443, type: trojan, password: feda5b8a-1f53-3f80-9bc3-dba9878b4d27, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0442-JP, server: 35.73.226.191, port: 443, type: trojan, password: feda5b8a-1f53-3f80-9bc3-dba9878b4d27, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0443-US, server: 34.220.92.190, port: 443, type: trojan, password: feda5b8a-1f53-3f80-9bc3-dba9878b4d27, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-  - {name: TG频道@mfbpn-0445-US, server: 103.136.185.28, port: 3504, type: trojan, password: feda5b8a-1f53-3f80-9bc3-dba9878b4d27, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+  - {name: TG频道@mfbpn-0444-US, server: 103.136.185.27, port: 5514, type: trojan, password: feda5b8a-1f53-3f80-9bc3-dba9878b4d27, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0446-NOWHERE, server: "%E6%9C%80%E6%96%B0%E5%AE%98%E7%BD%91%EF%BC%9A168vpn.cloud", port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 334c2183-fbc3-4127-865b-52d51cd42d60, udp: true}
   - {name: TG频道@mfbpn-0447-CN, server: gdcub.yunnode.win, port: 31641, type: ss, cipher: chacha20-ietf-poly1305, password: 334c2183-fbc3-4127-865b-52d51cd42d60, udp: true}
   - {name: TG频道@mfbpn-0448-CN, server: gdcub.yunnode.win, port: 31645, type: ss, cipher: chacha20-ietf-poly1305, password: 334c2183-fbc3-4127-865b-52d51cd42d60, udp: true}
@@ -1164,7 +1163,7 @@ proxies:
   - {name: TG频道@mfbpn-1210-KR, server: cn2.cdn.xfltd-cdn.top, port: 12023, type: trojan, password: 3698a3e7-2877-4ded-a665-d81ee3cfd449, sni: cdn.alibaba.com, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-1211-KR, server: cn2.cdn.xfltd-cdn.top, port: 12021, type: trojan, password: 3698a3e7-2877-4ded-a665-d81ee3cfd449, sni: cdn.alibaba.com, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-1212-KR, server: cn2.cdn.xfltd-cdn.top, port: 12024, type: trojan, password: 3698a3e7-2877-4ded-a665-d81ee3cfd449, sni: cdn.alibaba.com, skip-cert-verify: true, udp: true}
-  - {name: "TG频道@mfbpn-1213-JPtrojan//feda5b8a-1f53-3f80-9bc3-dba9878b4d27@103.136.185.275514?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG频道@mfbpn-0444-US", server: 13.112.106.148, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: TG频道@mfbpn-1213-JP, server: 13.112.106.148, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: TG频道@mfbpn-1214-JP, server: 52.197.150.228, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: TG频道@mfbpn-1215-JP, server: 3.112.13.193, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: TG频道@mfbpn-1216-JP, server: 52.199.182.245, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
@@ -1227,7 +1226,6 @@ proxy-groups:
       - 测速5分组
       - TG频道@mfbpn-0000-DE
       - TG频道@mfbpn-0001-DE
-      - TG频道@mfbpn-0002-KR
       - TG频道@mfbpn-0003-KR
       - TG频道@mfbpn-0004-KR
       - TG频道@mfbpn-0005-KR
@@ -1569,7 +1567,7 @@ proxy-groups:
       - TG频道@mfbpn-0441-JP
       - TG频道@mfbpn-0442-JP
       - TG频道@mfbpn-0443-US
-      - TG频道@mfbpn-0445-US
+      - TG频道@mfbpn-0444-US
       - TG频道@mfbpn-0446-NOWHERE
       - TG频道@mfbpn-0447-CN
       - TG频道@mfbpn-0448-CN
@@ -2336,7 +2334,7 @@ proxy-groups:
       - TG频道@mfbpn-1210-KR
       - TG频道@mfbpn-1211-KR
       - TG频道@mfbpn-1212-KR
-      - TG频道@mfbpn-1213-JPtrojan//feda5b8a-1f53-3f80-9bc3-dba9878b4d27@103.136.185.275514?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG频道@mfbpn-0444-US
+      - TG频道@mfbpn-1213-JP
       - TG频道@mfbpn-1214-JP
       - TG频道@mfbpn-1215-JP
       - TG频道@mfbpn-1216-JP
@@ -2640,7 +2638,6 @@ proxy-groups:
     url: https://www.gstatic.com/generate_204
     interval: 60
     proxies:
-      - TG频道@mfbpn-0002-KR
       - TG频道@mfbpn-0007-IN
       - TG频道@mfbpn-0012-US
       - TG频道@mfbpn-0017-US
@@ -3099,7 +3096,7 @@ proxy-groups:
       - TG频道@mfbpn-1198-GB
       - TG频道@mfbpn-1203-GB
       - TG频道@mfbpn-1208-KR
-      - TG频道@mfbpn-1213-JPtrojan//feda5b8a-1f53-3f80-9bc3-dba9878b4d27@103.136.185.275514?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG频道@mfbpn-0444-US
+      - TG频道@mfbpn-1213-JP
       - TG频道@mfbpn-1218-JP
       - TG频道@mfbpn-1223-JP
       - TG频道@mfbpn-1228-KR
@@ -3183,6 +3180,7 @@ proxy-groups:
       - TG频道@mfbpn-0429-CN
       - TG频道@mfbpn-0434-CN
       - TG频道@mfbpn-0439-CN
+      - TG频道@mfbpn-0444-US
       - TG频道@mfbpn-0449-CN
       - TG频道@mfbpn-0454-CN
       - TG频道@mfbpn-0459-CN
@@ -3336,7 +3334,6 @@ proxy-groups:
       - TG频道@mfbpn-1199-GB
       - TG频道@mfbpn-1204-SG
       - TG频道@mfbpn-1209-KR
-      - TG频道@mfbpn-1213-JPtrojan//feda5b8a-1f53-3f80-9bc3-dba9878b4d27@103.136.185.275514?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG频道@mfbpn-0444-US
       - TG频道@mfbpn-1214-JP
       - TG频道@mfbpn-1219-JP
       - TG频道@mfbpn-1224-JP
@@ -3421,7 +3418,6 @@ proxy-groups:
       - TG频道@mfbpn-0430-CN
       - TG频道@mfbpn-0435-CN
       - TG频道@mfbpn-0440-CN
-      - TG频道@mfbpn-0445-US
       - TG频道@mfbpn-0450-CN
       - TG频道@mfbpn-0455-CN
       - TG频道@mfbpn-0460-RELAY
