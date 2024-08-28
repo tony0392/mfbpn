@@ -528,7 +528,6 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.219.130.214:443#TG%E9%A2%91%E9%81%93%40mfbpn-0603-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.236.64.79:443#TG%E9%A2%91%E9%81%93%40mfbpn-0604-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.214.209.23:443#TG%E9%A2%91%E9%81%93%40mfbpn-0605-SG
-    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.87.35.207:443#TG%E9%A2%91%E9%81%93%40mfbpn-0606-US
     ssr://dXMtYW0zLmVxbm9kZS5uZXQ6ODA4MTpvcmlnaW46YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOlptOTFPRTFDUjJscS8_Z3JvdXA9VTFOU1VISnZkbWxrWlhJJnJlbWFya3M9VkVmcG9wSHBnWk5BYldaaWNHNHRNRFl3TnkxVlV3Jm9iZnNwYXJhbT0mcHJvdG9wYXJhbT0
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDYwOC1SRUxBWSIsImFkZCI6InJ1c3NpYS5jb20iLCJwb3J0IjoiMjA4NiIsInR5cGUiOiJub25lIiwiaWQiOiJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoicnVzc2lhLmNvbSIsInRscyI6IiJ9
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDYwOS1SRUxBWSIsImFkZCI6IjE3Mi42NC4xNjYuMjIiLCJwb3J0IjoiMjA4NiIsInR5cGUiOiJub25lIiwiaWQiOiJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiIiwidGxzIjoiIn0=
@@ -1172,6 +1171,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.121.43.65:8888#TG%E9%A2%91%E9%81%93%40mfbpn-1249-US
     trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12053?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-1250-KR
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.245.213.63:443#TG%E9%A2%91%E9%81%93%40mfbpn-1251-US
+    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.202.197.222:443#TG%E9%A2%91%E9%81%93%40mfbpn-1252-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.87.154.95:443#TG%E9%A2%91%E9%81%93%40mfbpn-1253-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTI1NC1SRUxBWSIsImFkZCI6IjE3Mi42NC4xNjYuMjIiLCJwb3J0IjoiMjA4NiIsInR5cGUiOiJub25lIiwiaWQiOiJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiIiwidGxzIjoiIn0=
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTI1NS1SRUxBWSIsImFkZCI6IjE3Mi42NC4xNjYuMTYiLCJwb3J0IjoiMjA4NiIsInR5cGUiOiJub25lIiwiaWQiOiJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiIiwidGxzIjoiIn0=
@@ -1232,11 +1232,11 @@ Fork from TopFreeProxies.
 </details>
 
 ### 所有节点
-合并节点总数: `1324`
+合并节点总数: `1403`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1324`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1403`
 
 
 ## 仓库声明
