@@ -567,6 +567,7 @@ Fork from TopFreeProxies.
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI@service.ouluyun9803.com:20005#TG%E9%A2%91%E9%81%93%40mfbpn-0636-CN
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDYzNy1SRUxBWSIsImFkZCI6IjEwNC4yMC4xNy4xODYiLCJwb3J0IjoiMjA4NiIsInR5cGUiOiJub25lIiwiaWQiOiJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiIiwidGxzIjoiIn0=
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDYzOC1SRUxBWSIsImFkZCI6IjE3Mi42NC4xNjcuNSIsInBvcnQiOiIyMDg2IiwidHlwZSI6Im5vbmUiLCJpZCI6ImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
+    trojan://telegram-id-directvpn@54.211.67.99:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0639-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDY0MC1DTiIsImFkZCI6Im1taGswMS5taWNsb3VkLmJ1enoiLCJwb3J0IjoiNDYwMDEiLCJ0eXBlIjoibm9uZSIsImlkIjoiNjM4NTAxZjYtMGJhMC00N2NiLWJjZmUtMjAwY2MxMTY5ZTgxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii96aC1jbiIsImhvc3QiOiJtbWhrMDEubWljbG91ZC5idXp6IiwidGxzIjoiIn0=
     ss://YWVzLTEyOC1nY206YTE5YTU3YTgtYmY3ZC00OTQ0LTk2ODAtMjEyYzdkMzc0YjMw@111.29.58.27:635#TG%E9%A2%91%E9%81%93%40mfbpn-0641-CN
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDY0Mi1SRUxBWSIsImFkZCI6IjEwNC4xNi42MC44IiwicG9ydCI6Ijg4ODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDQxZGEzNDItY2U5MC00NDFlLWJmZjktZDJjZWI1NWU2OGNhIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9pdmlkZW9zLnNicy9saW5rd3MiLCJob3N0IjoiIiwidGxzIjoiIn0=
@@ -596,7 +597,6 @@ Fork from TopFreeProxies.
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDY2Ni1SRUxBWSIsImFkZCI6IjEwNC4yNi41LjExMyIsInBvcnQiOiIyMDg2IiwidHlwZSI6Im5vbmUiLCJpZCI6ImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
     ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.121.43.97:8080#TG%E9%A2%91%E9%81%93%40mfbpn-0667-US
     ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.49.119:5003#TG%E9%A2%91%E9%81%93%40mfbpn-0668-US
-    trojan://wkmY1R4EcP@45.77.167.12:443?allowInsecure=1&sni=z-v2-003319.kailib.com#TG%E9%A2%91%E9%81%93%40mfbpn-0669-US
     trojan://CMLiu@154.17.20.7:34967?allowInsecure=1&sni=aliorg.filegear-sg.me#TG%E9%A2%91%E9%81%93%40mfbpn-0670-US
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNmZkYzczZC0wYmZmLTRkNjYtOTc1OS1lODFjNjNkZTE2YjY@yd1.qianggewangluo.buzz:10809#TG%E9%A2%91%E9%81%93%40mfbpn-0671-CN
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDY3Mi1SRUxBWSIsImFkZCI6IjEwNC4xOC4xNS4xNDgiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiYzM0ZDk0ZDktOTdkNC00NDk2LTliN2YtNzI3ZGQ2NzhlMWUwIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
@@ -1226,18 +1226,18 @@ Fork from TopFreeProxies.
     trojan://telegram-id-privatevpns@18.134.52.116:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-1297-GB
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTI5OC1SVSIsImFkZCI6IjQ2LjI5LjE2Mi44NyIsInBvcnQiOiIzMzEwMyIsInR5cGUiOiJub25lIiwiaWQiOiIwNDg3Mzg3Yi0zYWZlLTRkNDMtOThjMS0xZTg2MWVkNjIwMTEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dpdmVpdGF0cnkiLCJob3N0IjoiIiwidGxzIjoidGxzIn0=
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@31.171.153.182:989#TG%E9%A2%91%E9%81%93%40mfbpn-1301-AL
-    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.253.180:443#TG%E9%A2%91%E9%81%93%40mfbpn-1305-KRtrojan%2F%2Ftelegram-id-directvpn%4054.211.67.9922222%3FallowInsecure%3D1%26sni%3Dtrojan.burgerip.co.uk%23TG%E9%A2%91%E9%81%93%40mfbpn-0639-US
+    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.253.180:443#TG%E9%A2%91%E9%81%93%40mfbpn-1305-KRtrojan%2F%2FwkmY1R4EcP%4045.77.167.12443%3FallowInsecure%3D1%26sni%3Dz-v2-003319.kailib.com%23TG%E9%A2%91%E9%81%93%40mfbpn-0669-US
     
 
 
 </details>
 
 ### 所有节点
-合并节点总数: `1308`
+合并节点总数: `1259`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1308`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1259`
 
 
 ## 仓库声明
