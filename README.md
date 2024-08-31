@@ -338,7 +338,7 @@ Fork from TopFreeProxies.
     trojan://e7b7c41d-93f8-3ac5-b178-7d530bbe5d99@gy.58n.net:20306?allowInsecure=1&sni=z306.hongkongnode.top#TG%E9%A2%91%E9%81%93%40mfbpn-0404-CN
     trojan://15c3ebe9-f4c7-3c79-9d4a-30ec4b91f818@52.198.230.68:443?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG%E9%A2%91%E9%81%93%40mfbpn-0405-JP
     trojan://15c3ebe9-f4c7-3c79-9d4a-30ec4b91f818@52.195.16.199:443?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG%E9%A2%91%E9%81%93%40mfbpn-0406-JP
-    trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12067?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG%E9%A2%91%E9%81%93%40mfbpn-0407-US
+    trojan://15c3ebe9-f4c7-3c79-9d4a-30ec4b91f818@44.242.199.241:443?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG%E9%A2%91%E9%81%93%40mfbpn-0407-US
     trojan://15c3ebe9-f4c7-3c79-9d4a-30ec4b91f818@103.136.185.27:5514?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG%E9%A2%91%E9%81%93%40mfbpn-0408-US
     trojan://15c3ebe9-f4c7-3c79-9d4a-30ec4b91f818@103.136.185.28:3504?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG%E9%A2%91%E9%81%93%40mfbpn-0409-US
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZTNjYWM1YS05YThiLTRkMTktYjRhYi0wMjA5NWZjNzRiZjM@%E6%9C%80%E6%96%B0%E5%AE%98%E7%BD%91%EF%BC%9A168vpn.cloud:1080#TG%E9%A2%91%E9%81%93%40mfbpn-0410-NOWHERE
@@ -501,7 +501,6 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw@80.92.204.106:9025#TG%E9%A2%91%E9%81%93%40mfbpn-0567-DE
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDU2OC1SRUxBWSIsImFkZCI6ImZiaS5nb3YiLCJwb3J0IjoiMjA4NiIsInR5cGUiOiJub25lIiwiaWQiOiJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiZmJpLmdvdiIsInRscyI6IiJ9
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDU2OS1SRUxBWSIsImFkZCI6IjEwNC4xOS40Ny42NSIsInBvcnQiOiIyMDg2IiwidHlwZSI6Im5vbmUiLCJpZCI6ImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
-    ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@184.170.241.194:443#TG%E9%A2%91%E9%81%93%40mfbpn-0570-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDU3MS1SRUxBWSIsImFkZCI6IjE2Mi4xNTkuMTQwLjkxIiwicG9ydCI6IjIwODYiLCJ0eXBlIjoibm9uZSIsImlkIjoiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5IiwiaG9zdCI6IiIsInRscyI6IiJ9
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDU3Mi1SRUxBWSIsImFkZCI6IjEwNC4xOS40Ny43NyIsInBvcnQiOiIyMDg2IiwidHlwZSI6Im5vbmUiLCJpZCI6ImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDU3My1SRUxBWSIsImFkZCI6InNray5tb2UiLCJwb3J0IjoiMjA4NiIsInR5cGUiOiJub25lIiwiaWQiOiJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0Ijoic2trLm1vZSIsInRscyI6IiJ9
@@ -559,7 +558,7 @@ Fork from TopFreeProxies.
     trojan://CMLiu@43.153.80.208:443?allowInsecure=1&sni=aliorg.filegear-sg.me#TG%E9%A2%91%E9%81%93%40mfbpn-0625-US
     trojan://CMLiu@43.153.80.208:443?allowInsecure=1&sni=aliorg.filegear-sg.me#TG%E9%A2%91%E9%81%93%40mfbpn-0626-US
     trojan://fuck@42.236.73.72:443?allowInsecure=1&sni=www.zitian.cn#TG%E9%A2%91%E9%81%93%40mfbpn-0627-CN
-    trojan://telegram-id-directvpn@3.64.79.202:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0628-DE
+    trojan://CMLiu@43.153.80.208:443?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0628-DE
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDYyOS1SRUxBWSIsImFkZCI6InMxYy52Mi52MDAxc3NzLnh5eiIsInBvcnQiOiIyMDgyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InMxYy52Mi52MDAxc3NzLnh5eiIsInRscyI6IiJ9
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDYzMC1SRUxBWSIsImFkZCI6ImNmY2RuMS5zYW5mZW5jZG45LmNvbSIsInBvcnQiOiIyMDUyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjYzOTExZjkxLWJjOTEtNGI3MS04ZDQwLTliYTk5ZTcwNDNlMCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdmlkZW8vRERDNGJ0QTh3Yy8iLCJob3N0IjoiY2ZjZG4xLnNhbmZlbmNkbjkuY29tIiwidGxzIjoiIn0=
     ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA@193.243.147.128:40368#TG%E9%A2%91%E9%81%93%40mfbpn-0631-FR
@@ -1054,6 +1053,7 @@ Fork from TopFreeProxies.
     trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12065?allowInsecure=1&sni=cdn.alibaba.com#TG%E9%A2%91%E9%81%93%40mfbpn-1120-KR
     ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@217.30.10.18:9060#TG%E9%A2%91%E9%81%93%40mfbpn-1121-PL
     trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12068?allowInsecure=1&sni=cdn.alibaba.com#TG%E9%A2%91%E9%81%93%40mfbpn-1122-KR
+    ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@143.244.62.106:989#TG%E9%A2%91%E9%81%93%40mfbpn-1123-AU
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQTBxZld3ajNiN0pzekEyY3VPM2tS@52.169.71.100:49309#TG%E9%A2%91%E9%81%93%40mfbpn-1124-IE
     trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12071?allowInsecure=1&sni=cdn.alibaba.com#TG%E9%A2%91%E9%81%93%40mfbpn-1125-KR
     trojan://tg-dns68@172.66.44.128:443?allowInsecure=1&sni=vip.putata.eu.org#TG%E9%A2%91%E9%81%93%40mfbpn-1126-RELAY
@@ -1103,11 +1103,11 @@ Fork from TopFreeProxies.
 </details>
 
 ### 所有节点
-合并节点总数: `1169`
+合并节点总数: `1136`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1169`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1136`
 
 
 ## 仓库声明
