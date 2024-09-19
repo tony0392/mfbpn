@@ -26,7 +26,7 @@ Fork from TopFreeProxies.
 
 ## 节点信息
 ### 高速节点
-高速节点数量: `1198`
+高速节点数量: `1197`
 <details>
   <summary>展开复制节点</summary>
 
@@ -76,7 +76,7 @@ Fork from TopFreeProxies.
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMzkyMzY1Mi02NzRhLTQzYTAtYTIzYS1lMmM0Yjg4MjFhYzU@gz1.fkfirewall.top:13153#TG%E9%A2%91%E9%81%93%40mfbpn-0051-NOWHERE
     trojan://ce19e306-6b87-31b6-8161-df1fa9847b2e@scloud51.jafiyun.world:22051?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-0052-NOWHERE
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.143:805#TG%E9%A2%91%E9%81%93%40mfbpn-0053-CA
-    ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:804#TG%E9%A2%91%E9%81%93%40mfbpn-0054-CAss%2F%2FYWVzLTEyOC1nY206c2hhZG93c29ja3M%40212.102.47.130443%23TG%E9%A2%91%E9%81%93%40mfbpn-0365-GB
+    ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:804#TG%E9%A2%91%E9%81%93%40mfbpn-0054-CA
     ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@169.197.143.232:7307#TG%E9%A2%91%E9%81%93%40mfbpn-0055-US
     ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@169.197.143.232:6379#TG%E9%A2%91%E9%81%93%40mfbpn-0056-US
     trojan://ce19e306-6b87-31b6-8161-df1fa9847b2e@scloud29.jafiyun.world:22029?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-0057-NOWHERE
@@ -1221,7 +1221,6 @@ Fork from TopFreeProxies.
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDc0NzUxNC1mYjE0LTRmMzEtODM5MC1lMWYwNDUzZWZmNmQ@tw3.mhw7e2.online:20021#TG%E9%A2%91%E9%81%93%40mfbpn-1297-CN
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDc0NzUxNC1mYjE0LTRmMzEtODM5MC1lMWYwNDUzZWZmNmQ@hk4.mhw7e2.online:20021#TG%E9%A2%91%E9%81%93%40mfbpn-1298-CN
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.253.180:443#TG%E9%A2%91%E9%81%93%40mfbpn-1325-KR
-    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.202.67.103:443#TG%E9%A2%91%E9%81%93%40mfbpn-1326-KR
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@179.49.5.114:989#TG%E9%A2%91%E9%81%93%40mfbpn-1333-EC
     ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@69.50.92.85:5500#TG%E9%A2%91%E9%81%93%40mfbpn-1339-US
     ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#TG%E9%A2%91%E9%81%93%40mfbpn-1380-US
@@ -1233,11 +1232,11 @@ Fork from TopFreeProxies.
 </details>
 
 ### 所有节点
-合并节点总数: `1392`
+合并节点总数: `1395`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1392`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1395`
 
 
 ## 仓库声明
