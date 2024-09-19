@@ -1218,9 +1218,9 @@ Fork from TopFreeProxies.
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDc0NzUxNC1mYjE0LTRmMzEtODM5MC1lMWYwNDUzZWZmNmQ@tw1.mhw7e2.online:20024#TG%E9%A2%91%E9%81%93%40mfbpn-1298-CN
     ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@154.197.98.64:8388#TG%E9%A2%91%E9%81%93%40mfbpn-1308-SC
     ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.197.25.35:8388#TG%E9%A2%91%E9%81%93%40mfbpn-1311-HK
-    ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@104.219.209.231:8388#TG%E9%A2%91%E9%81%93%40mfbpn-1317-JP
     ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p240.panda004.net:2003#TG%E9%A2%91%E9%81%93%40mfbpn-1319-KR
     ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@107.148.37.70:8388#TG%E9%A2%91%E9%81%93%40mfbpn-1321-SG
+    ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@156.247.9.167:8388#TG%E9%A2%91%E9%81%93%40mfbpn-1325-SC
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@179.49.5.114:989#TG%E9%A2%91%E9%81%93%40mfbpn-1336-EC
     ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@69.50.92.85:5500#TG%E9%A2%91%E9%81%93%40mfbpn-1342-US
     ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#TG%E9%A2%91%E9%81%93%40mfbpn-1384-US
@@ -1232,11 +1232,11 @@ Fork from TopFreeProxies.
 </details>
 
 ### 所有节点
-合并节点总数: `1395`
+合并节点总数: `1392`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1395`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1392`
 
 
 ## 仓库声明
