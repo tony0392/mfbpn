@@ -54,6 +54,7 @@ sniffer:
     - Mijia Cloud
 proxies:
   - {name: TG频道@mfbpn-0000-NOWHERE, server: uk2.3320.top, port: 443, type: vmess, uuid: 6cc27d4f-074c-430d-a3a1-64724db55ab5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: uk2.3320.top}}, udp: true}
+  - {name: TG频道@mfbpn-0039-NOWHERE, server: hvoou-1042-v2-1.tyo-d-kcd.ap.cjhh.beauty, port: 888, type: vmess, uuid: fc541302-7a84-4957-8e93-b974094cc7a0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /je5x3pBN1vez3NQudNkB, headers: {Host: hvoou-1042-v2-1.tyo-d-kcd.ap.cjhh.beauty}}, udp: true}
   - {name: TG频道@mfbpn-0040-FR, server: 51.15.115.83, port: 21008, type: vmess, uuid: 80b5645a-86b7-48af-9252-977ba807a338, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0041-RO, server: 5.181.25.81, port: 21008, type: vmess, uuid: 80b5645a-86b7-48af-9252-977ba807a338, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0042-RELAY, server: mf02.xmss.vip, port: 18888, type: ss, cipher: chacha20-ietf-poly1305, password: 5595f1cf-d7c0-4121-a3bf-19e423c1f9a1, udp: true}
@@ -1222,7 +1223,6 @@ proxies:
   - {name: TG频道@mfbpn-1419-US, server: 205.134.180.151, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 5cp9Z3iWnJZ2, udp: true}
   - {name: TG频道@mfbpn-1420-US, server: 205.134.180.147, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9Bvkw5aupNy8, udp: true}
   - {name: TG频道@mfbpn-1426-CA, server: 142.4.216.225, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: JIhN6rBKkaEboLNXVSv5rq, udp: true}
-  - {name: TG频道@mfbpn-1427-IE, server: 54.75.152.117, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-1432-US, server: 169.197.141.84, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
   - {name: TG频道@mfbpn-1435-CH, server: 156.146.62.163, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
   - {name: TG频道@mfbpn-1436-CH, server: 156.146.62.162, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
@@ -1260,6 +1260,7 @@ proxy-groups:
       - 测速4分组
       - 测速5分组
       - TG频道@mfbpn-0000-NOWHERE
+      - TG频道@mfbpn-0039-NOWHERE
       - TG频道@mfbpn-0040-FR
       - TG频道@mfbpn-0041-RO
       - TG频道@mfbpn-0042-RELAY
@@ -2428,7 +2429,6 @@ proxy-groups:
       - TG频道@mfbpn-1419-US
       - TG频道@mfbpn-1420-US
       - TG频道@mfbpn-1426-CA
-      - TG频道@mfbpn-1427-IE
       - TG频道@mfbpn-1432-US
       - TG频道@mfbpn-1435-CH
       - TG频道@mfbpn-1436-CH
@@ -2948,7 +2948,6 @@ proxy-groups:
       - TG频道@mfbpn-1407-JP
       - TG频道@mfbpn-1412-US
       - TG频道@mfbpn-1417-US
-      - TG频道@mfbpn-1427-IE
       - TG频道@mfbpn-1432-US
       - TG频道@mfbpn-1447-JP
       - TG频道@mfbpn-1452-SG
@@ -3206,6 +3205,7 @@ proxy-groups:
     url: https://www.gstatic.com/generate_204
     interval: 60
     proxies:
+      - TG频道@mfbpn-0039-NOWHERE
       - TG频道@mfbpn-0044-US
       - TG频道@mfbpn-0049-NOWHERE
       - TG频道@mfbpn-0054-CA
