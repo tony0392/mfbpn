@@ -32,9 +32,6 @@ Fork from TopFreeProxies.
 
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwMC1OT1dIRVJFIiwiYWRkIjoiYXUxLjMzMjAudG9wIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJjNzkzOGFhZi0wYzY5LTRiZDItYWIyMi03YTU4MDk2MmMwZWMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJhdTEuMzMyMC50b3AiLCJ0bHMiOiIifQ==
     ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.75.136.21:3389#TG%E9%A2%91%E9%81%93%40mfbpn-0013-US
-    vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAzOC1VUyIsImFkZCI6IjY4LjE4My4xMjkuMTk3IiwicG9ydCI6IjgwODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiMTU3YWIyNGMtMmYwMi00NGQyLWIyMTEtNmQ3MDYxMmM5ZjY0IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3R2MTMvaGQubTN1OCIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
-    vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAzOS1OT1dIRVJFIiwiYWRkIjoiaW4yLjMzMjAudG9wIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiI4YzYyMDk1NC0zZGVjLTQyZmYtOTJiZC04NzNjNDU0NmExNTAiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJpbjIuMzMyMC50b3AiLCJ0bHMiOiIifQ==
-    vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDA0MC1DQSIsImFkZCI6IjEzOC4xOTcuMTY1LjMxIiwicG9ydCI6IjgwODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiMGM3Y2FhMDktNWM2OS00MmRjLTgwNDgtOGU4YjBkN2VmZDRhIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3R2MTMvaGQubTN1OCIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDA0MS1TRyIsImFkZCI6IjE1OS4yMjMuMzIuMjMwIiwicG9ydCI6IjgwODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiODI2YjhkMGEtZTBkMy00MDdhLTkyN2QtMTk5NTNjMTcwNzc5IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3R2MTMvaGQubTN1OCIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDA0Mi1OT1dIRVJFIiwiYWRkIjoiY2EyLjMzMjAudG9wIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJmZGZlOGY2YS01OTAxLTQ2ZmYtYWEzOS1mNGJlNzU4YWExNTAiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJjYTIuMzMyMC50b3AiLCJ0bHMiOiIifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDA0My1TRyIsImFkZCI6IjE1OS4yMjMuMzIuMjMwIiwicG9ydCI6IjgwODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNzAwMjMzMGQtZmUyNy00YjU2LWIyMmYtZDdlM2ViODI1ZmRiIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3R2MTMvaGQubTN1OCIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
@@ -663,7 +660,7 @@ Fork from TopFreeProxies.
     trojan://0b8b50bc-35a4-36cc-8358-a58ecbb2fc12@43.206.126.97:443?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG%E9%A2%91%E9%81%93%40mfbpn-0667-JP
     trojan://0b8b50bc-35a4-36cc-8358-a58ecbb2fc12@3.115.88.44:443?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG%E9%A2%91%E9%81%93%40mfbpn-0668-JP
     trojan://0b8b50bc-35a4-36cc-8358-a58ecbb2fc12@54.202.251.61:443?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG%E9%A2%91%E9%81%93%40mfbpn-0669-US
-    trojan://0b8b50bc-35a4-36cc-8358-a58ecbb2fc12@103.136.185.27:5517?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG%E9%A2%91%E9%81%93%40mfbpn-0670-US
+    trojan://95b@150.230.254.21:1443?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG%E9%A2%91%E9%81%93%40mfbpn-0670-US
     trojan://0b8b50bc-35a4-36cc-8358-a58ecbb2fc12@103.136.185.28:3505?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG%E9%A2%91%E9%81%93%40mfbpn-0671-US
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNjYzNWMwNS00NjhjLTQ2ZDAtOGYzNS05YTc5ZDRjNWFmMTk@%E6%9C%80%E6%96%B0%E5%AE%98%E7%BD%91%EF%BC%9Auuvpn.cloud:1080#TG%E9%A2%91%E9%81%93%40mfbpn-0672-NOWHERE
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNjYzNWMwNS00NjhjLTQ2ZDAtOGYzNS05YTc5ZDRjNWFmMTk@gdcub.yunnode.win:31640#TG%E9%A2%91%E9%81%93%40mfbpn-0673-CN
@@ -857,8 +854,8 @@ Fork from TopFreeProxies.
     trojan://95b@115.20.144.210:12461?allowInsecure=1&sni=15212712-20f5-40a5-b9aa-8363e0130171.ee137666-1e0a-46db-bbd6-cc18f9841234.accesscam.org#TG%E9%A2%91%E9%81%93%40mfbpn-0960-KR
     trojan://95b@117.123.144.67:28825?allowInsecure=1&sni=30388d70-6f5c-4d7c-8daa-9d3df7c5c526.9150e878-8296-4798-a172-c3fe66b8dee5.ddnsgeek.com#TG%E9%A2%91%E9%81%93%40mfbpn-0961-KR
     trojan://95b@59.187.245.232:35680?allowInsecure=1&sni=3ca919ae-4e52-48cb-9f79-f920f0c234bd.b6071df2-af24-4fe5-a53c-5482f4bf5bce.kozow.com#TG%E9%A2%91%E9%81%93%40mfbpn-0962-KR
+    trojan://95b@211.107.201.14:25001?allowInsecure=1&sni=5ae52850-e7f0-481c-8cff-6c1ed17fd9f1.91f1a2e9-9f15-4330-996f-0b6bc7c8fa5b.theworkpc.com#TG%E9%A2%91%E9%81%93%40mfbpn-0963-KR
     trojan://95b@146.56.112.139:19276?allowInsecure=1&sni=478a9f2a-0d66-4035-a797-06e9c83c6739.3869fe04-6fcd-4ad4-a8f4-40582f4fa0c4.giize.com#TG%E9%A2%91%E9%81%93%40mfbpn-0964-KR
-    trojan://95b@150.230.254.21:1443?allowInsecure=1&sni=478a9f2a-0d66-4035-a797-06e9c83c6739.3869fe04-6fcd-4ad4-a8f4-40582f4fa0c4.giize.com#TG%E9%A2%91%E9%81%93%40mfbpn-0965-KR
     trojan://95b@146.56.98.233:65321?allowInsecure=1&sni=30388d70-6f5c-4d7c-8daa-9d3df7c5c526.9150e878-8296-4798-a172-c3fe66b8dee5.ddnsgeek.com#TG%E9%A2%91%E9%81%93%40mfbpn-0966-KR
     trojan://95b@193.122.102.79:18161?allowInsecure=1&sni=478a9f2a-0d66-4035-a797-06e9c83c6739.3869fe04-6fcd-4ad4-a8f4-40582f4fa0c4.giize.com#TG%E9%A2%91%E9%81%93%40mfbpn-0967-KR
     trojan://95b@45.155.121.169:443?allowInsecure=1&sni=68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org#TG%E9%A2%91%E9%81%93%40mfbpn-0968-NL
@@ -1196,10 +1193,9 @@ Fork from TopFreeProxies.
     trojan://5xYSOAqDIpn4CeSjN3lRgXaAy8267e3czBy9TuSwC3R8FaYEFZalZD0xCDO3pK@caterpie.superpokemon.com:18331?allowInsecure=1&sni=caterpie.superpokemon.com#TG%E9%A2%91%E9%81%93%40mfbpn-1462-JP
     trojan://DaYaplOl83F0CeS43DEZ692Cxx3DqFyaewNAKCujAIn5ZypgSRT3R7XYBOcz8S@citylife.freetrade.link:18331?allowInsecure=1&sni=citylife.freetrade.link#TG%E9%A2%91%E9%81%93%40mfbpn-1469-US
     trojan://z8lCAl8SOAe53DSxEDNZSyx4wFKBuacYTFRD2pCy39aOjYq30pgICRnZ73e6Xa@deliver.missionsec.io:443?allowInsecure=1&sni=deliver.missionsec.io#TG%E9%A2%91%E9%81%93%40mfbpn-1470-US
-    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.124.182.43:443#TG%E9%A2%91%E9%81%93%40mfbpn-1471-KR
     trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@36.231.79.94:11125?allowInsecure=1&sni=tw3.233235.xyz#TG%E9%A2%91%E9%81%93%40mfbpn-1475-TW
     trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@111.250.100.69:6678?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-1476-TW
-    trojan://95b@211.107.201.14:25001?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-1484-CA
+    trojan://telegram-id-directvpn@3.98.214.84:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-1484-CA
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@179.49.5.114:989#TG%E9%A2%91%E9%81%93%40mfbpn-1486-EC
     ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag@80.92.204.106:9084#TG%E9%A2%91%E9%81%93%40mfbpn-1495-DE
     ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@80.92.204.106:9094#TG%E9%A2%91%E9%81%93%40mfbpn-1496-DE
@@ -1223,10 +1219,14 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6WnBORERLUnU5TWFnTnZhZg@80.92.204.106:9015#TG%E9%A2%91%E9%81%93%40mfbpn-1514-DE
     ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA@80.92.204.106:9010#TG%E9%A2%91%E9%81%93%40mfbpn-1515-DE
     ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA@80.92.204.106:9064#TG%E9%A2%91%E9%81%93%40mfbpn-1516-DE
+    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.199.82.18:443#TG%E9%A2%91%E9%81%93%40mfbpn-1526-JP
+    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.207.213.253:443#TG%E9%A2%91%E9%81%93%40mfbpn-1527-JP
+    ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNmZkYzczZC0wYmZmLTRkNjYtOTc1OS1lODFjNjNkZTE2YjY@yd1.qianggewangluo.buzz:10809#TG%E9%A2%91%E9%81%93%40mfbpn-1529-CN
     trojan://DaYaplOl83F0CeS43DEZ692Cxx3DqFyaewNAKCujAIn5ZypgSRT3R7XYBOcz8S@citylife.freetrade.link:18331?allowInsecure=1&sni=citylife.freetrade.link#TG%E9%A2%91%E9%81%93%40mfbpn-1561-US
     trojan://z8lCAl8SOAe53DSxEDNZSyx4wFKBuacYTFRD2pCy39aOjYq30pgICRnZ73e6Xa@deliver.missionsec.io:443?allowInsecure=1&sni=deliver.missionsec.io#TG%E9%A2%91%E9%81%93%40mfbpn-1562-US
     trojan://telegram-id-privatevpns@35.178.100.186:22222?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-1606-GB
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTHBoeUVNUVQ4bmJHOEVJbVgwQTJE@5.35.47.122:45635#TG%E9%A2%91%E9%81%93%40mfbpn-1611-NL
+    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.62.188:443#TG%E9%A2%91%E9%81%93%40mfbpn-1620-KR
     
 
 
