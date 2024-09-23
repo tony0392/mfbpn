@@ -31,6 +31,7 @@ Fork from TopFreeProxies.
   <summary>展开复制节点</summary>
 
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NTk1ZjFjZi1kN2MwLTQxMjEtYTNiZi0xOWU0MjNjMWY5YTE@89.185.85.145:18888#TG%E9%A2%91%E9%81%93%40mfbpn-0000-DE
+    vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwNy1KUCIsImFkZCI6IjE1Ny4yNTQuMTkzLjY4IiwicG9ydCI6IjEwMDIwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImYxZjQ1MDA1LWYwNzQtNDMwYi1hNGRiLTcxMDlmNTBjM2JjZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwOC1LUiIsImFkZCI6IjE1OC4yNDcuMjM0LjIwOSIsInBvcnQiOiIyMTAwOCIsInR5cGUiOiJub25lIiwiaWQiOiIyMTBmNWQ3Mi0yN2Y1LTRiMjMtYTJkNi0xYzA3ZTg5ZjU4NmMiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwOS1TRyIsImFkZCI6IjE1OS4yMjMuMzIuMjMwIiwicG9ydCI6IjgwODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNzAwMjMzMGQtZmUyNy00YjU2LWIyMmYtZDdlM2ViODI1ZmRiIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3R2MTMvaGQubTN1OCIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@162.251.61.221:806#TG%E9%A2%91%E9%81%93%40mfbpn-0010-US
@@ -1221,7 +1222,6 @@ Fork from TopFreeProxies.
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDc0NzUxNC1mYjE0LTRmMzEtODM5MC1lMWYwNDUzZWZmNmQ@jp1.mhw7e2.online:20001#TG%E9%A2%91%E9%81%93%40mfbpn-1297-CN
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDc0NzUxNC1mYjE0LTRmMzEtODM5MC1lMWYwNDUzZWZmNmQ@jp1.mhw7e2.online:20025#TG%E9%A2%91%E9%81%93%40mfbpn-1298-CN
     trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@118.167.11.28:703?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-1347-TW
-    trojan://lNOcIAxy@36.151.192.239:36442?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-1350-CN
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZDI5ZDdhZC01ZmRhLTRmNjQtYTU3ZS03MTZjYTYwMTBlNjU@yidong1.liulangdiqiu.life:10712#TG%E9%A2%91%E9%81%93%40mfbpn-1354-CN
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@179.49.5.114:989#TG%E9%A2%91%E9%81%93%40mfbpn-1355-EC
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.207.213.253:443#TG%E9%A2%91%E9%81%93%40mfbpn-1363-JP
@@ -1232,11 +1232,11 @@ Fork from TopFreeProxies.
 </details>
 
 ### 所有节点
-合并节点总数: `1377`
+合并节点总数: `1379`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1377`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1379`
 
 
 ## 仓库声明
