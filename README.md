@@ -673,8 +673,8 @@ Fork from TopFreeProxies.
     trojan://77c1be91-51bd-3b98-b16e-4bd7cb50d76a@43.206.126.97:443?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG%E9%A2%91%E9%81%93%40mfbpn-0647-JP
     trojan://77c1be91-51bd-3b98-b16e-4bd7cb50d76a@35.74.248.202:443?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG%E9%A2%91%E9%81%93%40mfbpn-0648-JP
     trojan://77c1be91-51bd-3b98-b16e-4bd7cb50d76a@35.93.203.243:443?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG%E9%A2%91%E9%81%93%40mfbpn-0649-US
-    trojan://77c1be91-51bd-3b98-b16e-4bd7cb50d76a@103.136.185.27:5517?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG%E9%A2%91%E9%81%93%40mfbpn-0650-US
-    trojan://95b@5.226.51.75:19357?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG%E9%A2%91%E9%81%93%40mfbpn-0651-US
+    trojan://95b@5.226.51.75:19357?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG%E9%A2%91%E9%81%93%40mfbpn-0650-US
+    trojan://77c1be91-51bd-3b98-b16e-4bd7cb50d76a@103.136.185.28:3506?allowInsecure=1&sni=AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM#TG%E9%A2%91%E9%81%93%40mfbpn-0651-US
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZWVlOThlNS01OGY5LTQxNjctODhhZS0wOGM3Yzk1NGMyMDE@%E6%9C%80%E6%96%B0%E5%AE%98%E7%BD%91%EF%BC%9Auuvpn.cloud:1080#TG%E9%A2%91%E9%81%93%40mfbpn-0652-NOWHERE
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZWVlOThlNS01OGY5LTQxNjctODhhZS0wOGM3Yzk1NGMyMDE@gdcub.yunnode.win:31640#TG%E9%A2%91%E9%81%93%40mfbpn-0653-CN
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZWVlOThlNS01OGY5LTQxNjctODhhZS0wOGM3Yzk1NGMyMDE@gdcub.yunnode.win:31644#TG%E9%A2%91%E9%81%93%40mfbpn-0654-CN
@@ -1233,11 +1233,11 @@ Fork from TopFreeProxies.
 </details>
 
 ### 所有节点
-合并节点总数: `1425`
+合并节点总数: `1412`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1425`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1412`
 
 
 ## 仓库声明
