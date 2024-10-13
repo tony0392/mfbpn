@@ -34,7 +34,6 @@ Fork from TopFreeProxies.
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwMS1SRUxBWSIsImFkZCI6IjE3Mi42Ny4xOTYuMCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNGRiOTllOTYtM2VlMy00MTljLWIxZmItODU2OTc1ODAxMzgwIiwiYWlkIjoiNjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwiaG9zdCI6IiIsInRscyI6IiJ9
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwMi1SRUxBWSIsImFkZCI6IjE0MS4xMDEuMTE0LjIwIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiIwN2E2M2ZlMy04YTQ2LTRmODktYjU0OC05MTUxYzYxYjlkYzgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Rvbmd0YWl3YW5nLmNvbSIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwMy1OT1dIRVJFIiwiYWRkIjoidXM2YjMxLW5vZGUuYWlxaWNoZTEyMy5jb20iLCJwb3J0IjoiODE5MCIsInR5cGUiOiJub25lIiwiaWQiOiJhOTA1OTdjMS1iYWIzLTQyMTctYWQ2Zi0wODM4Njc1Yzg2NTMiLCJhaWQiOiIxMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvZG9uZ3RhaXdhbmcuY29tIiwiaG9zdCI6InVzNmIzMS1ub2RlLmFpcWljaGUxMjMuY29tIiwidGxzIjoiIn0=
-    vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwNC1VUyIsImFkZCI6ImFoLnlkMDEucGFvcGFvY2xvdWQuY3lvdSIsInBvcnQiOiIxMDAxNCIsInR5cGUiOiJub25lIiwiaWQiOiJkOGM1YjQ4Ni04NGJiLTM4ODctYTFkOS0wNzQ1NWVhNjA4ZjIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YycmF5IiwiaG9zdCI6ImFoLnlkMDEucGFvcGFvY2xvdWQuY3lvdSIsInRscyI6IiJ9
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwNS1SRUxBWSIsImFkZCI6InNob3BpZnkuY29tIiwicG9ydCI6IjIwODYiLCJ0eXBlIjoibm9uZSIsImlkIjoiZGM4YjY0ZGItZWI2ZC00YmRmLTk4YjItMzE2MTUzMTliZWE4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmllcyIsImhvc3QiOiJzaG9waWZ5LmNvbSIsInRscyI6IiJ9
     ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.19:7002#TG%E9%A2%91%E9%81%93%40mfbpn-0006-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDAwNy1VUyIsImFkZCI6ImF6LmhrMDEucGFvcGFvY2xvdWQuY3lvdSIsInBvcnQiOiIxMDAxMSIsInR5cGUiOiJub25lIiwiaWQiOiJkOGM1YjQ4Ni04NGJiLTM4ODctYTFkOS0wNzQ1NWVhNjA4ZjIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YycmF5IiwiaG9zdCI6ImF6LmhrMDEucGFvcGFvY2xvdWQuY3lvdSIsInRscyI6IiJ9
@@ -640,6 +639,7 @@ Fork from TopFreeProxies.
     trojan://5df100fb-634a-3ef7-92e1-f9e7993cc6a0@lavip101.qlgq.fun:11156?allowInsecure=1&sni=lavip101.qlgq.fun#TG%E9%A2%91%E9%81%93%40mfbpn-0607-US
     trojan://5df100fb-634a-3ef7-92e1-f9e7993cc6a0@lavip101.qlgq.fun:21156?allowInsecure=1&sni=lavip101.qlgq.fun#TG%E9%A2%91%E9%81%93%40mfbpn-0608-US
     trojan://5df100fb-634a-3ef7-92e1-f9e7993cc6a0@lavip101.qlgq.fun:31156?allowInsecure=1&sni=lavip101.qlgq.fun#TG%E9%A2%91%E9%81%93%40mfbpn-0609-US
+    trojan://5df100fb-634a-3ef7-92e1-f9e7993cc6a0@lavip102.qlgq.fun:49643?allowInsecure=1&sni=lavip102.qlgq.fun#TG%E9%A2%91%E9%81%93%40mfbpn-0610-US
     trojan://5df100fb-634a-3ef7-92e1-f9e7993cc6a0@lavip102.qlgq.fun:20443?allowInsecure=1&sni=lavip102.qlgq.fun#TG%E9%A2%91%E9%81%93%40mfbpn-0611-US
     trojan://5df100fb-634a-3ef7-92e1-f9e7993cc6a0@lavip102.qlgq.fun:30443?allowInsecure=1&sni=lavip102.qlgq.fun#TG%E9%A2%91%E9%81%93%40mfbpn-0612-US
     trojan://5df100fb-634a-3ef7-92e1-f9e7993cc6a0@ukvip101.qlgq.fun:14568?allowInsecure=1&sni=ukvip101.qlgq.fun#TG%E9%A2%91%E9%81%93%40mfbpn-0613-GB
