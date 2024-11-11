@@ -56,11 +56,11 @@ proxies:
   - {name: "0,13|🇺🇸 美国3|@ripaojiedian", server: 156.146.38.168, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
   - {name: 0|-https//t.me/MrXbin-12, server: 45.87.175.164, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true}
   - {name: 0|-https//t.me/MrXbin-13, server: 45.87.175.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true}
+  - {name: 0|-https//t.me/MrXbin-17, server: 37.19.198.160, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
   - {name: 0|-https//t.me/MrXbin-2, server: 45.87.175.188, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg, udp: true}
   - {name: 0|-https//t.me/MrXbin-3, server: 38.121.43.204, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
   - {name: 0|-https//t.me/MrXbin-34, server: us-am3.eqnode.net, port: 8081, type: ssr, cipher: aes-256-cfb, password: fou8MBGij, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: "", udp: true}
   - {name: 0|-https//t.me/MrXbin-46, server: 172.64.198.249, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip18.6929198.xyz}}, udp: true}
-  - {name: 0|-https//t.me/MrXbin-6, server: 107.155.57.51, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
   - {name: 0|-https//t.me/MrXbin-7, server: 54.187.244.22, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: 0|-https//t.me/MrXbin-8, server: 38.121.43.204, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
   - {name: "13,14|台湾|@ripaojiedian", server: svip.88de.hongxingdl.vip, port: 18147, type: trojan, password: 9cf656d0-6283-4a69-a64c-3806529ba2cd, sni: mm2.redapricotcloud.com, skip-cert-verify: true, udp: true}
@@ -180,6 +180,7 @@ proxies:
   - {name: _US_美国_11 2, server: 38.114.114.143, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
   - {name: _US_美国_11 2 2, server: 142.202.49.68, port: 9090, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: _US_美国_12, server: 156.146.38.168, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
+  - {name: _US_美国_2, server: 156.146.38.168, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
   - {name: _US_美国_2 2, server: 205.134.180.150, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 5cp9Z3iWnJZ2, udp: true}
   - {name: _US_美国_2 2 2, server: 156.146.38.168, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
   - {name: _US_美国_3, server: 212.102.47.131, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
@@ -273,12 +274,11 @@ proxies:
   - {name: 美国 CloudFlare节点 3, server: darat.homes, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: linkvws, headers: {Host: darat.homes}}, udp: true}
   - {name: 美国 Fastly全球Anycast节点, server: gov.uk, port: 443, type: vmess, uuid: 77848824-93b7-4b89-ffd0-e91afff406ce, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /77848824, headers: {Host: zheshiscp.com}}, udp: true}
   - {name: 美国 V2CROSS.COM, server: 23.162.200.227, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /linkvws}, udp: true}
-  - {name: 美国 V2CROSS.COM 2, server: 149.22.95.183, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
   - {name: 美国 华盛顿Cogent通信公司, server: 38.114.114.143, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
   - {name: 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: 8a5d95cb-f67a-3334-af11-f7f1799029fa, sni: lavip101.qlgq.fun, skip-cert-verify: true, udp: true}
-  - {name: 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: 8a5d95cb-f67a-3334-af11-f7f1799029fa, sni: lavip101.qlgq.fun, skip-cert-verify: true, udp: true}
   - {name: 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: 8a5d95cb-f67a-3334-af11-f7f1799029fa, sni: lavip101.qlgq.fun, skip-cert-verify: true, udp: true}
   - {name: 美国 洛杉矶104 - 墙了个墙, server: lavip102.qlgq.fun, port: 49643, type: trojan, password: 8a5d95cb-f67a-3334-af11-f7f1799029fa, sni: lavip102.qlgq.fun, skip-cert-verify: true, udp: true}
+  - {name: 美国 洛杉矶105 - 墙了个墙, server: lavip102.qlgq.fun, port: 20443, type: trojan, password: 8a5d95cb-f67a-3334-af11-f7f1799029fa, sni: lavip102.qlgq.fun, skip-cert-verify: true, udp: true}
   - {name: 美国 洛杉矶106 - 墙了个墙, server: lavip102.qlgq.fun, port: 30443, type: trojan, password: 8a5d95cb-f67a-3334-af11-f7f1799029fa, sni: lavip102.qlgq.fun, skip-cert-verify: true, udp: true}
   - {name: 美国3|@ripaojiedian, server: 156.146.38.168, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
   - {name: 美国3|@ripaojiedian 2, server: 156.146.38.168, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
@@ -328,7 +328,7 @@ proxies:
   - {name: "香港[06]", server: 107.149.254.26, port: 159, type: trojan, password: 6f4715bf-1653-49fd-89ea-a43e0d4a99ec, skip-cert-verify: true, udp: true}
   - {name: "香港[07]中转", server: vip.baima360.com, port: 36214, type: ss, cipher: chacha20-ietf-poly1305, password: 6f4715bf-1653-49fd-89ea-a43e0d4a99ec, udp: true}
   - {name: 香港|@ripaojiedian, server: 183.240.255.75, port: 11001, type: ss, cipher: chacha20-ietf-poly1305, password: 94c4e6e0-85b4-4740-81c2-cc7d1afd3c02, udp: true}
-  - {name: 香港|@ripaojiedian 2ss//YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.168443#_US_美国_2, server: 183.240.255.75, port: 11001, type: ss, cipher: chacha20-ietf-poly1305, password: 94c4e6e0-85b4-4740-81c2-cc7d1afd3c02, udp: true}
+  - {name: 香港|@ripaojiedian 2ss//YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183443#美国 V2CROSS.COM 2, server: 183.240.255.75, port: 11001, type: ss, cipher: chacha20-ietf-poly1305, password: 94c4e6e0-85b4-4740-81c2-cc7d1afd3c02, udp: true}
   - {name: 马来西亚 001 - 墙了个墙, server: klvip101.qlgq.fun, port: 10443, type: trojan, password: 8a5d95cb-f67a-3334-af11-f7f1799029fa, sni: klvip101.qlgq.fun, skip-cert-verify: true, udp: true}
   - {name: 马来西亚 002 - 墙了个墙, server: klvip101.qlgq.fun, port: 20443, type: trojan, password: 8a5d95cb-f67a-3334-af11-f7f1799029fa, sni: klvip101.qlgq.fun, skip-cert-verify: true, udp: true}
   - {name: 马来西亚 003 - 墙了个墙, server: klvip101.qlgq.fun, port: 30443, type: trojan, password: 8a5d95cb-f67a-3334-af11-f7f1799029fa, sni: klvip101.qlgq.fun, skip-cert-verify: true, udp: true}
@@ -348,11 +348,11 @@ proxy-groups:
       - 0,13|🇺🇸 美国3|@ripaojiedian
       - 0|-https//t.me/MrXbin-12
       - 0|-https//t.me/MrXbin-13
+      - 0|-https//t.me/MrXbin-17
       - 0|-https//t.me/MrXbin-2
       - 0|-https//t.me/MrXbin-3
       - 0|-https//t.me/MrXbin-34
       - 0|-https//t.me/MrXbin-46
-      - 0|-https//t.me/MrXbin-6
       - 0|-https//t.me/MrXbin-7
       - 0|-https//t.me/MrXbin-8
       - 13,14|台湾|@ripaojiedian
@@ -472,6 +472,7 @@ proxy-groups:
       - _US_美国_11 2
       - _US_美国_11 2 2
       - _US_美国_12
+      - _US_美国_2
       - _US_美国_2 2
       - _US_美国_2 2 2
       - _US_美国_3
@@ -565,12 +566,11 @@ proxy-groups:
       - 美国 CloudFlare节点 3
       - 美国 Fastly全球Anycast节点
       - 美国 V2CROSS.COM
-      - 美国 V2CROSS.COM 2
       - 美国 华盛顿Cogent通信公司
       - 美国 洛杉矶101 - 墙了个墙
-      - 美国 洛杉矶102 - 墙了个墙
       - 美国 洛杉矶103 - 墙了个墙
       - 美国 洛杉矶104 - 墙了个墙
+      - 美国 洛杉矶105 - 墙了个墙
       - 美国 洛杉矶106 - 墙了个墙
       - 美国3|@ripaojiedian
       - 美国3|@ripaojiedian 2
@@ -620,7 +620,7 @@ proxy-groups:
       - 香港[06]
       - 香港[07]中转
       - 香港|@ripaojiedian
-      - 香港|@ripaojiedian 2ss//YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.168443#_US_美国_2
+      - 香港|@ripaojiedian 2ss//YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183443#美国 V2CROSS.COM 2
       - 马来西亚 001 - 墙了个墙
       - 马来西亚 002 - 墙了个墙
       - 马来西亚 003 - 墙了个墙
