@@ -16,8 +16,8 @@ Fork from TopFreeProxies.
 ## 使用方法
 将以下订阅链接导入相应客户端即可。链接中大部分为 SS 协议节点，少量 Vmess, Trojan ,SSR 协议节点，建议选择协议支持完整的客户端。
 
-- [多协议Base64编码](https://raw.githubusercontent.com/caijh/FreeProxiesScraper/master/Eternity)
-- [Clash](https://raw.githubusercontent.com/caijh/FreeProxiesScraper/master/Eternity.yaml)
+- [多协议Base64编码](https://raw.githubusercontent.com/tony0392/mfbpn/master/Eternity)
+- [Clash](https://raw.githubusercontent.com/tony0392/mfbpn/master/Eternity.yaml)
 
 >`Clash`链接所使用的配置在仓库`./update/provider/`中，有相应配置文件和以国家分类的`proxy-provider`。
 >
@@ -506,7 +506,7 @@ Fork from TopFreeProxies.
 
 ### 所有节点
 合并节点总数: `403`
-[节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
+[节点链接](https://raw.githubusercontent.com/tony0392/mfbpn/refs/heads/main/sub/sub_merge_base64.txt)
 
 ### 节点来源
 - [6mksshare](https://github.com/mksshare/mksshare.github.io), 节点数量: `1`
