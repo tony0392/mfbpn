@@ -152,17 +152,17 @@ proxies:
   - {name: 中国 - 香港 - Akile LTD - 7, server: h-k03.loveroise.com, port: 54004, type: ss, cipher: chacha20-ietf-poly1305, password: 09833a6f-4d46-426e-87fe-7793a5489f84, udp: true}
   - {name: 中国 - 香港 - Cnservers LLC - 5, server: 183.236.48.143, port: 31878, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 中国 - 香港 - Cnservers LLC - 6, server: 183.236.48.143, port: 41490, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 丹麦 V2CROSS.COM, server: 195.85.59.158, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip18.6929198.xyz}}, udp: true}
   - {name: 俄罗斯, server: 185.22.152.125, port: 32233, type: ss, cipher: aes-256-gcm, password: dongtaiwang.com, udp: true}
   - {name: 俄罗斯 - 莫斯科 - LLC Baxet - 1, server: eedp257bubu2wefy2.lovebaipiao.net, port: 80, type: vmess, uuid: 7fada3ba-7c86-44b7-bc0a-4bc08ad9c6b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /iphone, headers: {Host: eedp257bubu2wefy2.lovebaipiao.net}}, udp: true}
-  - {name: 俄罗斯 V2CROSS.COM, server: 185.242.86.156, port: 54170, type: ss, cipher: chacha20-ietf-poly1305, password: 36ZCHeabUSfKjfQEvJ4HDV, udp: true}
-  - {name: 俄罗斯 V2CROSS.COM 2, server: socks5tobefree.ydns.eu, port: 33026, type: vmess, uuid: e00f5c12-09e3-490c-b702-29155b6dcc50, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /dangerzone, headers: {Host: socks5tobefree.ydns.eu}}, udp: true}
   - {name: "俄罗斯[01]中转", server: vip.baima360.com, port: 23499, type: ss, cipher: chacha20-ietf-poly1305, password: dbcf1e76-8168-43a2-8e5c-b265e527d452, udp: true}
   - {name: 加拿大 - 多伦多 - Amazon Technologies Inc. - 1, server: 3.96.13.141, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
   - {name: "加拿大[01]中转", server: vip.baima360.com, port: 29292, type: ss, cipher: chacha20-ietf-poly1305, password: dbcf1e76-8168-43a2-8e5c-b265e527d452, udp: true}
-  - {name: 北美地区 V2CROSS.COM, server: 23.157.40.85, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: 印度 V2CROSS.COM, server: 202.78.162.5, port: 443, type: vmess, uuid: 2ff97c6d-8557-42a4-b43f-19c77c5959ea, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: irsoft.sytes.net}}, udp: true}
+  - {name: 印度 V2CROSS.COM 2, server: 202.78.162.5, port: 443, type: vmess, uuid: 716eded6-2201-4dbd-9d63-1638c9e8e677, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pendar.onthewifi.com}}, udp: true}
   - {name: "印度[01]", server: pop.6801ae4e-545d-471e-8de5-413dc61b505b.heima360.cc, port: 443, type: trojan, password: dbcf1e76-8168-43a2-8e5c-b265e527d452, sni: pop.6801ae4e-545d-471e-8de5-413dc61b505b.heima360.cc, skip-cert-verify: true, udp: true}
   - {name: "台湾[01]中转", server: vip.baima360.com, port: 41004, type: ss, cipher: chacha20-ietf-poly1305, password: dbcf1e76-8168-43a2-8e5c-b265e527d452, udp: true}
-  - {name: 台湾|@ripaojiedian, server: soontw.soon.guru, port: 40020, type: ss, cipher: chacha20-ietf-poly1305, password: F585FCDB-6351-48D4-82C1-599B5447A589, udp: true}
+  - {name: 台湾|@ripaojiedian, server: 210.61.97.241, port: 81, type: trojan, password: ouo, sni: tr.koiok.us.kg, skip-cert-verify: true, network: ws, ws-opts: {path: "%25252F%25253Fed%25253D2560", headers: {Host: tr.koiok.us.kg}}, udp: true}
   - {name: "巴西[01]中转", server: vip.baima360.com, port: 30752, type: ss, cipher: chacha20-ietf-poly1305, password: dbcf1e76-8168-43a2-8e5c-b265e527d452, udp: true}
   - {name: 德国 法兰克福101 - 墙了个墙, server: fkvip102.qlgq.fun, port: 11789, type: trojan, password: e1866eea-793e-36cb-8986-068b906bdecb, sni: fkvip102.qlgq.fun, skip-cert-verify: true, udp: true}
   - {name: 德国 法兰克福102 - 墙了个墙, server: fkvip102.qlgq.fun, port: 21789, type: trojan, password: e1866eea-793e-36cb-8986-068b906bdecb, sni: fkvip102.qlgq.fun, skip-cert-verify: true, udp: true}
@@ -185,26 +185,26 @@ proxies:
   - {name: "日本 - 东京 - Amazon.com, Inc. - 4", server: 43.207.112.115, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: "日本 - 大阪市 - Akamai Technologies, Inc. - 5", server: j-p01.loveroise.com, port: 54096, type: ss, cipher: chacha20-ietf-poly1305, password: 09833a6f-4d46-426e-87fe-7793a5489f84, udp: true}
   - {name: "日本 - 大阪市 - Akamai Technologies, Inc. - 6", server: j-p02.loveroise.com, port: 54098, type: ss, cipher: chacha20-ietf-poly1305, password: 09833a6f-4d46-426e-87fe-7793a5489f84, udp: true}
-  - {name: 日本2|@ripaojiedian, server: 152.70.101.24, port: 16800, type: trojan, password: ouo, sni: tr.koiok.us.kg, skip-cert-verify: true, network: ws, ws-opts: {path: "%25252F%25253Fed%25253D2560", headers: {Host: tr.koiok.us.kg}}, udp: true}
+  - {name: 日本2|@ripaojiedian, server: aafrtpfxr.jpl04i9zjfegelp.5xfsur8v62.gosdk.xyz, port: 22269, type: trojan, password: 50cce31a-d637-4058-b2cd-9362de722d64, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: true, udp: true}
   - {name: 日本3|@ripaojiedian, server: j-p04.loveroise.com, port: 54102, type: ss, cipher: chacha20-ietf-poly1305, password: 09833a6f-4d46-426e-87fe-7793a5489f84, udp: true}
-  - {name: 日本4|@ripaojiedian, server: 61.172.235.22, port: 11001, type: ss, cipher: chacha20-ietf-poly1305, password: 62107dbc-51fc-4ca8-9bd9-67033b6a68f1, udp: true}
   - {name: "日本[01]", server: vip.baima360.com, port: 15888, type: ss, cipher: chacha20-ietf-poly1305, password: dbcf1e76-8168-43a2-8e5c-b265e527d452, udp: true}
-  - {name: 日本|@ripaojiedian, server: 36.151.192.239, port: 12176, type: trojan, password: QwwHvrnN, skip-cert-verify: true, udp: true}
-  - {name: 日本特殊|@ripaojiedian, server: 18.183.146.147, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 日本特殊|@ripaojiedian, server: 3.36.86.96, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: 未知, server: h-k02.loveroise.com, port: 54002, type: ss, cipher: chacha20-ietf-poly1305, password: 09833a6f-4d46-426e-87fe-7793a5489f84, udp: true}
   - {name: 未知 2, server: h-k01.loveroise.com, port: 54000, type: ss, cipher: chacha20-ietf-poly1305, password: 09833a6f-4d46-426e-87fe-7793a5489f84, udp: true}
   - {name: 未知 3, server: s-g04.loveroise.com, port: 54030, type: ss, cipher: chacha20-ietf-poly1305, password: 09833a6f-4d46-426e-87fe-7793a5489f84, udp: true}
   - {name: 未知 4, server: k-r03.loveroise.com, port: 54012, type: ss, cipher: chacha20-ietf-poly1305, password: 09833a6f-4d46-426e-87fe-7793a5489f84, udp: true}
+  - {name: 江苏省 移动, server: 36.151.192.242, port: 27381, type: trojan, password: QwwHvrnN, skip-cert-verify: true, udp: true}
   - {name: 法国, server: 146.19.21.61, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip18.6929198.xyz}}, udp: true}
-  - {name: 法国 - 巴黎 - Amazon Technologies Inc. - 1, server: 52.47.96.249, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
+  - {name: 法国 - 巴黎 - Amazon Technologies Inc. - 1, server: usla.mjt000.com, port: 443, type: trojan, password: 1ba48a0e-af2e-45fb-9e15-2b2d4134657c, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
   - {name: "法国[01]中转", server: vip.baima360.com, port: 39172, type: ss, cipher: chacha20-ietf-poly1305, password: dbcf1e76-8168-43a2-8e5c-b265e527d452, udp: true}
   - {name: "泰国[01]", server: pop.60b974d4-36bc-4a18-aa81-9afdce389bb7.heima360.cc, port: 443, type: trojan, password: dbcf1e76-8168-43a2-8e5c-b265e527d452, sni: pop.60b974d4-36bc-4a18-aa81-9afdce389bb7.heima360.cc, skip-cert-verify: true, udp: true}
   - {name: "澳大利亚[01]", server: pop.25cbab93-4c08-4a3c-8521-3f3d8c4b36ae.heima360.cc, port: 443, type: trojan, password: dbcf1e76-8168-43a2-8e5c-b265e527d452, sni: pop.25cbab93-4c08-4a3c-8521-3f3d8c4b36ae.heima360.cc, skip-cert-verify: true, udp: true}
-  - {name: 狮城特殊|@ripaojiedian, server: 54.251.196.3, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 狮城特殊|@ripaojiedian 2, server: 54.251.196.3, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 狮城特殊|@ripaojiedian, server: 3.38.151.109, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 狮城特殊|@ripaojiedian 2, server: 3.38.151.109, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: 瑞典 - 斯德哥尔摩 - Amazon.com - 1, server: 16.16.125.75, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
+  - {name: 立陶宛 V2CROSS.COM, server: 89.117.112.181, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip18.6929198.xyz}}, udp: true}
   - {name: 美国, server: 192.65.217.254, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip18.6929198.xyz}}, udp: true}
-  - {name: "美国 - Dublin - Amazon.com, Inc. - 5", server: 36.151.192.242, port: 51377, type: trojan, password: DNUMdmnJ, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
+  - {name: "美国 - Dublin - Amazon.com, Inc. - 5", server: 3.132.185.61, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
   - {name: 美国 - San Jose - Oracle Corporation - 36, server: h.522226.xyz, port: 45800, type: trojan, password: xjN4xcuPGg55, skip-cert-verify: true, udp: true}
   - {name: 美国 - 沃尔纳特 - Psychz Networks - 10, server: 104.26.0.32, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
   - {name: 美国 - 沃尔纳特 - Psychz Networks - 100, server: 104.26.0.244, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
@@ -268,7 +268,6 @@ proxies:
   - {name: "美国 - 波特蘭 - Amazon.com, Inc. - 3", server: 54.200.220.184, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: "美国 - 波特蘭 - Amazon.com, Inc. - 35", server: 34.219.118.99, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: "美国 - 波特蘭 - Amazon.com, Inc. - 4", server: 34.215.84.62, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 美国 - 洛杉矶 - Akari Networks - 34, server: a.naiun.node-is.green, port: 51105, type: ss, cipher: chacha20-ietf-poly1305, password: 9ffcf7da-fc63-450a-b586-7416558075c9, udp: true}
   - {name: 美国 - 洛杉矶 - Psychz Networks - 103, server: russia.com, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: russia.com}}, udp: true}
   - {name: 美国 - 洛杉矶 - Psychz Networks - 106, server: 104.26.0.129, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
   - {name: 美国 - 洛杉矶 - Psychz Networks - 12, server: 104.21.238.97, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
@@ -575,97 +574,95 @@ proxies:
   - {name: 美国 97, server: 190.93.245.114, port: 443, type: trojan, password: blue2024, sni: td.promote.icu, skip-cert-verify: true, udp: true}
   - {name: 美国 98, server: 104.19.152.44, port: 443, type: trojan, password: blue2024, sni: td.promote.icu, skip-cert-verify: true, udp: true}
   - {name: 美国 99, server: 104.16.72.34, port: 443, type: trojan, password: blue2024, sni: td.promote.icu, skip-cert-verify: true, udp: true}
-  - {name: 美国 CloudFlare节点, server: 104.21.238.58, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 10, server: 104.18.114.7, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 11, server: 104.18.114.118, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 12, server: 104.16.149.244, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip3.6929198.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 13, server: 104.21.238.206, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 14, server: 104.18.114.198, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 15, server: 104.21.238.184, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 16, server: 104.21.238.105, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 17, server: 104.26.0.122, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 18, server: 104.21.238.4, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 19, server: 104.19.45.35, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.6016725.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 2, server: 104.18.114.227, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 20, server: 104.18.114.111, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 21, server: 104.26.0.101, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 22, server: server31.beheshtbaneh.com, port: 8880, type: vmess, uuid: 4154143c-bbba-47a4-9f79-c2ed087cbcc9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: server31.beheshtbaneh.com}}, udp: true}
-  - {name: 美国 CloudFlare节点 23, server: ParsVDS.ir, port: 80, type: vmess, uuid: 4804f14b-c1f8-452d-a6ec-eff1490aeac9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /lRkGCkYS9X5GDNJYMWXN7kCm3lL, headers: {Host: hdfy6c1.freelines.net}}, udp: true}
-  - {name: 美国 CloudFlare节点 24, server: 104.19.45.15, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.6016725.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 25, server: 104.21.238.162, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 26, server: 104.26.5.113, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip3.6929198.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 27, server: 104.26.0.202, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 28, server: 104.26.0.81, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 29, server: 104.21.238.102, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 3, server: 104.18.114.48, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 30, server: 104.18.114.217, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 31, server: 104.26.0.191, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 32, server: 104.19.21.71, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip15.6016725.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 33, server: 104.18.114.232, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 34, server: 104.26.0.77, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 35, server: 104.21.82.183, port: 8880, type: vmess, uuid: 5a7021e0-26b4-45d6-b175-fe551601ca97, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: server26.beheshtbaneh.com}}, udp: true}
-  - {name: 美国 CloudFlare节点 36, server: 104.21.238.176, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 37, server: 104.26.12.31, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip8.6016725.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 38, server: 104.18.114.149, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 39, server: 104.18.114.101, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: p1.613055.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 4, server: 104.21.238.246, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 40, server: 104.21.238.37, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 41, server: 104.21.238.113, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 42, server: skk.moe, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip3.6929198.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 43, server: 104.21.238.155, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 44, server: 104.21.238.68, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 45, server: 162.159.45.167, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 46, server: 104.18.114.203, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 47, server: 104.21.238.66, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 48, server: 104.21.238.106, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 49, server: 104.21.238.200, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 5, server: 104.18.114.130, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 50, server: 104.21.238.114, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 51, server: 104.18.114.48, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 52, server: 104.21.238.110, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 53, server: 104.18.114.2, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 54, server: 104.26.0.176, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 55, server: 104.26.0.199, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 56, server: 104.21.238.7, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 57, server: 104.26.0.183, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 58, server: 104.18.114.58, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 59, server: 104.21.238.134, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 6, server: 104.18.114.164, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 60, server: 104.21.238.41, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 61, server: 104.26.0.250, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 62, server: 104.21.238.177, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 63, server: 104.18.114.107, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 64, server: 162.159.45.16, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 65, server: 104.21.238.221, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 66, server: 104.21.238.113, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 67, server: 104.26.0.32, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 68, server: 104.26.0.92, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 69, server: 104.18.114.26, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 7, server: 104.21.238.101, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 70, server: 104.21.238.75, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 71, server: 104.21.238.193, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 72, server: 190.93.245.168, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip18.6929198.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 73, server: 104.21.238.50, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 74, server: 162.159.45.246, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 75, server: 104.21.238.191, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 76, server: 104.26.0.146, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 77, server: 104.21.238.194, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 78, server: 104.18.114.147, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 79, server: 104.21.238.49, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 8, server: 104.21.238.4, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 80, server: 104.21.238.36, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 81, server: 104.21.238.222, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 82, server: 104.26.0.125, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 83, server: 104.26.0.122, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 84, server: 104.21.238.78, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 85, server: 104.21.238.162, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 86, server: 104.18.114.29, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 87, server: 104.26.0.87, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 88, server: 162.159.140.19, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.6016725.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 89, server: 104.26.0.143, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 9, server: 104.18.114.196, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
-  - {name: 美国 CloudFlare节点 90, server: 104.18.114.52, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
-  - {name: 美国 Fastly全球Anycast节点, server: gov.uk, port: 443, type: vmess, uuid: 77848824-93b7-4b89-ffd0-e91afff406ce, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /77848824, headers: {Host: zheshiscp.com}}, udp: true}
+  - {name: 美国 CloudFlare节点, server: 104.18.114.33, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 10, server: 104.26.0.36, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 11, server: 104.26.0.146, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 12, server: 104.18.114.98, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 13, server: 104.26.0.112, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 14, server: 104.21.238.215, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 15, server: 104.18.114.167, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 16, server: 104.21.238.109, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 17, server: 104.21.238.213, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 18, server: 162.159.45.192, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 19, server: 104.21.238.64, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 2, server: 104.18.114.68, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 20, server: 104.18.114.125, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 21, server: 172.64.166.20, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip18.6929198.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 22, server: 104.26.0.191, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 23, server: 104.18.114.103, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 24, server: 104.26.0.104, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 25, server: 104.21.238.178, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 26, server: 104.21.238.217, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 27, server: 104.18.114.234, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 28, server: 104.18.114.35, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 29, server: singapore.com, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip3.6929198.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 3, server: 104.26.0.85, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 30, server: 104.21.238.193, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 31, server: 104.18.114.42, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 32, server: 104.21.82.183, port: 8880, type: vmess, uuid: 5a7021e0-26b4-45d6-b175-fe551601ca97, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: server26.beheshtbaneh.com}}, udp: true}
+  - {name: 美国 CloudFlare节点 33, server: 104.21.238.4, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 34, server: www.darkroom.lol, port: 8080, type: vmess, uuid: 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.darkroom.lol}}, udp: true}
+  - {name: 美国 CloudFlare节点 35, server: 104.26.0.24, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 36, server: 190.93.244.64, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip18.6929198.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 37, server: 104.18.114.39, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 38, server: 104.26.0.103, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 39, server: 104.18.114.165, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: m1.106778.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 4, server: 104.21.238.198, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 40, server: 104.18.114.243, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 41, server: 104.18.114.111, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 42, server: 104.21.238.19, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 43, server: 104.18.114.32, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 44, server: 104.26.0.119, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 45, server: 104.18.114.195, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 46, server: 104.26.0.178, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 47, server: 104.18.114.126, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 48, server: 104.21.238.104, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 49, server: 104.26.0.134, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 5, server: 104.21.238.16, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 50, server: 104.21.238.168, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 51, server: 104.21.238.121, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 52, server: 104.26.0.192, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 53, server: 104.21.238.201, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 54, server: 104.18.114.150, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 55, server: 104.18.114.68, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 56, server: 104.26.0.54, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 57, server: 104.18.114.92, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 58, server: 104.21.238.18, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 59, server: 104.26.0.82, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 6, server: 104.19.45.17, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.6016725.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 60, server: 104.17.213.241, port: 80, type: vmess, uuid: e6543319-0574-42ac-b778-1c4325d626f5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: chunchuan.kejixiaoqi666.store}}, udp: true}
+  - {name: 美国 CloudFlare节点 61, server: 104.26.0.29, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 62, server: 104.26.0.218, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 63, server: 104.18.114.37, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 64, server: 162.159.45.246, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 65, server: 104.21.238.145, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 66, server: 104.21.238.82, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 67, server: 104.18.114.139, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 68, server: 104.21.238.83, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 69, server: 104.26.0.99, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 7, server: 104.26.0.244, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 70, server: 104.18.114.226, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 71, server: 104.18.114.110, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 72, server: 104.21.238.177, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 73, server: 104.26.0.133, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 74, server: 104.18.114.174, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 75, server: 104.21.238.102, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 76, server: 104.26.0.19, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 77, server: 104.21.238.219, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 78, server: 104.18.114.134, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 79, server: 104.26.0.103, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 8, server: 104.18.114.60, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 80, server: 190.93.247.127, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip18.6929198.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 81, server: 104.26.0.232, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 82, server: 104.21.238.24, port: 2086, type: vmess, uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: p1.613055.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 83, server: 104.21.238.111, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 84, server: 104.18.114.163, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 85, server: 104.19.45.35, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.6016725.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 86, server: 104.21.238.163, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: c3.6016725.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 87, server: 104.26.0.68, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 88, server: 104.26.0.138, port: 8880, type: vmess, uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m1.106778.xyz}}, udp: true}
+  - {name: 美国 CloudFlare节点 9, server: 104.21.238.38, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e4.6929198.xyz}}, udp: true}
+  - {name: 美国 加利福尼亚州旧金山市Awknet通信公司, server: 67.220.66.51, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: linkvws, headers: {Host: 67.220.66.51}}, udp: true}
   - {name: 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: e1866eea-793e-36cb-8986-068b906bdecb, sni: lavip101.qlgq.fun, skip-cert-verify: true, udp: true}
   - {name: 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: e1866eea-793e-36cb-8986-068b906bdecb, sni: lavip101.qlgq.fun, skip-cert-verify: true, udp: true}
   - {name: 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: e1866eea-793e-36cb-8986-068b906bdecb, sni: lavip101.qlgq.fun, skip-cert-verify: true, udp: true}
@@ -677,6 +674,7 @@ proxies:
   - {name: "美国[02]中转", server: vip.baima360.com, port: 30104, type: ss, cipher: chacha20-ietf-poly1305, password: dbcf1e76-8168-43a2-8e5c-b265e527d452, udp: true}
   - {name: "美国[03]中转", server: vip.baima360.com, port: 17941, type: ss, cipher: chacha20-ietf-poly1305, password: dbcf1e76-8168-43a2-8e5c-b265e527d452, udp: true}
   - {name: "美国[04]", server: 45.83.140.22, port: 658, type: trojan, password: dbcf1e76-8168-43a2-8e5c-b265e527d452, skip-cert-verify: true, udp: true}
+  - {name: 英国 - 伦敦 - Amazon Technologies Inc. - 1, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg, udp: true}
   - {name: 英国 - 伦敦 - Amazon Technologies Inc. - 3, server: 35.179.220.39, port: 1935, type: trojan, password: O7Iz39gyjV, sni: x1uk-amazon.devefun.net, skip-cert-verify: true, udp: true}
   - {name: 英国 - 伦敦 - Amazon Technologies Inc. - 4, server: x1uk-amazon.devefun.net, port: 1935, type: trojan, password: O7Iz39gyjV, sni: x1uk-amazon.devefun.net, skip-cert-verify: true, udp: true}
   - {name: 英国 - 伦敦 - Amazon Technologies Inc. - 6, server: 18.135.146.128, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
@@ -696,7 +694,7 @@ proxies:
   - {name: 韩国3|@ripaojiedian, server: k-r03.loveroise.com, port: 54012, type: ss, cipher: chacha20-ietf-poly1305, password: 09833a6f-4d46-426e-87fe-7793a5489f84, udp: true}
   - {name: "韩国[01]", server: 107.148.58.157, port: 558, type: trojan, password: dbcf1e76-8168-43a2-8e5c-b265e527d452, skip-cert-verify: true, udp: true}
   - {name: 韩国|@ripaojiedian, server: k-r01.loveroise.com, port: 54008, type: ss, cipher: chacha20-ietf-poly1305, password: 09833a6f-4d46-426e-87fe-7793a5489f84, udp: true}
-  - {name: 韩国特殊|@ripaojiedian, server: 13.250.110.56, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 韩国特殊|@ripaojiedian, server: 18.143.139.72, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: 香港 101 - 墙了个墙, server: hkvip101.qlgq.fun, port: 12249, type: trojan, password: e1866eea-793e-36cb-8986-068b906bdecb, sni: hkvip101.qlgq.fun, skip-cert-verify: true, udp: true}
   - {name: 香港 102 - 墙了个墙, server: hkvip101.qlgq.fun, port: 22249, type: trojan, password: e1866eea-793e-36cb-8986-068b906bdecb, sni: hkvip101.qlgq.fun, skip-cert-verify: true, udp: true}
   - {name: 香港 103 - 墙了个墙, server: hkvip102.qlgq.fun, port: 32249, type: trojan, password: e1866eea-793e-36cb-8986-068b906bdecb, sni: hkvip102.qlgq.fun, skip-cert-verify: true, udp: true}
@@ -707,15 +705,13 @@ proxies:
   - {name: 香港 108 - 墙了个墙, server: hkvip104.qlgq.fun, port: 46216, type: trojan, password: e1866eea-793e-36cb-8986-068b906bdecb, sni: hkvip104.qlgq.fun, skip-cert-verify: true, udp: true}
   - {name: 香港 109 - 墙了个墙, server: hkvip105.qlgq.fun, port: 41116, type: trojan, password: e1866eea-793e-36cb-8986-068b906bdecb, sni: hkvip105.qlgq.fun, skip-cert-verify: true, udp: true}
   - {name: 香港 110 - 墙了个墙, server: hkvip105.qlgq.fun, port: 51116, type: trojan, password: e1866eea-793e-36cb-8986-068b906bdecb, sni: hkvip105.qlgq.fun, skip-cert-verify: true, udp: true}
-  - {name: 香港10|@ripaojiedian, server: 154.197.26.237, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true}
   - {name: 香港2|@ripaojiedian, server: 36.151.192.242, port: 18682, type: trojan, password: QwwHvrnN, skip-cert-verify: true, udp: true}
   - {name: 香港3|@ripaojiedian, server: 120.198.71.214, port: 32193, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 香港4|@ripaojiedian, server: h-k02.loveroise.com, port: 54002, type: ss, cipher: chacha20-ietf-poly1305, password: 09833a6f-4d46-426e-87fe-7793a5489f84, udp: true}
   - {name: 香港5|@ripaojiedian, server: 183.236.48.163, port: 58831, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 香港6|@ripaojiedian, server: h-k01.loveroise.com, port: 54000, type: ss, cipher: chacha20-ietf-poly1305, password: 09833a6f-4d46-426e-87fe-7793a5489f84, udp: true}
   - {name: 香港7|@ripaojiedian, server: 183.236.51.23, port: 46602, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 香港8|@ripaojiedian, server: 183.232.229.165, port: 11001, type: ss, cipher: chacha20-ietf-poly1305, password: ea0f5ddd-2b70-4b4a-b61a-8d402093e52c, udp: true}
-  - {name: 香港9|@ripaojiedian, server: 38.147.190.72, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true}
+  - {name: 香港8|@ripaojiedian, server: 18.162.246.4, port: 18443, type: trojan, password: ouo, sni: tr.koiok.us.kg, skip-cert-verify: true, network: ws, ws-opts: {path: "%25252F%25253Fed%25253D2560", headers: {Host: tr.koiok.us.kg}}, udp: true}
   - {name: "香港[01]", server: 107.149.254.26, port: 158, type: trojan, password: dbcf1e76-8168-43a2-8e5c-b265e527d452, skip-cert-verify: true, udp: true}
   - {name: "香港[04]中转", server: vip.baima360.com, port: 65519, type: ss, cipher: chacha20-ietf-poly1305, password: dbcf1e76-8168-43a2-8e5c-b265e527d452, udp: true}
   - {name: "香港[05]中转", server: vip.baima360.com, port: 36511, type: ss, cipher: chacha20-ietf-poly1305, password: dbcf1e76-8168-43a2-8e5c-b265e527d452, udp: true}
@@ -835,14 +831,14 @@ proxy-groups:
       - 中国 - 香港 - Akile LTD - 7
       - 中国 - 香港 - Cnservers LLC - 5
       - 中国 - 香港 - Cnservers LLC - 6
+      - 丹麦 V2CROSS.COM
       - 俄罗斯
       - 俄罗斯 - 莫斯科 - LLC Baxet - 1
-      - 俄罗斯 V2CROSS.COM
-      - 俄罗斯 V2CROSS.COM 2
       - 俄罗斯[01]中转
       - 加拿大 - 多伦多 - Amazon Technologies Inc. - 1
       - 加拿大[01]中转
-      - 北美地区 V2CROSS.COM
+      - 印度 V2CROSS.COM
+      - 印度 V2CROSS.COM 2
       - 印度[01]
       - 台湾[01]中转
       - 台湾|@ripaojiedian
@@ -870,14 +866,13 @@ proxy-groups:
       - 日本 - 大阪市 - Akamai Technologies, Inc. - 6
       - 日本2|@ripaojiedian
       - 日本3|@ripaojiedian
-      - 日本4|@ripaojiedian
       - 日本[01]
-      - 日本|@ripaojiedian
       - 日本特殊|@ripaojiedian
       - 未知
       - 未知 2
       - 未知 3
       - 未知 4
+      - 江苏省 移动
       - 法国
       - 法国 - 巴黎 - Amazon Technologies Inc. - 1
       - 法国[01]中转
@@ -886,6 +881,7 @@ proxy-groups:
       - 狮城特殊|@ripaojiedian
       - 狮城特殊|@ripaojiedian 2
       - 瑞典 - 斯德哥尔摩 - Amazon.com - 1
+      - 立陶宛 V2CROSS.COM
       - 美国
       - 美国 - Dublin - Amazon.com, Inc. - 5
       - 美国 - San Jose - Oracle Corporation - 36
@@ -951,7 +947,6 @@ proxy-groups:
       - 美国 - 波特蘭 - Amazon.com, Inc. - 3
       - 美国 - 波特蘭 - Amazon.com, Inc. - 35
       - 美国 - 波特蘭 - Amazon.com, Inc. - 4
-      - 美国 - 洛杉矶 - Akari Networks - 34
       - 美国 - 洛杉矶 - Psychz Networks - 103
       - 美国 - 洛杉矶 - Psychz Networks - 106
       - 美国 - 洛杉矶 - Psychz Networks - 12
@@ -1345,10 +1340,8 @@ proxy-groups:
       - 美国 CloudFlare节点 86
       - 美国 CloudFlare节点 87
       - 美国 CloudFlare节点 88
-      - 美国 CloudFlare节点 89
       - 美国 CloudFlare节点 9
-      - 美国 CloudFlare节点 90
-      - 美国 Fastly全球Anycast节点
+      - 美国 加利福尼亚州旧金山市Awknet通信公司
       - 美国 洛杉矶101 - 墙了个墙
       - 美国 洛杉矶102 - 墙了个墙
       - 美国 洛杉矶103 - 墙了个墙
@@ -1360,6 +1353,7 @@ proxy-groups:
       - 美国[02]中转
       - 美国[03]中转
       - 美国[04]
+      - 英国 - 伦敦 - Amazon Technologies Inc. - 1
       - 英国 - 伦敦 - Amazon Technologies Inc. - 3
       - 英国 - 伦敦 - Amazon Technologies Inc. - 4
       - 英国 - 伦敦 - Amazon Technologies Inc. - 6
@@ -1390,7 +1384,6 @@ proxy-groups:
       - 香港 108 - 墙了个墙
       - 香港 109 - 墙了个墙
       - 香港 110 - 墙了个墙
-      - 香港10|@ripaojiedian
       - 香港2|@ripaojiedian
       - 香港3|@ripaojiedian
       - 香港4|@ripaojiedian
@@ -1398,7 +1391,6 @@ proxy-groups:
       - 香港6|@ripaojiedian
       - 香港7|@ripaojiedian
       - 香港8|@ripaojiedian
-      - 香港9|@ripaojiedian
       - 香港[01]
       - 香港[04]中转
       - 香港[05]中转
