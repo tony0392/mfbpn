@@ -1,177 +1,227 @@
 proxies:
-  - {name: CN_speednode_0003, server: 120.198.71.214, port: 34493, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: CA_speednode_0001, server: 50.114.177.154, port: 20503, type: vmess, uuid: 7c1ca55f-a56c-4253-ac9b-a3904046c173, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: CN_speednode_0002, server: 120.198.71.214, port: 34493, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: CN_speednode_0003, server: 183.236.51.23, port: 41020, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: CN_speednode_0004, server: 183.236.48.163, port: 40002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: HK_speednode_0007, server: 8.218.102.83, port: 3456, type: vmess, uuid: f20e6bda-c007-4ff9-be3d-0aaf125bc63a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: "/serv00?ed=2048", headers: {Host: argo9.zjccc.nyc.mn}}, udp: true}
-  - {name: JP_speednode_0009, server: 43.207.78.212, port: 443, type: vmess, uuid: f20e6bda-c007-4ff9-be3d-0aaf125bc63a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: "/serv00?ed=2048", headers: {Host: argo9.zjccc.nyc.mn}}, udp: true}
-  - {name: KR_speednode_0010, server: 3.38.103.161, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: KR_speednode_0011, server: 3.38.182.255, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: KR_speednode_0012, server: 3.38.212.48, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: KR_speednode_0013, server: 52.79.248.193, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: KR_speednode_0014, server: 15.165.76.242, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: KR_speednode_0015, server: 43.203.122.162, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: KR_speednode_0016, server: 3.34.255.220, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: KR_speednode_0017, server: 43.203.141.93, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: KR_speednode_0018, server: 3.38.193.1, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: KR_speednode_0019, server: 54.180.232.93, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: SG_speednode_0023, server: 3.1.79.116, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: SG_speednode_0024, server: 3.0.50.69, port: 443, type: vmess, uuid: f20e6bda-c007-4ff9-be3d-0aaf125bc63a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: "/serv00?ed=2048", headers: {Host: argo9.zjccc.nyc.mn}}, udp: true}
-  - {name: US_speednode_0026, server: 54.191.252.235, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: US_speednode_0027, server: 54.201.174.149, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: US_speednode_0028, server: 34.222.132.123, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: US_speednode_0029, server: 52.12.174.108, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: US_speednode_0030, server: 52.41.180.11, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: US_speednode_0033, server: nsus3.irundns.net, port: 443, type: ssr, cipher: aes-128-cfb, password: +asd6a5s5df+, protocol: auth_aes128_md5, obfs: http_post, protocol-param: "", obfs-param: "", udp: true}
-  - {name: US_speednode_0037, server: 79.110.53.169, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
-  - {name: US_speednode_0041, server: 52.41.180.11, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: US_speednode_0046, server: 89.213.182.246, port: 60002, type: vmess, uuid: f20e6bda-c007-4ff9-be3d-0aaf125bc63a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: "/serv00?ed=2048", headers: {Host: argo9.zjccc.nyc.mn}}, udp: true}
-  - {name: VN_speednode_0048, server: 160.30.21.105, port: 443, type: trojan, password: 94d219c9-1afc-4d42-b090-8b3794764380, sni: std1.loadingip.com, skip-cert-verify: true, udp: true}
-  - {name: _CH_瑞士, server: 138.124.51.236, port: 59923, type: ss, cipher: chacha20-ietf-poly1305, password: 3Vkbowf0PLHJkVMmPFjcA7i/j0ABb6EbYtbe/Xrwuds=, udp: true}
-  - {name: _GB_英国, server: 51.21.144.79, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
-  - {name: _GB_英国_1, server: 18.135.56.233, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
-  - {name: _NL_荷兰, server: 5.8.35.208, port: 443, type: trojan, password: !<str> 3648425794742788096, sni: loving-boa.treefrog761.one, skip-cert-verify: true, udp: true}
-  - {name: _NL_荷兰_1, server: 5.8.35.140, port: 443, type: trojan, password: !<str> 3648425794742788096, sni: prime-gator.treefrog761.one, skip-cert-verify: true, udp: true}
-  - {name: _NL_荷兰_2, server: prime-gator.treefrog761.one, port: 443, type: trojan, password: !<str> 3648425794742788096, sni: prime-gator.treefrog761.one, skip-cert-verify: true, udp: true}
-  - {name: _RO_罗马尼亚, server: 194.5.215.59, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
-  - {name: _RU_俄罗斯, server: 217.30.10.18, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga, udp: true}
+  - {name: CN_speednode_0005, server: zfa04.333210.xyz, port: 40380, type: vmess, uuid: 13364789-a8b2-4bcd-8df7-a794fb6f87e5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+  - {name: DE_speednode_0007, server: 3.v2.a.www.speedtest.net.2.op.jahesh-tolid.website, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Yeud3qg58vv3mgu/SIW/2cIphtimMYsTHGBI1jAKF/A=, udp: true}
+  - {name: HK_speednode_0010, server: 43.198.96.173, port: 45181, type: trojan, password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, sni: de1.bilibili.com, skip-cert-verify: true, udp: true}
+  - {name: HK_speednode_0011, server: 91.199.84.112, port: 40380, type: vmess, uuid: 13364789-a8b2-4bcd-8df7-a794fb6f87e5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+  - {name: KR_speednode_0012, server: 43.200.1.13, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: KR_speednode_0013, server: 43.201.116.143, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: LT_speednode_0014, server: 45.87.175.164, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg, udp: true}
+  - {name: LV_speednode_0015, server: 46.183.217.232, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: NO_speednode_0016, server: 51.120.1.158, port: 32091, type: ss, cipher: chacha20-ietf-poly1305, password: xjzsiMfTByKjA9URbdXWNp, udp: true}
+  - {name: PL_speednode_0017, server: 217.30.10.18, port: 9050, type: ss, cipher: aes-256-cfb, password: FG5ddLsMPbV5CutE, udp: true}
+  - {name: SG_speednode_0018, server: 68.183.227.45, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
+  - {name: SG_speednode_0019, server: 206.238.237.86, port: 2087, type: vmess, uuid: 19e06438-ea22-4478-b420-c3105bd493bb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: "/serv00?ed=2048", headers: {Host: argo12.zjccc.nyc.mn}}, udp: true}
+  - {name: US_speednode_0020, server: 54.218.229.170, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: US_speednode_0021, server: 44.243.243.198, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: US_speednode_0022, server: 35.94.51.2, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: US_speednode_0025, server: nsus3.irundns.net, port: 443, type: ssr, cipher: aes-128-cfb, password: +asd6a5s5df+, protocol: auth_aes128_md5, obfs: http_post, protocol-param: "", obfs-param: "", udp: true}
+  - {name: US_speednode_0043, server: 104.21.238.215, port: 2086, type: vmess, uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: a10.164748.xyz}}, udp: true}
+  - {name: US_speednode_0044, server: 104.21.238.128, port: 2086, type: vmess, uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: a10.164748.xyz}}, udp: true}
+  - {name: US_speednode_0046, server: 104.21.238.20, port: 2086, type: vmess, uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: m10.164748.xyz}}, udp: true}
+  - {name: US_speednode_0047, server: 104.21.238.133, port: 2086, type: vmess, uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: p7.164748.xyz}}, udp: true}
+  - {name: US_speednode_0048, server: 104.21.238.156, port: 2086, type: vmess, uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: p7.164748.xyz}}, udp: true}
+  - {name: US_speednode_0050, server: 107.167.30.126, port: 30000, type: vmess, uuid: 57f93e92-ebb9-4f16-9bdc-8225d2010995, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/240811062813, headers: {Host: www.83645422.xyz}}, udp: true}
+  - {name: US_speednode_0051, server: 162.159.45.194, port: 2086, type: vmess, uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: a21.164748.xyz}}, udp: true}
+  - {name: US_speednode_0052, server: 104.26.0.80, port: 2086, type: vmess, uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: p7.164748.xyz}}, udp: true}
+  - {name: US_speednode_0054, server: 104.26.0.12, port: 2086, type: vmess, uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: m10.164748.xyz}}, udp: true}
+  - {name: US_speednode_0056, server: 104.26.0.27, port: 2086, type: vmess, uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: p7.164748.xyz}}, udp: true}
+  - {name: US_speednode_0057, server: 104.26.0.87, port: 2086, type: vmess, uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: a10.164748.xyz}}, udp: true}
+  - {name: US_speednode_0058, server: 104.26.0.226, port: 2086, type: vmess, uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: p7.164748.xyz}}, udp: true}
+  - {name: US_speednode_0059, server: 104.26.0.8, port: 2086, type: vmess, uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: w19.164748.xyz}}, udp: true}
+  - {name: US_speednode_0060, server: 104.26.0.195, port: 2086, type: vmess, uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: a21.164748.xyz}}, udp: true}
+  - {name: _CN_中国->🇺🇸_US_美国, server: 113.99.142.152, port: 17008, type: ss, cipher: aes-256-gcm, password: P4RAHM7S01HTCHPW, udp: true}
+  - {name: _DE_德国, server: 45.87.175.171, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true}
+  - {name: _DE_德国->🇷🇺_RU_俄罗斯, server: 45.87.175.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true}
+  - {name: _GB_英国, server: 51.15.15.82, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: _JP_日本->🇫🇷_FR_法国, server: root.mid.al, port: 80, type: vmess, uuid: a983c698-cae4-4254-d047-51898ccd8ee7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: root.mid.al}}, udp: true}
+  - {name: _LV_拉脱维亚, server: 46.183.217.232, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: _RU_俄罗斯, server: 217.30.10.18, port: 9060, type: ss, cipher: aes-256-cfb, password: ueLXVkvh4hckhErQ, udp: true}
   - {name: _RU_俄罗斯_1, server: 217.30.10.18, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM, udp: true}
-  - {name: _RU_俄罗斯_2, server: 217.30.10.18, port: 9033, type: ss, cipher: aes-256-cfb, password: UTJA57ypk2XKQpnm, udp: true}
-  - {name: _RU_俄罗斯_3, server: 217.30.10.18, port: 9010, type: ss, cipher: aes-256-cfb, password: f63gg8EruDnUrmz4, udp: true}
-  - {name: _RU_俄罗斯_4, server: 217.30.10.18, port: 9079, type: ss, cipher: aes-256-cfb, password: TPqX8edgbAURcAMb, udp: true}
-  - {name: _RU_俄罗斯_5, server: 217.30.10.18, port: 9024, type: ss, cipher: aes-256-cfb, password: BejrQvtu9sqUeNuZ, udp: true}
-  - {name: _SE_瑞典->🇺🇸_US_美国, server: 13.53.219.1, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
-  - {name: _US_美国, server: 169.150.210.233, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
-  - {name: _US_美国_10, server: 63.176.226.168, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
-  - {name: _US_美国_3, server: 35.91.173.159, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _US_美国_6, server: 52.89.164.115, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _US_美国_7, server: 34.215.84.62, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: _US_美国_9, server: 13.42.222.251, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
-  - {name: 中国 - 香港 - CTG Server Ltd. - 6, server: 183.236.51.23, port: 41020, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 中国 - 香港 - CTG Server Ltd. - 7, server: 120.198.71.214, port: 34493, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 中国 - 香港 - CTG Server Ltd. - 9, server: 183.236.51.23, port: 51704, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 中国 - 香港 - Hytron Network Services Limited - 1, server: 104.17.213.241, port: 80, type: vmess, uuid: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gost.naiunclient.top}}, udp: true}
-  - {name: 中国 - 香港 - Hytron Network Services Limited - 2, server: gost.cloudflare.182682.xyz, port: 80, type: vmess, uuid: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gost.naiunclient.top}}, udp: true}
-  - {name: 中国 - 香港 - Hytron Network Services Limited - 3, server: 104.19.48.236, port: 80, type: vmess, uuid: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 中国 - 香港 - Hytron Network Services Limited - 4, server: 198.41.209.70, port: 80, type: vmess, uuid: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 中国 - 香港 - Rackip Consultancy Pte. LTD - 5, server: 183.236.48.163, port: 40002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: "俄罗斯[01]中转", server: vip.baima360.com, port: 23499, type: ss, cipher: chacha20-ietf-poly1305, password: 1396996e-b36a-41d0-bda2-2962071fc90c, udp: true}
-  - {name: "加拿大 - 多伦多 - Amazon.com, Inc. - 3", server: 99.79.91.235, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
-  - {name: 加拿大 - 多伦多 - TGs4 Networks Inc. - 1, server: 8dab945f6519cada5b92a0149679c88d.v1.cac.node-is.green, port: 47249, type: trojan, password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, sni: ca1.bilibili.com, skip-cert-verify: true, udp: true}
-  - {name: 加拿大 - 多伦多 - TGs4 Networks Inc. - 2, server: bf2cbe59ba59df8e23183167727d3f23.v1.cac.node-is.green, port: 41143, type: trojan, password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, sni: ca1.bilibili.com, skip-cert-verify: true, udp: true}
-  - {name: 加拿大 - 多伦多 - TGs4 Networks Inc. - 4, server: f46b3f65e076124c635c50538527e26d.v1.cac.node-is.green, port: 41143, type: trojan, password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, sni: ca1.bilibili.com, skip-cert-verify: true, udp: true}
-  - {name: "加拿大[01]中转", server: vip.baima360.com, port: 29292, type: ss, cipher: chacha20-ietf-poly1305, password: 1396996e-b36a-41d0-bda2-2962071fc90c, udp: true}
-  - {name: 卢森堡 - 盧森堡市 - FranTech Solutions - 1, server: 70e79034ad58a5cefae4615ec8e84404.v1.cac.node-is.green, port: 45181, type: trojan, password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, sni: de1.bilibili.com, skip-cert-verify: true, udp: true}
-  - {name: 卢森堡 - 盧森堡市 - FranTech Solutions - 2, server: abf4a13f063dfe2373df11fe8b9ba0b4.v1.cac.node-is.green, port: 45181, type: trojan, password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, sni: de1.bilibili.com, skip-cert-verify: true, udp: true}
-  - {name: 卢森堡 - 盧森堡市 - FranTech Solutions - 3, server: 16.163.123.103, port: 45181, type: trojan, password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, sni: de1.bilibili.com, skip-cert-verify: true, udp: true}
-  - {name: 印度 V2CROSS.COM, server: 202.78.162.5, port: 443, type: vmess, uuid: 118287d2-e968-42e1-80d0-12fa2f5d38d6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sahand.serveminecraft.net}}, udp: true}
-  - {name: "印度[01]", server: pop.6801ae4e-545d-471e-8de5-413dc61b505b.heima360.cc, port: 443, type: trojan, password: 1396996e-b36a-41d0-bda2-2962071fc90c, sni: pop.6801ae4e-545d-471e-8de5-413dc61b505b.heima360.cc, skip-cert-verify: true, udp: true}
-  - {name: "台湾[01]中转", server: vip.baima360.com, port: 41004, type: ss, cipher: chacha20-ietf-poly1305, password: 1396996e-b36a-41d0-bda2-2962071fc90c, udp: true}
+  - {name: _RU_俄罗斯_2, server: 217.30.10.18, port: 9010, type: ss, cipher: aes-256-cfb, password: f63gg8EruDnUrmz4, udp: true}
+  - {name: _RU_俄罗斯_3, server: 217.30.10.18, port: 9079, type: ss, cipher: aes-256-cfb, password: TPqX8edgbAURcAMb, udp: true}
+  - {name: _RU_俄罗斯_4, server: 217.30.10.18, port: 9014, type: ss, cipher: aes-256-cfb, password: KnJGad3FqTvjqbaX, udp: true}
+  - {name: _RU_俄罗斯_5, server: 217.30.10.18, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga, udp: true}
+  - {name: _US_美国_1, server: 104.26.0.98, port: 2086, type: vmess, uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
+  - {name: _US_美国_10, server: 52.89.164.115, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: _US_美国_3, server: 104.21.238.46, port: 2086, type: vmess, uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999}, udp: true}
+  - {name: _US_美国_4, server: 54.200.220.184, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: _US_美国_5, server: 79.110.53.169, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
+  - {name: _US_美国_7, server: 51.120.1.158, port: 32091, type: ss, cipher: chacha20-ietf-poly1305, password: xjzsiMfTByKjA9URbdXWNp, udp: true}
+  - {name: _US_美国_8, server: 92.118.205.228, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: 中国 - 台湾 - MoeChuang Network Limited - 14, server: nb.2.thap.xyz, port: 58011, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 中国 - 台湾 - MoeChuang Network Limited - 4, server: nb.1.thap.xyz, port: 58047, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 中国 - 臺北市 - Global Communication Network Limited - 1, server: soontw.soon.guru, port: 40020, type: ss, cipher: chacha20-ietf-poly1305, password: f0e7fd1e-0469-415f-95da-774021f16f36, udp: true}
+  - {name: 中国 - 香港 - Akile LTD - 16, server: soonhk.soon.guru, port: 40000, type: ss, cipher: chacha20-ietf-poly1305, password: 29fefcc3-9ae1-4e01-a1d0-534fc1671121, udp: true}
+  - {name: 中国 - 香港 - CTG Server Ltd. - 17, server: 183.236.51.23, port: 56601, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 中国 - 香港 - CTG Server Ltd. - 23, server: 183.236.48.163, port: 54882, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 中国 - 香港 - CTG Server Ltd. - 24, server: 120.198.71.214, port: 34493, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 中国 - 香港 - CTG Server Ltd. - 25, server: 183.236.51.23, port: 41020, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 中国 - 香港 - Hytron Network Services Limited - 10, server: hk.2.thap.xyz, port: 58061, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 中国 - 香港 - Hytron Network Services Limited - 12, server: hk.4.thap.xyz, port: 58021, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 中国 - 香港 - Hytron Network Services Limited - 13, server: hk.1.thap.xyz, port: 58878, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 中国 - 香港 - Hytron Network Services Limited - 15, server: 6319c42aef125b4916fff39cb3b93ee9.v1.cac.node-is.green, port: 40793, type: trojan, password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, sni: hk12.bilibili.com, skip-cert-verify: true, udp: true}
+  - {name: 中国 - 香港 - Hytron Network Services Limited - 2, server: hk.2.thap.xyz, port: 58736, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 中国 - 香港 - Hytron Network Services Limited - 3, server: hk.2.thap.xyz, port: 58494, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 中国 - 香港 - Hytron Network Services Limited - 5, server: hk.1.thap.xyz, port: 58543, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 中国 - 香港 - Hytron Network Services Limited - 6, server: hk.4.thap.xyz, port: 58578, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 中国 - 香港 - Hytron Network Services Limited - 7, server: hk.3.thap.xyz, port: 58717, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 中国 - 香港 - Hytron Network Services Limited - 8, server: hk.3.thap.xyz, port: 58666, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 中国 - 香港 - Hytron Network Services Limited - 9, server: hk.1.thap.xyz, port: 58767, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 中国 - 香港 - Kaopu Cloud HK Limited - 11, server: nb.3.thap.xyz, port: 58884, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 中国 - 香港 - PCCW IMS Limited - 18, server: fiwejniavzoj.xn--fiqs8sjz2bull.com, port: 64667, type: vmess, uuid: c8963961-034c-4ac5-bc9a-6c76900eeb2b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 中国 - 香港 - Rackip Consultancy Pte. LTD - 22, server: 183.236.48.163, port: 40002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 乌克兰 V2CROSS.COM, server: 2.58.87.221, port: 16899, type: ss, cipher: aes-128-gcm, password: Yc2CtrIz8L, udp: true}
+  - {name: 亚太地区 V2CROSS.COM, server: 160.19.78.75, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Nk9asglDzHzjktVzTkvhaA, udp: true}
+  - {name: 以色列 - 佩塔提克瓦 - Stark Industries Solutions LTD - 1, server: nb5.thap.xyz, port: 58877, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 伊拉克 - Erbil - OVH Australia PTY LTD - 1, server: nb5.thap.xyz, port: 58559, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 俄罗斯 - 圣彼得堡 - Global Internet Solutions LLC - 2, server: soonru.soon.guru, port: 40031, type: ss, cipher: chacha20-ietf-poly1305, password: 29fefcc3-9ae1-4e01-a1d0-534fc1671121, udp: true}
+  - {name: 俄罗斯 - 莫斯科 - Melbikomas UAB - 1, server: nb.1.thap.xyz, port: 58582, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 俄罗斯 V2CROSS.COM, server: 194.87.18.248, port: 20503, type: vmess, uuid: 2b92d7f6-f564-4f73-900c-e079d8cbf347, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: "俄罗斯[01]中转", server: vip.baima360.com, port: 23499, type: ss, cipher: chacha20-ietf-poly1305, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, udp: true}
+  - {name: 冰岛 - 凯夫拉维克国际机场 - STARK INDUSTRIES SOLUTIONS LTD - 1, server: nb.3.thap.xyz, port: 58321, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 加拿大 - 多伦多 - Datacamp Limited - 1, server: us.3.thap.xyz, port: 58288, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 加拿大 - 多伦多 - TGs4 Networks Inc. - 2, server: 8dab945f6519cada5b92a0149679c88d.v1.cac.node-is.green, port: 47249, type: trojan, password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, sni: ca1.bilibili.com, skip-cert-verify: true, udp: true}
+  - {name: 加拿大 - 多伦多 - TGs4 Networks Inc. - 3, server: bf2cbe59ba59df8e23183167727d3f23.v1.cac.node-is.green, port: 41143, type: trojan, password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, sni: ca1.bilibili.com, skip-cert-verify: true, udp: true}
+  - {name: 加拿大 - 多伦多 - TGs4 Networks Inc. - 4, server: d0d104f4fa78cb0e2726e085b1ef4ed4.v1.cac.node-is.green, port: 47249, type: trojan, password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, sni: ca1.bilibili.com, skip-cert-verify: true, udp: true}
+  - {name: "加拿大[01]中转", server: vip.baima360.com, port: 29292, type: ss, cipher: chacha20-ietf-poly1305, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, udp: true}
+  - {name: 匈牙利 - 布达佩斯 - Rackforest Zrt. - 1, server: nb.4.thap.xyz, port: 58575, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 南非 - Thembisa - Hostafrica - 1, server: nb.2.thap.xyz, port: 58427, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 印度 - 新德里 - VCCL Cloud Private Limited - 1, server: nb.4.thap.xyz, port: 58716, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: "印度[01]", server: pop.6801ae4e-545d-471e-8de5-413dc61b505b.heima360.cc, port: 443, type: trojan, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, sni: pop.6801ae4e-545d-471e-8de5-413dc61b505b.heima360.cc, skip-cert-verify: true, udp: true}
+  - {name: 印度尼西亚 - 泗水 - Hadi Santosa - 2, server: soonidn.soon.guru, port: 40033, type: ss, cipher: chacha20-ietf-poly1305, password: 29fefcc3-9ae1-4e01-a1d0-534fc1671121, udp: true}
+  - {name: 印度尼西亚 - 雅加达 - PT Registrasi Neva Angkasa - 1, server: nb5.thap.xyz, port: 58948, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 台湾2|@ripaojiedian, server: naiu-other.05vr9nyqg5.download, port: 13035, type: trojan, password: 3bb73c5b-2500-484a-8ee4-68aaca381a6d, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true, udp: true}
+  - {name: "台湾[01]中转", server: vip.baima360.com, port: 41004, type: ss, cipher: chacha20-ietf-poly1305, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, udp: true}
   - {name: 台湾|@ripaojiedian, server: 210.61.97.241, port: 81, type: trojan, password: ouo, sni: tr.koiok.us.kg, skip-cert-verify: true, network: ws, ws-opts: {path: "%2F%3Fed%3D2560", headers: {Host: tr.koiok.us.kg}}, udp: true}
-  - {name: 巴林 Amazon数据中心, server: 157.175.30.145, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Bog0ELmMM9DSxDdQ, udp: true}
-  - {name: "巴西[01]中转", server: vip.baima360.com, port: 30752, type: ss, cipher: chacha20-ietf-poly1305, password: 1396996e-b36a-41d0-bda2-2962071fc90c, udp: true}
-  - {name: 德国 - 纽伦堡 - Hetzner Online GmbH - 1, server: 3.v2.a.www.speedtest.net.2.op.jahesh-tolid.website, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Yeud3qg58vv3mgu/SIW/2cIphtimMYsTHGBI1jAKF/A=, udp: true}
-  - {name: "德国[01]中转", server: vip.baima360.com, port: 55997, type: ss, cipher: chacha20-ietf-poly1305, password: 1396996e-b36a-41d0-bda2-2962071fc90c, udp: true}
-  - {name: 意大利 V2CROSS.COM, server: service.ouluyun9803.com, port: 20005, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2, udp: true}
-  - {name: 捷克, server: 66.235.200.22, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 10, server: 170.114.46.139, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 11, server: 46.254.92.45, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 12, server: 193.9.49.89, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 13, server: 188.42.89.186, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 14, server: 5.10.245.202, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 15, server: 31.22.116.136, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 16, server: 89.117.112.235, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 17, server: 94.242.231.35, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 18, server: 94.242.230.119, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 19, server: 185.146.173.95, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 2, server: 193.227.99.160, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 20, server: 181.214.1.3, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 21, server: 92.53.189.151, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 22, server: 104.129.166.53, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 23, server: 5.182.84.187, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 24, server: 62.72.166.3, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 25, server: 92.60.74.148, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 26, server: 168.100.6.190, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 27, server: 66.81.247.40, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 28, server: 27.50.48.188, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 3, server: 92.53.191.56, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 4, server: 185.18.250.249, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 5, server: 46.254.93.163, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 6, server: 154.197.121.35, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 7, server: 176.124.223.168, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 8, server: 77.232.140.180, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: 捷克 9, server: 185.176.24.86, port: 8443, type: vmess, uuid: 8241ddc8-b5c5-4778-9635-331700c6ff48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jk.ylka.us.kg}}, udp: true}
-  - {name: "新加坡 - 新加坡 - Amazon.com, Inc. - 2", server: 13.250.110.56, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: "新加坡 - 新加坡 - DigitalOcean, LLC - 1", server: 68.183.227.45, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true}
-  - {name: 新加坡2|@ripaojiedian, server: 219.135.227.209, port: 16003, type: ss, cipher: aes-256-gcm, password: LOHI96W4MY7U2T8T, udp: true}
-  - {name: "新加坡[02]", server: pop.09d21837-9b89-4490-92bf-eabf449e3321.heima360.cc, port: 443, type: trojan, password: 1396996e-b36a-41d0-bda2-2962071fc90c, sni: pop.09d21837-9b89-4490-92bf-eabf449e3321.heima360.cc, skip-cert-verify: true, udp: true}
-  - {name: 新加坡|@ripaojiedian, server: sg1.tiljkc.top, port: 34843, type: vmess, uuid: 92dae006-a1bd-3eea-837e-64c8d09ab291, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 日本2|@ripaojiedian, server: 219.135.227.209, port: 18015, type: ss, cipher: aes-256-gcm, password: JJ4PSU7MN1VRHN5Y, udp: true}
-  - {name: 日本3|@ripaojiedian, server: jp1.tiljkc.top, port: 38953, type: vmess, uuid: 92dae006-a1bd-3eea-837e-64c8d09ab291, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 日本4|@ripaojiedian, server: 219.135.227.209, port: 18003, type: ss, cipher: aes-256-gcm, password: YUMTKV8ECSXBPNU6, udp: true}
+  - {name: 土耳其 - 伊斯坦布尔 - Kapteyan Bilisim Teknolojileri Sanayi ve Ticaret A.S - 1, server: nb.3.thap.xyz, port: 58332, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 埃及 - 开罗省 - Kaopu Cloud HK Limited - 1, server: nb5.thap.xyz, port: 58950, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 墨西哥 - 墨西哥城 - Latitude.sh - 1, server: us.2.thap.xyz, port: 58820, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 奥地利 - 維也納 - Stark Industries Solutions LTD - 1, server: nb.4.thap.xyz, port: 58499, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 巴西 - 圣保罗 - Stark Industries Solutions LTD - 1, server: nb5.thap.xyz, port: 58524, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: "巴西[01]中转", server: vip.baima360.com, port: 30752, type: ss, cipher: chacha20-ietf-poly1305, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, udp: true}
+  - {name: 广东省广州市 移动, server: 183.236.51.23, port: 46602, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 德国 - 法兰克福 - Melbikomas UAB - 2, server: nb.1.thap.xyz, port: 58260, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 德国 - 纽伦堡 - Hetzner Online GmbH - 1, server: 62.60.132.33, port: 2087, type: vmess, uuid: bd2ba6cd-a221-4c91-934a-2b1d48d9fdd2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 德国 V2CROSS.COM, server: service.ouluyun9803.com, port: 20003, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2, udp: true}
+  - {name: "德国[01]中转", server: vip.baima360.com, port: 55997, type: ss, cipher: chacha20-ietf-poly1305, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, udp: true}
+  - {name: 拉脱维亚 - 里加 - DataClub S.A. - 1, server: 46.183.217.232, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: 挪威 - Lorenskog - Microsoft Corporation - 1, server: 51.13.113.38, port: 51162, type: ss, cipher: chacha20-ietf-poly1305, password: 6AFDnuijeJGXfceTOQuK05, udp: true}
+  - {name: 挪威 V2CROSS.COM, server: 138.124.60.136, port: 44915, type: ss, cipher: chacha20-ietf-poly1305, password: fMcrsQuZhCNiHBmXT80AhQ3mPK5alh/iLuDz4pILlYU=, udp: true}
+  - {name: "新加坡 - 新加坡 - Amazon.com, Inc. - 1", server: 52.77.239.64, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 新加坡 - 新加坡 - Bage Cloud LLC - 12, server: soonsgp.soon.guru, port: 40005, type: ss, cipher: chacha20-ietf-poly1305, password: 29fefcc3-9ae1-4e01-a1d0-534fc1671121, udp: true}
+  - {name: 新加坡 - 新加坡 - Streamline Servers - 10, server: sg.4.thap.xyz, port: 58179, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 新加坡 - 新加坡 - Streamline Servers - 11, server: sg.1.thap.xyz, port: 58226, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 新加坡 - 新加坡 - Streamline Servers - 2, server: sg.2.thap.xyz, port: 58181, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 新加坡 - 新加坡 - Streamline Servers - 3, server: sg.2.thap.xyz, port: 58992, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 新加坡 - 新加坡 - Streamline Servers - 4, server: sg.2.thap.xyz, port: 58886, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 新加坡 - 新加坡 - Streamline Servers - 5, server: sg.1.thap.xyz, port: 58154, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 新加坡 - 新加坡 - Streamline Servers - 6, server: sg.4.thap.xyz, port: 58193, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 新加坡 - 新加坡 - Streamline Servers - 7, server: sg.1.thap.xyz, port: 58166, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 新加坡 - 新加坡 - Streamline Servers - 8, server: sg.3.thap.xyz, port: 58326, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 新加坡 - 新加坡 - Streamline Servers - 9, server: sg.3.thap.xyz, port: 58060, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: "新加坡[02]", server: pop.09d21837-9b89-4490-92bf-eabf449e3321.heima360.cc, port: 443, type: trojan, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, sni: pop.09d21837-9b89-4490-92bf-eabf449e3321.heima360.cc, skip-cert-verify: true, udp: true}
+  - {name: 新加坡|@ripaojiedian, server: sg1.tiljkc.top, port: 34843, type: vmess, uuid: d1063964-2b13-372c-9b45-28f356e844aa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 日本 - 东京 - Akari Networks - 4, server: jp.3.thap.xyz, port: 58100, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 日本 - 东京 - Akari Networks - 5, server: jp.4.thap.xyz, port: 58649, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 日本 - 东京 - Akari Networks - 6, server: jp.1.thap.xyz, port: 58146, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 日本 - 东京 - Akari Networks - 7, server: jp.4.thap.xyz, port: 58876, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 日本 - 东京 - Akari Networks - 8, server: jp.2.thap.xyz, port: 58527, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 日本 - 东京 - Akari Networks - 9, server: jp.3.thap.xyz, port: 58757, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 日本 - 东京 - Amazon Technologies Inc - 1, server: 13.114.67.166, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 日本 - 东京 - Amazon Technologies Inc. - 2, server: 3.113.31.223, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: "日本 - 东京 - Amazon.com, Inc. - 3", server: 57.181.42.233, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 日本2|@ripaojiedian, server: jp1.tiljkc.top, port: 38951, type: vmess, uuid: d1063964-2b13-372c-9b45-28f356e844aa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 日本5|@ripaojiedian, server: soonjp.soon.guru, port: 40003, type: ss, cipher: chacha20-ietf-poly1305, password: ab8b625c-efb8-45cd-b509-c7cceabe0cc6, udp: true}
-  - {name: "日本[01]", server: vip.baima360.com, port: 15888, type: ss, cipher: chacha20-ietf-poly1305, password: 1396996e-b36a-41d0-bda2-2962071fc90c, udp: true}
+  - {name: "日本[01]", server: vip.baima360.com, port: 15888, type: ss, cipher: chacha20-ietf-poly1305, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, udp: true}
   - {name: 日本|@ripaojiedian, server: 36.151.192.198, port: 38698, type: trojan, password: QwwHvrnN, skip-cert-verify: true, udp: true}
-  - {name: 日本特殊|@ripaojiedian, server: 13.125.90.251, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 江苏省 移动, server: 36.151.192.198, port: 38698, type: trojan, password: QwwHvrnN, skip-cert-verify: true, udp: true}
-  - {name: "法国[01]中转", server: vip.baima360.com, port: 39172, type: ss, cipher: chacha20-ietf-poly1305, password: 1396996e-b36a-41d0-bda2-2962071fc90c, udp: true}
-  - {name: 波兰 - 华沙 - Melbikomas UAB - 1, server: 217.30.10.18, port: 9088, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn, udp: true}
-  - {name: 波兰 - 华沙 - Melbikomas UAB - 2, server: 217.30.10.18, port: 9037, type: ss, cipher: aes-256-cfb, password: TN2YqghxeFDKZfLU, udp: true}
-  - {name: 波兰 - 华沙 - Melbikomas UAB - 3, server: 217.30.10.18, port: 9005, type: ss, cipher: aes-256-cfb, password: ZET59LF6DvCC8KVt, udp: true}
-  - {name: 波兰 - 华沙 - Melbikomas UAB - 4, server: 217.30.10.18, port: 9038, type: ss, cipher: aes-256-cfb, password: gYCYXfkUQEs2TaJQ, udp: true}
-  - {name: 波兰 - 华沙 - Melbikomas UAB - 5, server: 217.30.10.18, port: 9041, type: ss, cipher: aes-256-cfb, password: U6qnYRhfyDmn8sgn, udp: true}
-  - {name: 波兰 - 华沙 - Melbikomas UAB - 6, server: 217.30.10.18, port: 9026, type: ss, cipher: aes-256-cfb, password: QWDDvVE9npNurQfA, udp: true}
-  - {name: 波兰 - 华沙 - Melbikomas UAB - 7, server: 217.30.10.18, port: 9050, type: ss, cipher: aes-256-cfb, password: FG5ddLsMPbV5CutE, udp: true}
-  - {name: 波兰 - 华沙 - Melbikomas UAB - 8, server: 217.30.10.18, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7, udp: true}
-  - {name: 波兰 - 华沙 - Melbikomas UAB - 9, server: 217.30.10.18, port: 9060, type: ss, cipher: aes-256-cfb, password: ueLXVkvh4hckhErQ, udp: true}
-  - {name: "泰国[01]", server: pop.60b974d4-36bc-4a18-aa81-9afdce389bb7.heima360.cc, port: 443, type: trojan, password: 1396996e-b36a-41d0-bda2-2962071fc90c, sni: pop.60b974d4-36bc-4a18-aa81-9afdce389bb7.heima360.cc, skip-cert-verify: true, udp: true}
-  - {name: "澳大利亚[01]", server: pop.25cbab93-4c08-4a3c-8521-3f3d8c4b36ae.heima360.cc, port: 443, type: trojan, password: 1396996e-b36a-41d0-bda2-2962071fc90c, sni: pop.25cbab93-4c08-4a3c-8521-3f3d8c4b36ae.heima360.cc, skip-cert-verify: true, udp: true}
-  - {name: "爱尔兰 - 都柏林 - Amazon.com, Inc. - 1", server: 54.217.111.204, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
-  - {name: 狮城特殊|@ripaojiedian, server: 43.203.219.196, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 美国 - San Jose - Oracle Corporation - 3, server: h.522226.xyz, port: 45800, type: trojan, password: xjN4xcuPGg55, skip-cert-verify: true, udp: true}
-  - {name: 美国 - San Jose - Oracle Corporation - 7, server: 138.2.237.121, port: 443, type: trojan, password: 9d0a75d2-f747-4afa-b43f-d208af9e8f9a, sni: us01.ssr.ee, skip-cert-verify: true, udp: true}
-  - {name: 美国 - San Jose - Oracle Corporation - 8, server: 138.2.227.52, port: 443, type: trojan, password: 9d0a75d2-f747-4afa-b43f-d208af9e8f9a, sni: us08.ssr.ee, skip-cert-verify: true, udp: true}
-  - {name: "美国 - 波特蘭 - Amazon.com, Inc. - 1", server: 34.222.132.123, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 美国 - 洛杉矶 - Multacom Corporation - 6, server: 74.48.7.245, port: 443, type: trojan, password: 9d0a75d2-f747-4afa-b43f-d208af9e8f9a, sni: us10.ssr.ee, skip-cert-verify: true, udp: true}
-  - {name: 美国 - 洛杉矶 - Psychz Networks - 13, server: 104.21.238.65, port: 2086, type: vmess, uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e10.164748.xyz}}, udp: true}
-  - {name: 美国 - 洛杉矶 - Psychz Networks - 14, server: 104.18.114.202, port: 2086, type: vmess, uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: m10.164748.xyz}}, udp: true}
-  - {name: 美国 - 洛杉矶 - Psychz Networks - 15, server: 104.21.238.36, port: 2086, type: vmess, uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: e10.164748.xyz}}, udp: true}
-  - {name: "美国 - 聖荷西 - Cloudflare, Inc. - 12", server: 162.159.153.4, port: 443, type: trojan, password: CMLiussss, sni: xn--ihqr6fry8avpdn79betc.xn--cm-nk7c025a9uua2635cesu.us.kg, skip-cert-verify: true, network: ws, ws-opts: {path: "%2F%3Fed%3D2560", headers: {Host: xn--ihqr6fry8avpdn79betc.xn--cm-nk7c025a9uua2635cesu.us.kg}}, udp: true}
-  - {name: 美国 - 聖荷西 - PEG TECH INC - 4, server: 142.0.136.1, port: 31005, type: vmess, uuid: 051b844f-efe3-4847-92aa-66b5de0b6d4e, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/1733477783705}, udp: true}
-  - {name: 美国 - 聖荷西 - PEG TECH INC - 5, server: 137.175.113.215, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true}
-  - {name: 美国 - 阿什本 - Hetzner Online GmbH - 2, server: nsus3.irundns.net, port: 443, type: ssr, cipher: aes-128-cfb, password: +asd6a5s5df+, protocol: auth_aes128_md5, obfs: http_post, protocol-param: "", obfs-param: "", udp: true}
-  - {name: 美国 Fastly全球Anycast节点, server: gov.uk, port: 443, type: vmess, uuid: 77848824-93b7-4b89-ffd0-e91afff406ce, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /77848824, headers: {Host: zheshiscp.com}}, udp: true}
-  - {name: 美国 V2CROSS.COM, server: 138.2.227.52, port: 443, type: trojan, password: 9d0a75d2-f747-4afa-b43f-d208af9e8f9a, sni: us08.ssr.ee, skip-cert-verify: true, udp: true}
-  - {name: 美国 佐治亚州亚特兰大市BellSouth公司, server: 8dab945f6519cada5b92a0149679c88d.v1.cac.node-is.green, port: 47249, type: trojan, password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, sni: ca1.bilibili.com, skip-cert-verify: true, udp: true}
-  - {name: 美国 内华达州克拉克县亨德森市Enzu股份有限公司, server: 3.v2.a.www.speedtest.net.2.op.jahesh-tolid.website, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Yeud3qg58vv3mgu/SIW/2cIphtimMYsTHGBI1jAKF/A=, udp: true}
-  - {name: 美国 纽约(Prudential), server: e4c1bc175d6f9a37ba43483b3d008728.v1.cac.node-is.green, port: 49905, type: trojan, password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, sni: de1.bilibili.com, skip-cert-verify: true, udp: true}
+  - {name: 日本特殊|@ripaojiedian, server: 54.180.229.222, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 智利 - 圣地亚哥 - Grupo ZGH SPA - 1, server: nb.3.thap.xyz, port: 58163, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 柬埔寨 - 金边 - Kaopu Cloud HK Limited - 1, server: nb.1.thap.xyz, port: 58116, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 江苏省 移动, server: 36.151.192.239, port: 42395, type: trojan, password: DNUMdmnJ, skip-cert-verify: true, udp: true}
+  - {name: 法国 - Tassin-la-Demi-Lune - Feelb Sarl - 2, server: soonfr.soon.guru, port: 40034, type: ss, cipher: chacha20-ietf-poly1305, password: 29fefcc3-9ae1-4e01-a1d0-534fc1671121, udp: true}
+  - {name: 法国 - Tassin-la-Demi-Lune - Feelb Sarl - 3, server: 45.158.77.153, port: 40034, type: ss, cipher: chacha20-ietf-poly1305, password: 29fefcc3-9ae1-4e01-a1d0-534fc1671121, udp: true}
+  - {name: 法国 - 巴黎 - Stark Industries Solutions LTD - 1, server: nb5.thap.xyz, port: 58395, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 法国 法国计算机科学大学, server: 163.5.159.231, port: 443, type: vmess, uuid: e537f2f5-2a0c-4f59-92c9-832ca6433bf3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /linkws, headers: {Host: irvideo.cfd}}, udp: true}
+  - {name: "法国[01]中转", server: vip.baima360.com, port: 39172, type: ss, cipher: chacha20-ietf-poly1305, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, udp: true}
+  - {name: 波兰 - 华沙 - Ace Data Centers II - 11, server: soonpr.soon.guru, port: 40030, type: ss, cipher: chacha20-ietf-poly1305, password: 29fefcc3-9ae1-4e01-a1d0-534fc1671121, udp: true}
+  - {name: "波兰 - 华沙 - Cloudflare, Inc. - 10", server: 188.114.96.3, port: 443, type: vmess, uuid: 5f726fe3-d82e-4da5-a711-8af0cbb2b682, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /azumase.ren}, udp: true}
+  - {name: 波兰 - 华沙 - Melbikomas UAB - 1, server: 217.30.10.18, port: 9045, type: ss, cipher: aes-256-cfb, password: Lp27rqyJq72bZsqX, udp: true}
+  - {name: 波兰 - 华沙 - Melbikomas UAB - 2, server: 217.30.10.18, port: 9031, type: ss, cipher: aes-256-cfb, password: BwcAUZk8hUFAkDGN, udp: true}
+  - {name: 波兰 - 华沙 - Melbikomas UAB - 3, server: 217.30.10.18, port: 9056, type: ss, cipher: aes-256-cfb, password: rNBfNuuANFCAk7KB, udp: true}
+  - {name: 波兰 - 华沙 - Melbikomas UAB - 4, server: 217.30.10.18, port: 9011, type: ss, cipher: aes-256-cfb, password: M3t2ZEQcMGRWBjRa, udp: true}
+  - {name: 波兰 - 华沙 - Melbikomas UAB - 5, server: 217.30.10.18, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM, udp: true}
+  - {name: 波兰 - 华沙 - Melbikomas UAB - 6, server: 217.30.10.18, port: 9025, type: ss, cipher: aes-256-cfb, password: XPtzA9sCug3SPR4c, udp: true}
+  - {name: 波兰 - 华沙 - Melbikomas UAB - 7, server: 217.30.10.18, port: 9005, type: ss, cipher: aes-256-cfb, password: ZET59LF6DvCC8KVt, udp: true}
+  - {name: 波兰 - 华沙 - Melbikomas UAB - 8, server: 217.30.10.18, port: 9014, type: ss, cipher: aes-256-cfb, password: KnJGad3FqTvjqbaX, udp: true}
+  - {name: 波兰 - 华沙 - Melbikomas UAB - 9, server: 217.30.10.18, port: 9064, type: ss, cipher: aes-256-cfb, password: cp8pRSUAyLhTfVWH, udp: true}
+  - {name: 泰国 - Pak Kret - Readyidc Company Limited - 2, server: soonth.soon.guru, port: 40009, type: ss, cipher: chacha20-ietf-poly1305, password: 29fefcc3-9ae1-4e01-a1d0-534fc1671121, udp: true}
+  - {name: "泰国 - Tha Mai - Bangmod Enterprise Co., Ltd. - 1", server: nb.3.thap.xyz, port: 58608, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: "泰国[01]", server: pop.60b974d4-36bc-4a18-aa81-9afdce389bb7.heima360.cc, port: 443, type: trojan, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, sni: pop.60b974d4-36bc-4a18-aa81-9afdce389bb7.heima360.cc, skip-cert-verify: true, udp: true}
+  - {name: 澳大利亚 - 悉尼 - OVH SAS - 1, server: soonfrk.soon.guru, port: 40011, type: ss, cipher: chacha20-ietf-poly1305, password: 29fefcc3-9ae1-4e01-a1d0-534fc1671121, udp: true}
+  - {name: "澳大利亚[01]", server: pop.25cbab93-4c08-4a3c-8521-3f3d8c4b36ae.heima360.cc, port: 443, type: trojan, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, sni: pop.25cbab93-4c08-4a3c-8521-3f3d8c4b36ae.heima360.cc, skip-cert-verify: true, udp: true}
+  - {name: "爱尔兰 - 都柏林 - Amazon.com, Inc. - 1", server: 46.137.48.142, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
+  - {name: 狮城特殊|@ripaojiedian, server: 3.38.100.128, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 瑞士 - 伯尔尼 - Aeza International LTD - 1, server: 91.103.253.151, port: 19057, type: ss, cipher: chacha20-ietf-poly1305, password: UQggIxCSCABoBALH599HxE, udp: true}
+  - {name: 瑞士 - 伯尔尼 - Stark Industries Solutions LTD - 2, server: nb5.thap.xyz, port: 58065, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 美国, server: 40.172.91.54, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c, udp: true}
+  - {name: 美国 - San Jose - Oracle Corporation - 12, server: 64.181.255.71, port: 443, type: trojan, password: 9d0a75d2-f747-4afa-b43f-d208af9e8f9a, sni: us03.ssr.ee, skip-cert-verify: true, udp: true}
+  - {name: 美国 - 圣克拉拉 - PEG TECH INC - 11, server: 192.74.236.148, port: 30004, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/1733651459092}, udp: true}
+  - {name: 美国 - 圣克拉拉 - PEG TECH INC - 13, server: 38.33.56.39, port: 37000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/1731231349070, headers: {Host: www.24006857.xyz}}, udp: true}
+  - {name: "美国 - 波特蘭 - Amazon.com, Inc. - 1", server: 35.94.51.2, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: "美国 - 波特蘭 - Amazon.com, Inc. - 2", server: 54.201.174.149, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: "美国 - 波特蘭 - Amazon.com, Inc. - 3", server: 44.243.243.198, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 美国 - 洛杉矶 - Bage Cloud LLC - 14, server: soonusjp.soon.guru, port: 40001, type: ss, cipher: chacha20-ietf-poly1305, password: 29fefcc3-9ae1-4e01-a1d0-534fc1671121, udp: true}
+  - {name: "美国 - 洛杉矶 - WebNX, Inc. - 4", server: us.3.thap.xyz, port: 58384, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: "美国 - 洛杉矶 - WebNX, Inc. - 5", server: us.3.thap.xyz, port: 58219, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: "美国 - 洛杉矶 - WebNX, Inc. - 6", server: us.1.thap.xyz, port: 58352, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: "美国 - 洛杉矶 - WebNX, Inc. - 7", server: us.1.thap.xyz, port: 58612, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: "美国 - 洛杉矶 - WebNX, Inc. - 8", server: us.1.thap.xyz, port: 58958, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: "美国 - 洛杉矶 - WebNX, Inc. - 9", server: us.1.thap.xyz, port: 58888, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 美国 - 洛杉矶 - Zhejiang Aiyun Network Technology Co Ltd - 10, server: 2.58.87.221, port: 46628, type: vmess, uuid: f6ba9e5a-711c-496f-be60-ac5464dec2b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 美国 Amazon数据中心, server: 13.37.175.205, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
+  - {name: 美国 CloudFlare节点, server: 172.67.112.33, port: 2052, type: vmess, uuid: e50bb174-f2cb-3081-931e-fa4bfd69f42d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.31.219, headers: {Host: 100-158-80-199.s2.cn-db.top}}, udp: true}
+  - {name: 美国 CloudFlare节点 2, server: 172.67.207.57, port: 443, type: trojan, password: yaml777, sni: yaml7.ggff.net, skip-cert-verify: true, udp: true}
+  - {name: 美国 CloudFlare节点 3, server: 104.21.82.183, port: 8880, type: vmess, uuid: 5a7021e0-26b4-45d6-b175-fe551601ca97, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: server26.beheshtbaneh.com}}, udp: true}
+  - {name: 美国 CloudFlare节点 4, server: gost.cloudflare.182682.xyz, port: 80, type: vmess, uuid: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gost.naiunclient.top}}, udp: true}
+  - {name: 美国 CloudFlare节点 5, server: 104.17.213.241, port: 80, type: vmess, uuid: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gost.naiunclient.top}}, udp: true}
+  - {name: 美国 V2CROSS.COM, server: 108.165.152.71, port: 443, type: vmess, uuid: 3fd7b958-2161-46e1-b6fc-bd6bb2165312, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: shs.xiaoqi666.xyz}}, udp: true}
+  - {name: 美国 Xerox, server: 13.51.27.193, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
+  - {name: 美国 佐治亚州亚特兰大市BellSouth公司, server: e4e439b60689b67605b8644cd9061836.v1.cac.node-is.green, port: 40230, type: trojan, password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, sni: hk12.bilibili.com, skip-cert-verify: true, udp: true}
+  - {name: 美国 佐治亚州亚特兰大市BellSouth公司 2, server: 4ef4a8055936f6af032689618b72de33.v1.cac.node-is.green, port: 40230, type: trojan, password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, sni: hk12.bilibili.com, skip-cert-verify: true, udp: true}
+  - {name: 美国 加利福尼亚州森尼韦尔市PEG TECH公司, server: 142.0.134.244, port: 45017, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 美国 麻省理工学院, server: 18.133.107.134, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
   - {name: 美国2|@ripaojiedian, server: 65.75.193.154, port: 14491, type: trojan, password: ouo, sni: tr.koiok.us.kg, skip-cert-verify: true, network: ws, ws-opts: {path: "%2F%3Fed%3D2560", headers: {Host: tr.koiok.us.kg}}, udp: true}
-  - {name: 美国3|@ripaojiedian, server: 113.99.142.153, port: 17005, type: ss, cipher: aes-256-gcm, password: ZV4YVDAYK5O0H3QP, udp: true}
-  - {name: 美国5|@ripaojiedian, server: 113.99.142.152, port: 17008, type: ss, cipher: aes-256-gcm, password: P4RAHM7S01HTCHPW, udp: true}
-  - {name: "美国[01]", server: 107.149.238.99, port: 658, type: trojan, password: 1396996e-b36a-41d0-bda2-2962071fc90c, skip-cert-verify: true, udp: true}
-  - {name: "美国[02]中转", server: vip.baima360.com, port: 30104, type: ss, cipher: chacha20-ietf-poly1305, password: 1396996e-b36a-41d0-bda2-2962071fc90c, udp: true}
-  - {name: "美国[03]中转", server: vip.baima360.com, port: 17941, type: ss, cipher: chacha20-ietf-poly1305, password: 1396996e-b36a-41d0-bda2-2962071fc90c, udp: true}
-  - {name: "美国[04]", server: 45.83.140.22, port: 658, type: trojan, password: 1396996e-b36a-41d0-bda2-2962071fc90c, skip-cert-verify: true, udp: true}
+  - {name: 美国3|@ripaojiedian, server: blog.netsdddru.xyz, port: 3031, type: ss, cipher: chacha20-ietf-poly1305, password: 974ff236-21f2-42a3-b633-2b957061d767, udp: true}
+  - {name: "美国[01]", server: 107.149.238.99, port: 658, type: trojan, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, skip-cert-verify: true, udp: true}
+  - {name: "美国[02]中转", server: vip.baima360.com, port: 30104, type: ss, cipher: chacha20-ietf-poly1305, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, udp: true}
+  - {name: "美国[03]中转", server: vip.baima360.com, port: 17941, type: ss, cipher: chacha20-ietf-poly1305, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, udp: true}
+  - {name: "美国[04]", server: 45.83.140.22, port: 658, type: trojan, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, skip-cert-verify: true, udp: true}
   - {name: 美国|@ripaojiedian, server: usla.mjt000.com, port: 443, type: trojan, password: 1ba48a0e-af2e-45fb-9e15-2b2d4134657c, sni: usla.mjt000.com, skip-cert-verify: true, udp: true}
-  - {name: 英国 - 伦敦 - Amazon Technologies Inc. - 1, server: series-a2.varzesh360.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg, udp: true}
-  - {name: 英国 - 伦敦 - Amazon Technologies Inc. - 2, server: 18.133.105.230, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
-  - {name: 英国 - 伦敦 - Amazon Technologies Inc. - 3, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true}
-  - {name: 英国 - 伦敦 - Amazon Technologies Inc. - 4, server: freakconfig27.usecharge.ir, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true}
-  - {name: "英国 - 豪恩斯洛 - Cloudflare, Inc. - 5", server: 172.67.193.36, port: 443, type: trojan, password: CMLiussss, sni: xn--ihqr6fry8avpdn79betc.xn--cm-nk7c025a9uua2635cesu.us.kg, skip-cert-verify: true, network: ws, ws-opts: {path: "%2F%3Fed%3D2560", headers: {Host: xn--ihqr6fry8avpdn79betc.xn--cm-nk7c025a9uua2635cesu.us.kg}}, udp: true}
-  - {name: "英国[01]中转", server: vip.baima360.com, port: 10683, type: ss, cipher: chacha20-ietf-poly1305, password: 1396996e-b36a-41d0-bda2-2962071fc90c, udp: true}
+  - {name: 英国 - 伦敦 - Amazon Technologies Inc. - 1, server: 18.133.107.134, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
+  - {name: 英国 - 考文垂 - Stark Industries Solutions LTD - 2, server: nb.4.thap.xyz, port: 58707, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: "英国[01]中转", server: vip.baima360.com, port: 10683, type: ss, cipher: chacha20-ietf-poly1305, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, udp: true}
+  - {name: 荷兰 - Meppel - Stark Industries Solutions LTD - 1, server: nb.4.thap.xyz, port: 58168, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 荷兰 - 阿姆斯特丹 - Asimo Networks B.V. - 2, server: nb.3.thap.xyz, port: 58134, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
   - {name: 荷兰 V2CROSS.COM, server: 91.199.84.112, port: 40380, type: vmess, uuid: 13364789-a8b2-4bcd-8df7-a794fb6f87e5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-  - {name: 越南 - 芽莊市 - DEVTTT - 1, server: std1.loadingip.com, port: 443, type: trojan, password: 94d219c9-1afc-4d42-b090-8b3794764380, skip-cert-verify: true, udp: true}
-  - {name: "越南[01]", server: pop.0f6fb14f-a1b9-47bd-ab24-5ade31ba8f4c.heima360.cc, port: 443, type: trojan, password: 1396996e-b36a-41d0-bda2-2962071fc90c, sni: pop.0f6fb14f-a1b9-47bd-ab24-5ade31ba8f4c.heima360.cc, skip-cert-verify: true, udp: true}
+  - {name: 菲律宾 - 马尼拉 - Kaopu Cloud HK Limited - 1, server: nb.4.thap.xyz, port: 58949, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 越南 - Bo - VNPT Corp - 1, server: 160.19.78.75, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Nk9asglDzHzjktVzTkvhaA, udp: true}
+  - {name: 越南 - Quận Phú Nhuận - MOZ-TECH - 3, server: soonvn.soon.guru, port: 40021, type: ss, cipher: chacha20-ietf-poly1305, password: 29fefcc3-9ae1-4e01-a1d0-534fc1671121, udp: true}
+  - {name: 越南 - 胡志明市 - Kaopu Cloud HK Limited - 2, server: nb.2.thap.xyz, port: 58275, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: "越南[01]", server: pop.0f6fb14f-a1b9-47bd-ab24-5ade31ba8f4c.heima360.cc, port: 443, type: trojan, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, sni: pop.0f6fb14f-a1b9-47bd-ab24-5ade31ba8f4c.heima360.cc, skip-cert-verify: true, udp: true}
   - {name: 越南|@ripaojiedian, server: vn.mjt000.com, port: 443, type: trojan, password: 1ba48a0e-af2e-45fb-9e15-2b2d4134657c, sni: vn.mjt000.com, skip-cert-verify: true, udp: true}
-  - {name: 阿拉伯联合酋长国 - 迪拜 - Amazon Technologies Inc. - 1, server: series-a2-mec.varzesh360.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c, udp: true}
-  - {name: 韩国 - 首尔特别市 - Amazon Technologies Inc. - 1, server: 54.180.232.93, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 韩国 - 首尔特别市 - Amazon Technologies Inc. - 4, server: 13.125.90.251, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 韩国 - 首尔特别市 - Amazon Technologies Inc. - 5, server: 52.79.248.193, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: "韩国 - 首尔特别市 - Amazon.com, Inc. - 2", server: 3.34.255.220, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: "韩国 - 首尔特别市 - Amazon.com, Inc. - 3", server: 3.38.182.255, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: "韩国 - 首尔特别市 - Amazon.com, Inc. - 6", server: 43.203.141.93, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: "韩国 - 首尔特别市 - Amazon.com, Inc. - 7", server: 43.203.122.162, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 韩国 - 首尔特别市 - Oracle Corporation - 8, server: 146.56.140.99, port: 443, type: trojan, password: 9d0a75d2-f747-4afa-b43f-d208af9e8f9a, sni: kr04.ssr.ee, skip-cert-verify: true, udp: true}
-  - {name: "韩国[01]", server: 107.148.58.157, port: 558, type: trojan, password: 1396996e-b36a-41d0-bda2-2962071fc90c, skip-cert-verify: true, udp: true}
-  - {name: 韩国特殊|@ripaojiedian, server: 3.36.126.174, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 阿拉伯联合酋长国 - 富吉拉 - Melbikomas UAB - 1, server: nb.1.thap.xyz, port: 58369, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 阿根廷 - 罗萨里奥 - Dattatec.com - 1, server: nb.2.thap.xyz, port: 58991, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: 韩国 - 首尔特别市 - Amazon Technologies Inc. - 1, server: 52.79.248.193, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: "韩国 - 首尔特别市 - Amazon.com, Inc. - 2", server: 43.200.1.13, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: "韩国 - 首尔特别市 - Amazon.com, Inc. - 3", server: 3.38.212.48, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: "韩国 - 首尔特别市 - Amazon.com, Inc. - 4", server: 3.36.65.244, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 韩国 - 首尔特别市 - MOACK.Co.LTD - 5, server: soonkr.soon.guru, port: 40032, type: ss, cipher: chacha20-ietf-poly1305, password: 29fefcc3-9ae1-4e01-a1d0-534fc1671121, udp: true}
+  - {name: "韩国[01]", server: 107.148.58.157, port: 558, type: trojan, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, skip-cert-verify: true, udp: true}
+  - {name: 韩国特殊|@ripaojiedian, server: 43.202.1.19, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: 香港 101 - 墙了个墙, server: hkvip101.qlgq.fun, port: 12249, type: trojan, password: 3c668456-cc9c-3392-9014-0f73e5a09bb3, sni: hkvip101.qlgq.fun, skip-cert-verify: true, udp: true}
   - {name: 香港 102 - 墙了个墙, server: hkvip101.qlgq.fun, port: 22249, type: trojan, password: 3c668456-cc9c-3392-9014-0f73e5a09bb3, sni: hkvip101.qlgq.fun, skip-cert-verify: true, udp: true}
   - {name: 香港 103 - 墙了个墙, server: hkvip102.qlgq.fun, port: 32249, type: trojan, password: 3c668456-cc9c-3392-9014-0f73e5a09bb3, sni: hkvip102.qlgq.fun, skip-cert-verify: true, udp: true}
@@ -182,17 +232,20 @@ proxies:
   - {name: 香港 108 - 墙了个墙, server: hkvip104.qlgq.fun, port: 46216, type: trojan, password: 3c668456-cc9c-3392-9014-0f73e5a09bb3, sni: hkvip104.qlgq.fun, skip-cert-verify: true, udp: true}
   - {name: 香港 109 - 墙了个墙, server: hkvip105.qlgq.fun, port: 41116, type: trojan, password: 3c668456-cc9c-3392-9014-0f73e5a09bb3, sni: hkvip105.qlgq.fun, skip-cert-verify: true, udp: true}
   - {name: 香港 110 - 墙了个墙, server: hkvip105.qlgq.fun, port: 51116, type: trojan, password: 3c668456-cc9c-3392-9014-0f73e5a09bb3, sni: hkvip105.qlgq.fun, skip-cert-verify: true, udp: true}
+  - {name: 香港 环球全域电讯国际互联节点, server: 218.190.230.207, port: 42534, type: trojan, password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856, sni: hk12.bilibili.com, skip-cert-verify: true, udp: true}
   - {name: 香港2|@ripaojiedian, server: 36.151.192.203, port: 25241, type: trojan, password: QwwHvrnN, skip-cert-verify: true, udp: true}
-  - {name: 香港3|@ripaojiedian, server: 219.135.227.209, port: 15011, type: ss, cipher: aes-256-gcm, password: ANTGT74MO57KLLLE, udp: true}
-  - {name: 香港4|@ripaojiedian, server: 219.135.227.209, port: 15015, type: ss, cipher: aes-256-gcm, password: 9UB4OF8WZ0YXIPBD, udp: true}
+  - {name: 香港3|@ripaojiedian, server: fiwejniavzoj.xn--fiqs8sjz2bull.com, port: 64667, type: vmess, uuid: c8963961-034c-4ac5-bc9a-6c76900eeb2b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 香港4|@ripaojiedian, server: naiu-hk.05vr9nyqg5.download, port: 13007, type: trojan, password: 3bb73c5b-2500-484a-8ee4-68aaca381a6d, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true, udp: true}
   - {name: 香港5|@ripaojiedian, server: 18.162.246.4, port: 18443, type: trojan, password: ouo, sni: tr.koiok.us.kg, skip-cert-verify: true, network: ws, ws-opts: {path: "%2F%3Fed%3D2560", headers: {Host: tr.koiok.us.kg}}, udp: true}
-  - {name: 香港6|@ripaojiedian, server: hk1.tiljkc.top, port: 39041, type: vmess, uuid: 92dae006-a1bd-3eea-837e-64c8d09ab291, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 香港6|@ripaojiedian, server: hk1.tiljkc.top, port: 39041, type: vmess, uuid: d1063964-2b13-372c-9b45-28f356e844aa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 香港7|@ripaojiedian, server: 183.236.51.23, port: 46602, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: "香港[01]", server: 107.149.254.26, port: 158, type: trojan, password: 1396996e-b36a-41d0-bda2-2962071fc90c, skip-cert-verify: true, udp: true}
-  - {name: "香港[04]中转", server: vip.baima360.com, port: 65519, type: ss, cipher: chacha20-ietf-poly1305, password: 1396996e-b36a-41d0-bda2-2962071fc90c, udp: true}
-  - {name: "香港[05]中转", server: vip.baima360.com, port: 36511, type: ss, cipher: chacha20-ietf-poly1305, password: 1396996e-b36a-41d0-bda2-2962071fc90c, udp: true}
-  - {name: "香港[06]", server: 107.149.254.26, port: 159, type: trojan, password: 1396996e-b36a-41d0-bda2-2962071fc90c, skip-cert-verify: true, udp: true}
-  - {name: "香港[07]中转", server: vip.baima360.com, port: 36214, type: ss, cipher: chacha20-ietf-poly1305, password: 1396996e-b36a-41d0-bda2-2962071fc90c, udp: true}
+  - {name: "香港[01]", server: 107.149.254.26, port: 158, type: trojan, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, skip-cert-verify: true, udp: true}
+  - {name: "香港[04]中转", server: vip.baima360.com, port: 65519, type: ss, cipher: chacha20-ietf-poly1305, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, udp: true}
+  - {name: "香港[05]中转", server: vip.baima360.com, port: 36511, type: ss, cipher: chacha20-ietf-poly1305, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, udp: true}
+  - {name: "香港[06]", server: 107.149.254.26, port: 159, type: trojan, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, skip-cert-verify: true, udp: true}
+  - {name: "香港[07]中转", server: vip.baima360.com, port: 36214, type: ss, cipher: chacha20-ietf-poly1305, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, udp: true}
   - {name: 香港|@ripaojiedian, server: 36.151.192.239, port: 42395, type: trojan, password: DNUMdmnJ, skip-cert-verify: true, udp: true}
-  - {name: "马来西亚[01]", server: 103.75.189.152, port: 100, type: trojan, password: 1396996e-b36a-41d0-bda2-2962071fc90c, skip-cert-verify: true, udp: true}
-  - {name: "马来西亚[02]", server: 103.75.188.189, port: 101, type: trojan, password: 1396996e-b36a-41d0-bda2-2962071fc90c, skip-cert-verify: true, udp: true}
+  - {name: 马来西亚 - 吉隆坡 - Kaopu Cloud HK Limited - 1, server: nb.1.thap.xyz, port: 58114, type: ss, cipher: chacha20-ietf-poly1305, password: 4fe4c684-43c2-4544-8cb2-de56b79a3bcf, udp: true}
+  - {name: "马来西亚[01]", server: 103.75.189.152, port: 100, type: trojan, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, skip-cert-verify: true, udp: true}
+  - {name: "马来西亚[02]", server: 103.75.188.189, port: 101, type: trojan, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, skip-cert-verify: true, udp: true}
+  - {name: "马来西亚[03]", server: pop.b948e846-1f05-4fca-8784-e7f30bb512c3.heima360.cc, port: 443, type: trojan, password: f94dd9f5-eb13-493f-97cf-de31fd61ef01, sni: pop.b948e846-1f05-4fca-8784-e7f30bb512c3.heima360.cc, skip-cert-verify: true, udp: true}
