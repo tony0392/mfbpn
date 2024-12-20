@@ -53,8 +53,6 @@ sniffer:
     - courier.push.apple.com
     - Mijia Cloud
 proxies:
-  - {name: TG@WFVPN 俄罗斯1, server: 1111-2222.0037.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com, port: 50193, type: vmess, uuid: 996ee9ca-f721-33f6-8a26-ed27df4975f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: TG@WFVPN 加拿大1, server: 1111-2222.0048.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com, port: 48764, type: vmess, uuid: 996ee9ca-f721-33f6-8a26-ed27df4975f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: TG@WFVPN 印度1, server: 1111-2222.0001.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com, port: 53845, type: vmess, uuid: 996ee9ca-f721-33f6-8a26-ed27df4975f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: TG@WFVPN 台湾1, server: vmvmvm123.jmvks.cn, port: 30003, type: ss, cipher: aes-256-gcm, password: ee25411c-4e6b-4f91-b026-07e017d9da81, udp: true}
   - {name: TG@WFVPN 台湾1 2, server: 1111-2222.0001.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com, port: 41765, type: vmess, uuid: 996ee9ca-f721-33f6-8a26-ed27df4975f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -101,6 +99,7 @@ proxies:
   - {name: TG@WFVPN 法国2, server: vmvm123.umgtb.cn, port: 30008, type: ss, cipher: aes-256-gcm, password: ee25411c-4e6b-4f91-b026-07e017d9da81, udp: true}
   - {name: TG@WFVPN 泰国1, server: 1111-2222.0040.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com, port: 48414, type: vmess, uuid: 996ee9ca-f721-33f6-8a26-ed27df4975f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: TG@WFVPN 澳大利亚1, server: 1111-2222.0018.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com, port: 60317, type: vmess, uuid: 996ee9ca-f721-33f6-8a26-ed27df4975f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: TG@WFVPN 澳大利亚2, server: overseas01.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com, port: 60317, type: vmess, uuid: 996ee9ca-f721-33f6-8a26-ed27df4975f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: TG@WFVPN 瑞士1, server: 1111-2222.0051.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com, port: 21961, type: vmess, uuid: 996ee9ca-f721-33f6-8a26-ed27df4975f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: TG@WFVPN 美国1, server: vmvmvm123.jmvks.cn, port: 30005, type: ss, cipher: aes-256-gcm, password: ee25411c-4e6b-4f91-b026-07e017d9da81, udp: true}
   - {name: TG@WFVPN 美国1 2, server: 1111-2222.0007.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com, port: 47602, type: vmess, uuid: 996ee9ca-f721-33f6-8a26-ed27df4975f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -223,37 +222,14 @@ proxies:
   - {name: "[Pro]TW-台湾-3-2x", server: aiatw3.primeconectin.pro, port: 1203, type: ssr, cipher: chacha20-ietf, password: mtbv8n, protocol: auth_aes128_md5, obfs: plain, protocol-param: 111885:jfbyThoJPUU, obfs-param: ef6c8111885.wns.windows.com, udp: true}
   - {name: "[Pro]TW-台湾-4-2x", server: aiatw4.primeconectin.pro, port: 1204, type: ssr, cipher: chacha20-ietf, password: mtbv8n, protocol: auth_aes128_md5, obfs: plain, protocol-param: 111885:jfbyThoJPUU, obfs-param: ef6c8111885.wns.windows.com, udp: true}
   - {name: "[Pro]TW-台湾-5-2x", server: aiatw5.primeconectin.pro, port: 1205, type: ssr, cipher: chacha20-ietf, password: mtbv8n, protocol: auth_aes128_md5, obfs: plain, protocol-param: 111885:jfbyThoJPUU, obfs-param: ef6c8111885.wns.windows.com, udp: true}
-  - {name: "[Pro]TW-台湾-6-2x", server: aiatw6.primeconectin.pro, port: 1206, type: ssr, cipher: chacha20-ietf, password: mtbv8n, protocol: auth_aes128_md5, obfs: plain, protocol-param: 111885:jfbyThoJPUU, obfs-param: ef6c8111885.wns.windows.com, udp: true}
+  - {name: "[Pro]TW-台湾-6-2x", server: aiatw6.primeconectin.pro, port: 1206, type: ssr, cipher: chacha20-ietf, password: mtbv8n, protocol: auth_aes128_md5, obfs: plain, protocol-param: "111885:jfbyThoJPUU��,:��'#�#\"\"�'\x07#�%\x05\x04�\x0e�\x0e��\x12\"�", obfs-param: ef6c8111885.wns.windows.com, udp: true}
   - {name: "[Pro]UK-英国-1-2x", server: cucsuk1.vip.primeconectin.pro, port: 1351, type: ssr, cipher: chacha20-ietf, password: mtbv8n, protocol: auth_aes128_md5, obfs: plain, protocol-param: 111885:jfbyThoJPUU, obfs-param: ef6c8111885.wns.windows.com, udp: true}
   - {name: "[Pro]UK-英国-2-2x", server: shuk2.vip.primeconectin.pro, port: 1352, type: ssr, cipher: chacha20-ietf, password: mtbv8n, protocol: auth_aes128_md5, obfs: plain, protocol-param: 111885:jfbyThoJPUU, obfs-param: ef6c8111885.wns.windows.com, udp: true}
   - {name: "[Pro]US-美国-1-2x", server: relayus1.vip.primeconectin.pro, port: 1401, type: ssr, cipher: chacha20-ietf, password: mtbv8n, protocol: auth_aes128_md5, obfs: plain, protocol-param: 111885:jfbyThoJPUU, obfs-param: ef6c8111885.wns.windows.com, udp: true}
   - {name: "[Pro]US-美国-2-2x", server: relayus2.vip.primeconectin.pro, port: 1402, type: ssr, cipher: chacha20-ietf, password: mtbv8n, protocol: auth_aes128_md5, obfs: plain, protocol-param: 111885:jfbyThoJPUU, obfs-param: ef6c8111885.wns.windows.com, udp: true}
   - {name: "[Pro]US-美国-3-2x", server: relayus3.vip.primeconectin.pro, port: 1403, type: ssr, cipher: chacha20-ietf, password: mtbv8n, protocol: auth_aes128_md5, obfs: plain, protocol-param: 111885:jfbyThoJPUU, obfs-param: ef6c8111885.wns.windows.com, udp: true}
-  - {name: "[Pro]US-美国-4-2x", server: relayus4.vip.primeconectin.pro, port: 1404, type: ssr, cipher: chacha20-ietf, password: mtbv8n, protocol: auth_aes128_md5, obfs: plain, protocol-param: 111885:jfbyThoJPUU, obfs-param: ef6c8111885.wns.windows.com, udp: true}
+  - {name: "[Pro]US-美国-4-2x", server: relayus4.vip.primeconectin.pro, port: 1404, type: ssr, cipher: chacha20-ietf, password: mtbv8n, protocol: auth_aes128_md5, obfs: plain, protocol-param: "111885:jfbyThoJPUU��,:��'#�#\"\"�'\x07#�%\x05\x04�\x0e�{�~�\x12\"�", obfs-param: ef6c8111885.wns.windows.com, udp: true}
   - {name: "[Pro]VN-越南-1-2x", server: aiavnd1.vip.primeconectin.pro, port: 1611, type: ssr, cipher: chacha20-ietf, password: mtbv8n, protocol: auth_aes128_md5, obfs: plain, protocol-param: 111885:jfbyThoJPUU, obfs-param: ef6c8111885.wns.windows.com, udp: true}
-  - {name: 台湾|@ripaojiedian, server: i.needss.top, port: 20016, type: vmess, uuid: aa44bc1f-3085-4e33-96e4-fcfc5a18a688, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 新加坡2|@ripaojiedian, server: sg1.tiljkc.top, port: 34842, type: vmess, uuid: c1ae98ab-35aa-36bf-b317-857006d2fdfb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 新加坡|@ripaojiedian, server: 219.135.227.209, port: 16015, type: ss, cipher: aes-256-gcm, password: CVPPFA5LEN1NRWWO, udp: true}
-  - {name: 日本2|@ripaojiedian, server: jp1.tiljkc.top, port: 38951, type: vmess, uuid: c1ae98ab-35aa-36bf-b317-857006d2fdfb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 日本3|@ripaojiedian, server: 156.231.104.21, port: 18011, type: ss, cipher: aes-256-gcm, password: 9ZEB8Z1ZXEUHAGUH, udp: true}
-  - {name: 日本4|@ripaojiedian, server: 156.231.104.11, port: 18001, type: ss, cipher: aes-256-gcm, password: 0JP2PNY1VIZVNSRJ, udp: true}
-  - {name: 日本|@ripaojiedian, server: 219.135.227.209, port: 18009, type: ss, cipher: aes-256-gcm, password: YD5ETBMPY0O6L2A9, udp: true}
-  - {name: 日本特殊|@ripaojiedian, server: 43.203.141.93, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 法国|@ripaojiedian, server: 2.182.174.21, port: 9090, type: vmess, uuid: fddf88ed-8c70-42ad-c12e-5f40841e6f00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 狮城特殊|@ripaojiedian, server: 3.38.212.48, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 狮城特殊|@ripaojiedian 2, server: 3.38.212.48, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 美国2|@ripaojiedian, server: xdd.dashuai.cyou, port: 45053, type: vmess, uuid: 5f60da64-5a9a-4fe3-925d-4dd45084816e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 美国|@ripaojiedian, server: 36.151.192.239, port: 42395, type: trojan, password: DNUMdmnJ, sni: h.522226.xyz, skip-cert-verify: true, udp: true}
-  - {name: 越南|@ripaojiedian, server: vn.mjt000.com, port: 443, type: trojan, password: 1ba48a0e-af2e-45fb-9e15-2b2d4134657c, sni: vn.mjt000.com, skip-cert-verify: true, udp: true}
-  - {name: 韩国|@ripaojiedian, server: i.needss.top, port: 20021, type: vmess, uuid: aa44bc1f-3085-4e33-96e4-fcfc5a18a688, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 韩国特殊|@ripaojiedian, server: 52.79.248.193, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 香港2|@ripaojiedian, server: 223.113.54.145, port: 36442, type: trojan, password: QwwHvrnN, skip-cert-verify: true, udp: true}
-  - {name: 香港3|@ripaojiedian, server: 219.135.227.209, port: 15007, type: ss, cipher: aes-256-gcm, password: KGPWD7ZZY2F0ZYPY, udp: true}
-  - {name: 香港4|@ripaojiedian, server: 120.198.71.214, port: 34493, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 香港5|@ripaojiedian, server: 183.236.51.23, port: 51704, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 香港6|@ripaojiedian, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: e514e283-fa04-446e-a655-b854da829375, udp: true}
-  - {name: 香港7|@ripaojiedian, server: 183.236.51.23, port: 46602, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 香港8|@ripaojiedian, server: hk1.tiljkc.top, port: 39041, type: vmess, uuid: c1ae98ab-35aa-36bf-b317-857006d2fdfb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 节点选择
     type: select
@@ -263,8 +239,6 @@ proxy-groups:
       - cloudflare
       - google
       - gstatic
-      - TG@WFVPN 俄罗斯1
-      - TG@WFVPN 加拿大1
       - TG@WFVPN 印度1
       - TG@WFVPN 台湾1
       - TG@WFVPN 台湾1 2
@@ -311,6 +285,7 @@ proxy-groups:
       - TG@WFVPN 法国2
       - TG@WFVPN 泰国1
       - TG@WFVPN 澳大利亚1
+      - TG@WFVPN 澳大利亚2
       - TG@WFVPN 瑞士1
       - TG@WFVPN 美国1
       - TG@WFVPN 美国1 2
@@ -441,29 +416,6 @@ proxy-groups:
       - "[Pro]US-美国-3-2x"
       - "[Pro]US-美国-4-2x"
       - "[Pro]VN-越南-1-2x"
-      - 台湾|@ripaojiedian
-      - 新加坡2|@ripaojiedian
-      - 新加坡|@ripaojiedian
-      - 日本2|@ripaojiedian
-      - 日本3|@ripaojiedian
-      - 日本4|@ripaojiedian
-      - 日本|@ripaojiedian
-      - 日本特殊|@ripaojiedian
-      - 法国|@ripaojiedian
-      - 狮城特殊|@ripaojiedian
-      - 狮城特殊|@ripaojiedian 2
-      - 美国2|@ripaojiedian
-      - 美国|@ripaojiedian
-      - 越南|@ripaojiedian
-      - 韩国|@ripaojiedian
-      - 韩国特殊|@ripaojiedian
-      - 香港2|@ripaojiedian
-      - 香港3|@ripaojiedian
-      - 香港4|@ripaojiedian
-      - 香港5|@ripaojiedian
-      - 香港6|@ripaojiedian
-      - 香港7|@ripaojiedian
-      - 香港8|@ripaojiedian
   - name: 自动选择
     type: url-test
     url: https://www.pornhub.com
